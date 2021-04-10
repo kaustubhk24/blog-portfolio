@@ -363,7 +363,7 @@ var textContent = [
     links: [
       {
         link:
-          "https://play.google.com/store/apps/details?id=com.justinclicks.tictactoe&hl=en_IN&gl=US",
+          "https://play.google.com/store/apps/details?id=com.justinclicks.periodictable&hl=en_IN&gl=US",
           linkTitle: "Get it on Google Play Store"
       }
     ],
