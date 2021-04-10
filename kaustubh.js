@@ -155,9 +155,9 @@ var textContent = [
 "WordPress",
     links: [
       {
-        linkTitle:
-          "https://skelset.in/",
         link:
+          "https://skelset.in/",
+        linkTitle:
           "Visit"
       }
     ]
@@ -168,9 +168,9 @@ var textContent = [
 "WordPress",
     links: [
       {
-        linkTitle:
-          "https://www.beatthetrade.in/",
         link:
+          "https://www.beatthetrade.in/",
+        linkTitle:
           "Visit"
       }
     ]
@@ -181,9 +181,9 @@ var textContent = [
 "WordPress",
     links: [
       {
-        linkTitle:
-          "https://tusome.africa/",
         link:
+          "https://tusome.africa/",
+        linkTitle:
           "Visit"
       }
     ]
@@ -194,9 +194,9 @@ var textContent = [
 "WordPress",
     links: [
       {
-        linkTitle:
-          "http://consult.do/",
         link:
+          "http://consult.do/",
+        linkTitle:
           "Visit"
       }
     ]
@@ -207,9 +207,9 @@ var textContent = [
 "WordPress",
     links: [
       {
-        linkTitle:
-          "https://punavastu.com/",
         link:
+          "https://punavastu.com/",
+        linkTitle:
           "Visit"
       }
     ]
@@ -221,9 +221,9 @@ var textContent = [
     links: [
       {
         linkTitle:
-          "https://www.nguyen-kai.com/",
+          "Visit",
         link:
-          "Visit"
+          "https://www.nguyen-kai.com/"
       }
     ]
   },
