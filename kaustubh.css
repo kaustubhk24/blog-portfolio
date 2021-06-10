@@ -379,7 +379,6 @@ input[type="text"] {
   cursor: pointer;
   padding: 11px 14px;
   font-size: 12px;
-  width: 15%;
   text-overflow: ellipsis;
   display: flex;
   align-items: center;
