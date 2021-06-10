@@ -29,6 +29,20 @@
 </style>
 
 <body>
+  <!----------MODAL----->
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p id="modl_msg"></p>
+  </div>
+
+</div>
+
+  <!----------MODAL----->
 
   <div class="wall">
     <div class="container">
@@ -50,7 +64,7 @@
         </div>
       </div>
 
-      <div class="content">
+      <div id="content" class="content">
 
         <div class="side-bar" id="side">
 
@@ -91,10 +105,12 @@
           <button class="tablink" onclick="openPage('News', this, 'projects.md')"><img style="height: 14px;"
               src="imgs/html5.svg" class="img-file" /> <span>projects.md</span></button>
          
-          <button class="tablink" onclick="openPage('Open-Source', this, 'Open-Source.html')"><img style="height: 14px;"
-              src="imgs/markdown.svg" class="img-file" /> <span>Open-source.html</span></button>
+          <button class="tablink" onclick="openPage('Open-Source', this, 'Open-Source.html (Live Preview)')"><img style="height: 14px;"
+              src="imgs/markdown.svg" class="img-file" /> <span>Open-source.html (Live Preview)</span></button>
               <button class="tablink" onclick="openPage('Resume', this, 'resume.pdf')"><img style="height: 14px;"
                 src="imgs/markdown.svg" class="img-file" /> <span>resume.pdf</span></button>
+                <button class="tablink" onclick="openPage('Mystery', this, 'magic.html')"><img style="height: 14px;"
+                  src="imgs/markdown.svg" class="img-file" /> <span>magic.html</span></button>
           <div id="Home" class="tabcontent">
 
             <!-- -->
@@ -129,6 +145,18 @@
             <object data="Downloads/Kaustubh Kulkarni CV.pdf" type="application/pdf" width="100%" height="100%">
               <a href="Downloads/Kaustubh Kulkarni CV.pdf">Kaustubh Kulkarni CV.pdf</a>
               </object>
+
+          </div>
+          <div id="Mystery" class="tabcontent">
+            
+            <div class="line"> <span>1</span>
+              <p class="">/* This file can not opened here, Please click below to open file */</p>
+            </div>
+            <div class="line"> <span>2</span>
+            </div>
+            <div class="line"> <span>3</span>
+              <p class="css-val"> <i class="css-val"><a href="/old/mystery/index.html"" target="_blank" rel="noopener noreferrer">Click Here to Launch file</a></i></p>
+            </div>
 
           </div>
 
@@ -242,28 +270,28 @@
         <ul>
            <li>
              <span>Visual Studio Code</span>
-             <a href="#"><img src="imgs/vs-code.svg"/></a>
-           </li>
+             <img id="vs-code" onclick="StartModel('vs-code','VS Code is already Open');" src="imgs/vs-code.svg"/>
+            </li>
            <li>
              <span>App Store</span>
-             <a href="#"><img src="imgs/App Store.svg"/></a>
-           </li>
+             <img id="app-store" onclick="StartModel('app-store','App Store is not installed');" src="imgs/App Store.svg"/>
+            </li>
            <li>
               <span>Chrome</span>
-              <a href="#"><img src="imgs/chrome.svg"/></a>
+             <img id="chrome" onclick="StartModel('chrome','Chrome is not installed');" src="imgs/chrome.svg"/>
            </li>
            <li>
             <span>Android Studio</span>
-            <a href="#"><img src="imgs/Android Studio.svg"/></a>
-         </li>
+            <img id="studio" onclick="StartModel('studio','Android is not installed');" src="imgs/Android Studio.svg"/>
+          </li>
            <li>
               <span>Firefox</span>
-              <a href="#"><img src="imgs/firefox.svg"/></a>
-           </li>
+              <img id="firefox" onclick="StartModel('firefox','Firefox is not installed');" src="imgs/firefox.svg"/>
+            </li>
            <li>
             <span>Mail</span>
-            <a href="#"><img src="imgs/mail.svg"/></a>
-         </li>
+            <img id="mail" onclick="StartModel('mail','Mail is not installed');" src="imgs/mail.svg"/>
+          </li>
         </ul>
       </div>
      </div>
