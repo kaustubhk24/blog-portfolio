@@ -8154,3 +8154,12 @@ main {
 main .blog-posts-wrapper .blog-post-thumbnail{
   border-radius: 10px;
 }
+
+.icon-box {
+  background-color: aliceblue;
+  padding: 10px;
+  
+  padding-top: 15px;
+  border-radius: 10px;
+}
+
