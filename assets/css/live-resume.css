@@ -8163,3 +8163,6 @@ main .blog-posts-wrapper .blog-post-thumbnail{
   border-radius: 10px;
 }
 
+.collapsible-nav.show {
+  width: 400px !important;
+}
