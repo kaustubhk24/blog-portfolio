@@ -1,3 +1,7 @@
+@font-face {
+  font-family: 'CooperLight';
+  src: url('../fonts/CooperLightBT.ttf');
+}
 
 :root {
   --blue: #007bff;
@@ -47,7 +51,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: "Mukta", sans-serif;
+  font-family: "CooperLight", sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -4492,7 +4496,7 @@ a.close.disabled {
   z-index: 1070;
   display: block;
   margin: 0;
-  font-family: "Mukta", sans-serif;
+  font-family: "CooperLight", sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -4577,7 +4581,7 @@ a.close.disabled {
   z-index: 1060;
   display: block;
   max-width: 276px;
-  font-family: "Mukta", sans-serif;
+  font-family: "CooperLight", sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -7480,7 +7484,7 @@ aside .widget {
   border: 0;
   border-radius: 15px;
   font-size: 0.75rem;
-  font-weight: 500;
+  font-weight: 900;
   line-height: 1.67;
   height: 30px; }
   .btn-share:hover, .btn-share:focus, .btn-share:active {
@@ -7537,7 +7541,7 @@ header {
   margin-right: 10px;
   transition: width 0.6s ease-in-out; }
   .collapsible-nav.show {
-    width: 365px; }
+    width:auto; }
   @media (max-width: 991px) {
     .collapsible-nav {
       position: fixed;
@@ -7557,7 +7561,7 @@ header {
       box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.08); }
       .collapsible-nav.show {
         transform: translateX(0%);
-        width: 200px; } }
+        width: auto; } }
   .collapsible-nav .nav-link {
     font-size: 12px;
     font-weight: 600;
@@ -7686,24 +7690,19 @@ main {
         padding-bottom: 0; }
       main .time-line-item .badge {
         padding: 6px 10px;
-        font-size: 8px;
         font-weight: 500;
         line-height: 1;
         border-radius: 2px;
         margin-bottom: 8px; }
       main .time-line-item-title {
-        font-size: 12px;
         font-weight: 700;
         line-height: 1;
         margin-bottom: 2px; }
       main .time-line-item-subtitle {
-        font-size: 10px;
         font-weight: 500;
         line-height: 1.6;
-        color: #a7a7a7;
         margin-bottom: 3px; }
       main .time-line-item-content {
-        font-size: 10px;
         font-weight: 300;
         line-height: 1.6;
         margin-bottom: 0; }
@@ -7931,7 +7930,6 @@ main {
   main .contact-section {
     margin-bottom: 31px; }
     main .contact-section p {
-      font-size: 12px;
       font-weight: 300; }
   main .contact-cards-wrapper {
     display: flex;
@@ -8163,6 +8161,7 @@ main .blog-posts-wrapper .blog-post-thumbnail{
   border-radius: 10px;
 }
 
-.collapsible-nav.show {
-  width: 400px !important;
-}
+
+
+
+
