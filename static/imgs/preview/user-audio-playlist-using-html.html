@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        	<title>Songs Lists</title>
+    </head>
+    <body>
+      <center>
+       <div>
+      <audio id="myAd" controls>
+         <source id="firstAd" src="https://static-cdn.Kaustubh K..com/assets/audios/sample-audios/Breatha%20-%20josh%20pan.mp3" type="audio/mpeg">
+      </audio><br /></div>
+           </center>
+            <h3>Music Play-list! Click on Any song to start </h3>
+              <ol>
+                <li onclick="chgAudio('https://static-cdn.Kaustubh K..com/assets/audios/sample-audios/Spring%20In%20My%20Step%20-%20Silent%20Partner.mp3')">Spring In My Step</li>
+                    <li onClick="chgAudio('https://static-cdn.Kaustubh K..com/assets/audios/sample-audios/Breatha%20-%20josh%20pan.mp3')">Bretha - Josh</li>
+                    <li onClick="chgAudio('https://static-cdn.Kaustubh K..com/assets/audios/sample-audios/Calvin%20Harris%20-%20josh%20pan.mp3')">Calvin Harris Josh</li>
+                    <li onclick="chgAudio('https://static-cdn.Kaustubh K..com/assets/audios/sample-audios/Muriel%20-%20Bobby%20Richards.mp3')">Muriel - Bobby Richards</li>
+                    <li onclick="chgAudio('https://static-cdn.Kaustubh K..com/assets/audios/sample-audios/Phrase%20Prant%20-%20josh%20pan.mp3')">Phrase Prant</li>
+                    <li onclick="chgAudio('https://static-cdn.Kaustubh K..com/assets/audios/sample-audios/Voices%20-%20Patrick%20Patrikios.mp3')">Voices</li>
+                </ol>
+             	<script type="text/javascript">
+                  var ad = document.getElementById("myAd");
+                   function chgAudio(path)
+                  {
+                      document.getElementById("firstAd").src=path;
+                      document.getElementById("myAd").load();
+                      document.getElementById("myAd").currentTime=0;
+                      document.getElementById("myAd").play();
+                  }
+               </script>
+        </body>
+</html>
