@@ -22,7 +22,7 @@ module.exports = {
         },
         { to: 'blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://kaustubh.codes/Downloads/Kaustubh Kulkarni.pdf',
+          href: 'https://kaustubh.codes/Downloads/Kaustubh-Kulkarni.pdf',
           label: 'Download Resume',
           position: 'right',
         },
