@@ -61,7 +61,7 @@ When we buy hosting from any provider we get hosting with mostly [CPanel](https:
 How the big hosting companies work?
 
 
-![](http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Yellow-Illustrated-Web-Designer-Business-Card-1-1.png) 
+![](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/Yellow-Illustrated-Web-Designer-Business-Card-1-1.png) 
 
 What they exactly do is:
 

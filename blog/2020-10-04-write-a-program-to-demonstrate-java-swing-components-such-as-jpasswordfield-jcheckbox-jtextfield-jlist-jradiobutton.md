@@ -64,5 +64,5 @@ f.setVisible(true);
 Output: 
 
 
-[![](http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/a-300x169.png)](http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/a.png)
+[![](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/a-300x169.png)](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/a.png)
 

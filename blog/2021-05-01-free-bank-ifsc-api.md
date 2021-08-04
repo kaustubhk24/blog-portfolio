@@ -75,7 +75,7 @@ You will be get response in JSON , for example
 ```
 
 See Example
-![Free Bank IFSC API](http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-1024x408.png) 
+![Free Bank IFSC API](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-1024x408.png) 
 
 ## 2. API To Get Data By Selections
 
@@ -185,7 +185,7 @@ This will send a response of bank details in JSON format, for example
 ```
 
 See example
-![Free Bank IFSC API](http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-1-1024x372.png) 
+![Free Bank IFSC API](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-1-1024x372.png) 
 
 ## 3 . Get Excel File of Any Bank
 
@@ -212,7 +212,7 @@ https://bank-apis.justinclicks.com/API/V1/Excel/bank_name_1.xlsx
 see example
 
 
-![Free Bank IFSC API](http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-2-1024x369.png) 
+![Free Bank IFSC API](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-2-1024x369.png) 
 
 ## Video Guide
 

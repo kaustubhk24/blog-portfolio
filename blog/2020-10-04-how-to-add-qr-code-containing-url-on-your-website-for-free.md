@@ -17,7 +17,7 @@ slug: /how-to-add-qr-code-containing-url-on-your-website-for-free/
 
 
 ---
-[![](http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/chart-300x300.png)](http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/chart.png)
+[![](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/chart-300x300.png)](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/chart.png)
 
 Do you want to add FREE URL QR Code on all pages of your website for FREE?
 

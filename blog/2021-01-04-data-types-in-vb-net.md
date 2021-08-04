@@ -101,7 +101,7 @@ These are most commonly used data types in Visual Basic .NET
 ### **How do you declare in VB?**
 
 
-![Data Types in VB.NET](http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-6.png) 
+![Data Types in VB.NET](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-6.png) 
 
 
 

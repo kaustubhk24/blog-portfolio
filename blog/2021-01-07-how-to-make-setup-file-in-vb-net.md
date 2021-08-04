@@ -17,24 +17,24 @@ Now in this tutorial , we are making setup file of our recent Project [Tic Tac T
 ## Installing Required Extension
 
 Open Visual Studio ( We are using 2019 for this tutorial ) , Click on **Extension** and in **Search Box** type **Installer**, You will see option **Microsoft Visual Studio Installer Projects** , click on **Download** button Next to it.
-![How To Make Setup File in VB.NET](http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-10.png) 
+![How To Make Setup File in VB.NET](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-10.png) 
 
 You need to Close All Visual Studio windows to start installtion. Once installation is completed you can Open Visual Studio Again.
 
 ## Creating Installer 
 
 Click on **View** tab and Select **Solution explorer**, In **Solution Explorer** right **click** on solution name , Click on **Add -> New Projec**t from Next window select **Setup Project**,
-![How To Make Setup File in VB.NET](http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-12.png) 
+![How To Make Setup File in VB.NET](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-12.png) 
 
 Now Click on **Next** Button, Enter Setup Project Name and Click on **Create** Button.
 
 You will see file System, as below
-![How To Make Setup File in VB.NET](http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-13.png) 
+![How To Make Setup File in VB.NET](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-13.png) 
 
 You need Open Application Folder First and and right Click on Right window, select **Add -> Project Output** and select Option **Primary Output**.
 
 Now click **ok** button, next you need to you right click on **primary output** option we just added and select **create shortcut to primary output and project name now**, by right clicking on shortcut you can change name of shortcut. we need to create **two** shortcuts one for user's desktop and another for user's program menu,
-![How To Make Setup File in VB.NET](http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-14.png) 
+![How To Make Setup File in VB.NET](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-14.png) 
 
 When we create shortcut we can right click on shortcut select **properties** select **icon** and set .ico as icon file. now move that shortcuts to user's desktop and user's programs menu.
 
@@ -42,7 +42,7 @@ Download image .ico file for icon
 
 
 
-[Download Free](http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/tic-tac-toe-1.png) 
+[Download Free](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/tic-tac-toe-1.png) 
 
 
 
@@ -64,14 +64,14 @@ rebuild all 2 success 0 failed or 0 skipped
 If you see option **3 rebuild all 2 success 0 failed or 0 skipped**, then your setup.msi and setup.exe is ready,
 
 but if not , then must be **error ,message**or **warning**, here we have warning, see image below,
-![How To Make Setup File in VB.NET](http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-15.png) 
+![How To Make Setup File in VB.NET](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-15.png) 
 
 After fixing this message / warning, click rebuild again. & Done , You just created **Setup.msi** and **Setup.exe**
 
 ## Locating Setup Files
 
 To locate the file Open **Solution Explorer** -> Right click on **Setup Project** -> and See **Open in Explorer** , Check debug folder there you can see your setup files.
-![How To Make Setup File in VB.NET](http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-16.png) 
+![How To Make Setup File in VB.NET](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-16.png) 
 
 If you are NOT able to access this option , Open **Windows File Explorer** and Open Path below.
 
@@ -83,7 +83,7 @@ C:\Users\username\source\repos\Tic Tac Toe\Setup1\Debug
 ## Installing Setup File
 
 Installing setup is very easy , Double click on **setup.msi** or **setup.exe** and just click next,next and done.
-![How To Make Setup File in VB.NET](http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-17.png) 
+![How To Make Setup File in VB.NET](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-17.png) 
 
 or You can install easily by Right Clicking Setup in solution explorer and select install button, that's it.
 

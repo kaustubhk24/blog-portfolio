@@ -11,7 +11,7 @@ slug: /select-all/
 Query all columns (attributes) for every row in the�**CITY**�table.
 
 The�**CITY**�table is described as follows:
-![](http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/sql-1.jpg) 
+![](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/03/sql-1.jpg) 
 
 Answer :
 

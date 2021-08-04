@@ -16,7 +16,7 @@ In this tutorial we will make Mini Project VB.NET for denomination. User will en
 ## Making UI
 
 First you need to make UI, Now make UI like below, name textbox like t2000,t500,t200 upto t1.
-![Mini Project in VB.NET Denomination](http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-4.png) 
+![Mini Project in VB.NET Denomination](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-4.png) 
 
 ## Code
 

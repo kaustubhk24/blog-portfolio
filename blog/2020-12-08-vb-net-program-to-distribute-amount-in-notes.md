@@ -14,7 +14,7 @@ slug: /vb-net-program-to-distribute-amount-in-notes/
 We are going to write VB.NET Program to Distribute Amount in Notes.
 
 Design screen like below
-![VB.NET Program to Distribute Amount in Notes ](http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-2.png) 
+![VB.NET Program to Distribute Amount in Notes ](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-2.png) 
 
 Now double click on screen and Add this code in **form1.vb**
 
@@ -87,6 +87,6 @@ End Class
 ```
 
 Output:
-![VB.NET Program to Distribute Amount in Notes ](http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-3-1024x460.png) 
+![VB.NET Program to Distribute Amount in Notes ](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-3-1024x460.png) 
 
 Get same program in [Java here.](https://blog.kaustubh.codes/distribute-amount-in-notes/)

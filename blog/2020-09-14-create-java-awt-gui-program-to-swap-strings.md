@@ -85,5 +85,5 @@ public class me {
 Output: 
 
 
-[![](http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/09/Screenshot-2Bfrom-2B2020-09-14-2B10-33-44-300x169.png)](http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/09/Screenshot-2Bfrom-2B2020-09-14-2B10-33-44.png)
+[![](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/09/Screenshot-2Bfrom-2B2020-09-14-2B10-33-44-300x169.png)](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/09/Screenshot-2Bfrom-2B2020-09-14-2B10-33-44.png)
 

@@ -27,7 +27,7 @@ If you don't know how access your DigitalOcean droplet. Please read [this articl
 ## Installing Required Packages
 
 Ubuntu server does NOT comes with GUI. We need to install GUI.
-![How To Use GUI in DigitalOcean Droplet](http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-17.png) 
+![How To Use GUI in DigitalOcean Droplet](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-17.png) 
 
 ```vb title="file.vb"
 $ sudo apt update
@@ -50,7 +50,7 @@ $ tasksel install ubuntu-desktop
 ```
 
 
-![How To Use GUI in DigitalOcean Droplet](http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-16.png)
+![How To Use GUI in DigitalOcean Droplet](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-16.png)
 
 
 This will install desktop GUI. After installing we need to reboot droplet. To reboot execute,
@@ -62,7 +62,7 @@ $ sudo reboot
 After rebooting it will open, in GUI. 
 
 Now you will need to follow and complete the wizard. That's it done! 
-![How To Use GUI in DigitalOcean Droplet](http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-18.png) 
+![How To Use GUI in DigitalOcean Droplet](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-18.png) 
 
 If you still have issues watch video version below.
 

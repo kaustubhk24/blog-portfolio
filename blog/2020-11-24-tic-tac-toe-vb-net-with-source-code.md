@@ -20,7 +20,7 @@ Let's see How to make Tic Tac Toe VB.NET With Source Code?
 # Creating Project
 
 First Create a Project and make design like below
-![Tic  Tac Toe VB.NET With Source Code](http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-21.png) 
+![Tic  Tac Toe VB.NET With Source Code](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-21.png) 
 
 Enter code below 
 

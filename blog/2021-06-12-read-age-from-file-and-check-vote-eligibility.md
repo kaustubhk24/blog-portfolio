@@ -29,4 +29,4 @@ checkAge(data[0],data[1])
 ```
 
 ** Output > **
-![Output](http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/06/image.png "Output")
+![Output](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/06/image.png "Output")

@@ -106,7 +106,7 @@ You can also create a free blog using Free domain and hosting, You can get free 
 Hence it is not recommended to use, Now after reading this if you still want to make blog in Free domain and Free hosting Let's Get started Here
 
 ## GitHub Pages {#github-pages}
-![](http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA-1024x576.jpeg) 
+![](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA-1024x576.jpeg) 
 
 
 
@@ -131,7 +131,7 @@ If you are technically good, then you can go for [GitHub Pages](https://pages.gi
 Now after reading this if you want to make blog on Github Pages, Let's Get started Here
 
 ## Medium {#medium}
-![](http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-1024x512.jpeg) 
+![](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-1024x512.jpeg) 
 
 Medium is Free to use But you can not advertise here, You will get paid when their premium subscribers reads your post (story). They also provide premium plans also.
 
