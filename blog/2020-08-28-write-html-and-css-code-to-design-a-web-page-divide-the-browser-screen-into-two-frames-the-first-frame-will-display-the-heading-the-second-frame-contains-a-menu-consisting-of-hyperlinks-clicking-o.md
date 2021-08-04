@@ -291,8 +291,8 @@ file3.html
 ```
 
 
-Output: [FYBCA](http://Kaustubh K..com/timetable_fy.html) 
-[SYBCA](http://Kaustubh K..com/timetable_sy.html) 
+Output: [FYBCA](https://Kaustubh K..com/timetable_fy.html) 
+[SYBCA](https://Kaustubh K..com/timetable_sy.html) 
 
 
 ```

@@ -18,7 +18,7 @@ enclosure:
 ---
 Looking for How To Move From Blogger To WordPress Without Loosing Traffic Easily?
 
-[Blogger](https://www.blogger.com) is completely FREE to use. But when you need more controls on Blog , then should move to [WordPress](http://wordpress.org). 
+[Blogger](https://www.blogger.com) is completely FREE to use. But when you need more controls on Blog , then should move to [WordPress](https://wordpress.org). 
 
 WordPress is Open Source CMS ( Content Management System) it provides more controls on your blog. Also you can extend functionality by just installing plugins.
 
@@ -26,8 +26,8 @@ WordPress is Open Source CMS ( Content Management System) it provides more contr
 
 Moving / Migrating posts from blogger to WordPress is very easy.
 
-Just Visit [Blogger.com](http://blogger.com), then Login in your blog, Now Select **Settings** Option from and click on **Back up Content.** 
-![Move From Blogger To WordPress Without Loosing Traffic](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-12.png) 
+Just Visit [Blogger.com](https://blogger.com), then Login in your blog, Now Select **Settings** Option from and click on **Back up Content.** 
+![Move From Blogger To WordPress Without Loosing Traffic](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-12.png) 
 
 Now open WordPress Admin and Click on **Tools** and then Click on **Import**. Now Click on **Install** Button of Blogger Importer . After that Click on **Run Importer**, and select File Downloaded from Blogger.com 
 
@@ -46,7 +46,7 @@ Find suitable action for you from below options.
 If you are using ***.blogspot.com** then your blog is currently hosted on Google Server's without custom domain name. Then to get your traffic your WordPress site , we will do some little modification in your site theme.
 
 Open **Settings** in Blogger & Select **Theme** Option and Click on **Arrow Near Customize** & Click on **Edit HTML**,
-![Move From Blogger To WordPress Without Loosing Traffic](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-14.png) 
+![Move From Blogger To WordPress Without Loosing Traffic](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-14.png) 
 
 Now You will see some code. Now we have to add code below there. in between **** tag.
 

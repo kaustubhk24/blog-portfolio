@@ -24,19 +24,19 @@ If you have admin access to both sites. You are good to go.
 ## Procedure on Old Site.
 
 Visit admin dashboard of your old site, click on **Plugins** and then click on **New Plugin**. Now search for **WP Clone**.
-![How To Migrate WordPress Site](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-7-1024x435.png) 
+![How To Migrate WordPress Site](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-7-1024x435.png) 
 
 Now Select Plugin [**Clone**](https://wordpress.org/plugins/wp-clone-by-wp-academy/) by **WP Academy**, Click on Install & activate.
 
 After activating the plugin , find option **WP Clone** & Click on same.
 
 After Select option **Create Backup** & Click on **Create Backup** Button. Please take a note that. Making backup takes usually 2-3 minutes, But takes time depending upon your site data.
-![How To Migrate WordPress Site](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-8-1024x468.png) 
+![How To Migrate WordPress Site](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-8-1024x468.png) 
 
 Once Backup is completed you will see a link to download that backup. You can always download this backup and restore whenever you need that backup. But in this tutorial we are going to migrate to another domain / host.
 
 That's why you will need to click on **Copy URL** button next to that generated link.
-![How To Migrate WordPress Site](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-9-1024x300.png) 
+![How To Migrate WordPress Site](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-9-1024x300.png) 
 
 That's it for your old site. Now we will work on our new site.
 
@@ -45,7 +45,7 @@ That's it for your old site. Now we will work on our new site.
 Procedure is really simple for new site. Now again install that WP Clone plugin , as we installed on our old site.
 
 Once installed visit **WP Clone** option in your dashbord. Now this time we will select option **Restore from URL** & just paste the backup url we earlier copied from our old site.
-![How To Migrate WordPress Site](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-10-1024x340.png) 
+![How To Migrate WordPress Site](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-10-1024x340.png) 
 
 You click on **I agree**, & then click on **Restore From URL**.
 

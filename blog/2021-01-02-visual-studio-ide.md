@@ -32,7 +32,7 @@ We use ID because of following features
 4. IDE provides a single environment for developing all types of dotnet applications
 
 ## Some Screenshots of IDE
-![Visual Studio IDE](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-1024x512.png) (Visual Studio 2019 IDE )
+![Visual Studio IDE](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-1024x512.png) (Visual Studio 2019 IDE )
 
 ## Downloading IDE
 
@@ -45,10 +45,10 @@ To follow along you must download visual studio IDE. To Download Visit link belo
 
 
 Now you need to Select **Community** Version and Click on **Free Download** ,
-![Visual Studio IDE](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-2-1024x399.png) 
+![Visual Studio IDE](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-2-1024x399.png) 
 
 Once Downloaded It will Automatically Download and Install **Visual Studio Installer**, After that you will see menu below 
-![Visual Studio IDE](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-3-1024x487.png) 
+![Visual Studio IDE](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-3-1024x487.png) 
 
 From that menu just select .NET Desktop Development Option and Click on **Install While Downloading.**
 

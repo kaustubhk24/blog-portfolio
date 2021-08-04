@@ -33,4 +33,4 @@ Thread.currentThread().getName());
 ```
 
 Output:
-![](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-24.png) 
+![](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-24.png) 

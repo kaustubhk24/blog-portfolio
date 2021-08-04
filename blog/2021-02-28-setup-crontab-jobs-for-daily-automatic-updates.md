@@ -19,7 +19,7 @@ I want to execute some commands daily on my ubuntu 20.04 server , at 11.25pm. & 
 What I tried?
 
 I did steps as below. But I dont know why its not working.
-![](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/02/image-1024x498.png)
+![](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/02/image-1024x498.png)
 
 **Answer**
 

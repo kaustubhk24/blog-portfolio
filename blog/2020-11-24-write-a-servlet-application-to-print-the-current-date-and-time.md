@@ -11,7 +11,7 @@ slug: /write-a-servlet-application-to-print-the-current-date-and-time/
 Create New [Dynamic Web Project](https://en.wikipedia.org/wiki/Dynamic_web_page), Create below files and copy paste this content.
 
 Make sure your file structure looks like image below.
-![](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-22.png) 
+![](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-22.png) 
 
 **index.html**
 
@@ -70,4 +70,4 @@ abc
 ```
 
 Output:
-![](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-23.png) 
+![](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-23.png) 

@@ -25,12 +25,12 @@ Google Sheet , if you don't have one.
 Now let's link google form to sheet, So that we can submit HTML Form To Google Sheet.
 
 Click on **Script Editor**, Now it will open editor in next screen,
-![Submit HTML Form To Google Sheet](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/03/image.png) 
+![Submit HTML Form To Google Sheet](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/03/image.png) 
 
 
 
 Now we will rename Our project , To rename just click on Untitled Project & in popup enter new project name and click **rename.**
-![Submit HTML Form To Google Sheet](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-1.png) 
+![Submit HTML Form To Google Sheet](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-1.png) 
 
 Now remove firstly written function from there and copy paste code below there, and click on **save button icon** , Once saved we will move forward for **initial setup**, For initial setup,
 
@@ -44,7 +44,7 @@ var SCRIPT_PROP = PropertiesService.getScriptProperties(); // new property servi
 function handleResponse(e) {
  // shortly after my original solution Google announced the LockService[1]
  // this prevents concurrent access overwritting data
- // [1] http://googleappsdeveloper.blogspot.co.uk/2011/10/concurrency-and-google-apps-script.html
+ // [1] https://googleappsdeveloper.blogspot.co.uk/2011/10/concurrency-and-google-apps-script.html
  // we want a public lock, one that locks for all invocations
  var lock = LockService.getPublicLock();
  lock.waitLock(30000); // wait 30 seconds before conceding defeat.
@@ -89,7 +89,7 @@ function setup() {
 
 
 
-![](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-3.png) 
+![](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-3.png) 
 
 Click on Setup Button to start setup
 
@@ -98,19 +98,19 @@ Once you start setup it will show you message that **Authorization Required**, N
 It will ask you for some permissions , So simply **allow** all the permission , So that we can submit html form to google sheets,
 
 Next step will be deployment, 
-![Submit HTML Form To Google Sheet](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-4.png) 
+![Submit HTML Form To Google Sheet](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-4.png) 
 
 Click on **Deploy** button and Select option **New deployment**
 
 In Select Type select option **Web app** from list, this is last step on Google sheet site,
-![Submit HTML Form To Google Sheet](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-6-1024x731.png) 
+![Submit HTML Form To Google Sheet](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-6-1024x731.png) 
 
 In **configuration** in **Description**, enter description of project ( Not required ) , this is not compulsory
 
 In next box in **Execute** as box you will see **your email** , keep as it is,
 
 In last **Who has access** select option **Anyone**, & Click on Deploy 
-![Submit HTML Form To Google Sheet](http://www.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-7-1024x730.png) 
+![Submit HTML Form To Google Sheet](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-7-1024x730.png) 
 
 From this window copy URL & keep it safe,
 

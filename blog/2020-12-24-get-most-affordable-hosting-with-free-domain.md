@@ -28,4 +28,4 @@ Looking for something else? Check out if its covered [here](https://blog.kaustub
 ## How to Get that Offer?
 
 To get that offer just visit [hostinger.in](https://blog.kaustubh.codes/hostinger/) and select plan that suits you.
-![Most Affordable Hosting With FREE Domain](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-4.png)
+![Most Affordable Hosting With FREE Domain](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-4.png)

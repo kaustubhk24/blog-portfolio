@@ -20,7 +20,7 @@ If you don't know what exactly [Digital Ocean](https://m.do.co/c/253fdc8807b5) i
 
 Digital Ocean is Cloud computing platform.
 
-If you dont know [how to create Digital Ocean droplet click here](http://www.kaustubh.codes/how-to-install-lamp-stack-on-digitalocean-ubuntu-20-04/#Creating_Droplet)
+If you dont know [how to create Digital Ocean droplet click here](https://www.kaustubh.codes/how-to-install-lamp-stack-on-digitalocean-ubuntu-20-04/#Creating_Droplet)
 
 Now Let's see how to access Our Digital Ocean Droplet from diffrent platforms.
 
@@ -33,7 +33,7 @@ Yes, that's correct you can access Digital Ocean Droplet directly from your digi
 To connect just open your [dashboard](https://m.do.co/c/253fdc8807b5). Now click on **3 dots** of any droplet that you want access.
 
 Now click on **Access Console** Button.
-![](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/Untitled-1024x429.png) 
+![](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/Untitled-1024x429.png) 
 
 That's it, now you can use your console. Done.
 
@@ -60,7 +60,7 @@ After download just install the software & we're ready to go.
 Now open Putty app from windows apps list.
 
 & in the place of Host Name (or IP address) , Put your username and droplet IP address.
-![](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image.png) 
+![](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image.png) 
 
 Now click on **Open**, If it asks for anything click on **Allow**. Now It will open console & If username matches it will ask you for password . we set while creating droplet.
 

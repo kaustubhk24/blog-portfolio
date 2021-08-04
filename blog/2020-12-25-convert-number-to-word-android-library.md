@@ -26,7 +26,7 @@ Now Let us see with example how it works
 ## Creating Android Studio Project
 
 First Open your android Studio then click on **New Project** -> Select **Empty Activity**, after that Click on **finish**.
-![Convert Number To Word Android Library](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-5.png) 
+![Convert Number To Word Android Library](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-5.png) 
 
 Now wait while Android Studio setup your Project. In next step we will Import Library.
 
@@ -39,10 +39,10 @@ To follow this tutorial we are using [this version](https://jitpack.io/#kaustubh
 ## Importing Library
 
 To import Library First open **build.gradle** file, check screenshot,
-![Convert Number To Word Android Library](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-6.png) 
+![Convert Number To Word Android Library](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-6.png) 
 
 and paste below code there, Inside **allprojects** and **repositories**
-![Convert Number To Word Android Library](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-8.png) 
+![Convert Number To Word Android Library](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-8.png) 
 
 ```vb title="file.vb"
  allprojects {
@@ -56,7 +56,7 @@ and paste below code there, Inside **allprojects** and **repositories**
 
 
 Now Open **build.gradle (Module**) file and paste implemention line there in dependencies.
-![Convert Number To Word Android Library](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-7.png) 
+![Convert Number To Word Android Library](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-7.png) 
 
 ```vb title="file.vb"
 implementation 'com.github.kaustubhk24:NumberToWords-Library:c3880604dc'
@@ -66,7 +66,7 @@ implementation 'com.github.kaustubhk24:NumberToWords-Library:c3880604dc'
 That's it . Now you will see one notification that Gradle files have changed since last project sync. 
 
 You need to click on **Sync Now** Button.
-![Convert Number To Word Android Library](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-9.png) 
+![Convert Number To Word Android Library](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-9.png) 
 
 Now we will impletement Library in our project.
 
@@ -76,9 +76,9 @@ Now Open Your **MainActivity.xml** and remove complete code from there and paste
 
 ```vb title="file.vb"
 xml version="1.0" encoding="utf-8"?&gt;
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
- xmlns:app="http://schemas.android.com/apk/res-auto"
- xmlns:tools="http://schemas.android.com/tools"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="https://schemas.android.com/apk/res/android"
+ xmlns:app="https://schemas.android.com/apk/res-auto"
+ xmlns:tools="https://schemas.android.com/tools"
  tools:context=".MainActivity"&gt;
  <TextView
  app:layout_constraintBottom_toBottomOf="parent"
@@ -89,7 +89,7 @@ xml version="1.0" encoding="utf-8"?&gt;
 ```
 
 Now we will write code in **MainActivity.Java**. Paste this code inside **onCreate()**. check screenshot<figure class="wp-block-image size-large"
-![Convert Number To Word Android Library](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-10.png) 
+![Convert Number To Word Android Library](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-10.png) 
 
 ```vb title="file.vb"
 TextView txt=findViewById(R.id.txt);
@@ -101,7 +101,7 @@ TextView txt=findViewById(R.id.txt);
 ## Output
 
 Now Lets see output, To see output connect your device to Android Studio and Click on run.
-![Convert Number To Word Android Library](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-11.png) 
+![Convert Number To Word Android Library](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-11.png) 
 
 ## Video Version Of Tutorial
 

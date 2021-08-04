@@ -145,4 +145,4 @@ e.printStackTrace();
 
 Output:
 
-![](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-2Bfrom-2B2020-10-08-2B11-11-57.png) 
+![](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-2Bfrom-2B2020-10-08-2B11-11-57.png) 

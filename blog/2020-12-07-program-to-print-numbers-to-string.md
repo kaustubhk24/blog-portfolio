@@ -22,7 +22,7 @@ public class numberToWords {
  String[] tens={"","Ten","Twenty","Thirty","Fourty","Fifty","Sixty","Seventy","Eighty","Ninty","Hundered"};
  String[] powers={"Hundred","Thousand","Lakh","Crore"};
  ArrayList
-![Program to Print Numbers to String](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-1.png) 
+![Program to Print Numbers to String](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-1.png) 
 
 Looking solution to use in Android ? [Checkout here](https://github.com/kaustubhk24/NumberToWords-Library)
 

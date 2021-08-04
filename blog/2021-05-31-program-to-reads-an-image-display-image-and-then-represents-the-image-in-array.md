@@ -15,7 +15,7 @@ slug: /program-to-reads-an-image-display-image-and-then-represents-the-image-in-
 ```python title="file.py"
 import matplotlib.pyplot as plt
 import matplotlib.image as img
-testImage = img.imread('http://www.kaustubh.codes/imgs/wp-content/uploads/2021/05/python-programming-language-1.png')
+testImage = img.imread('https://www.kaustubh.codes/imgs/wp-content/uploads/2021/05/python-programming-language-1.png')
 plt.imshow(testImage)
 print(testImage)
 ```

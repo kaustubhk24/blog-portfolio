@@ -26,7 +26,7 @@ Now Visit [Digital Ocean](https://m.do.co/c/253fdc8807b5) & Click on Sign In. Yo
 In [Digital Ocean](https://m.do.co/c/253fdc8807b5) we call a server as Droplet.
 
 Now click on **Create** Button Top right corner and Select **Droplet** Option.
-![](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-11.png) 
+![](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-11.png) 
 
 Now once we click on Create Droplets , next we have to select Droplet Configuration.
 
@@ -58,10 +58,10 @@ $ ssh root@ip_address_of_droplet
 If you are using Windows you will use Putty.
 
 Or simply use the Console Provided by Digital Ocean.
-![How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-12.png) 
+![How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-12.png) 
 
 Now click on that **Console** button right corner. It will open a Prompt with terminal. If your internet speed is slow. You will see your commands slow.
-![How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-13.png) 
+![How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-13.png) 
 
 Now you will see below screen. 
 
@@ -124,21 +124,21 @@ $ apt install phpmyadmin
 ```
 
 Now you have to complete remaining setup by reading options correctly.
-![How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-15.png) 
+![How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-15.png) 
 
 
 
 in this configuration window, You have to select **apache2**.
 
 to select click on space bar. You will see [ * ] this mean the option is selected.
-![How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-14.png) 
+![How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-14.png) 
 
 In this you have to select **Yes** option.
 
 That will create a database for you to configure users.
 
 In next step you have to setup password for PhpMyAdmin
-![How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-16.png) 
+![How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-16.png) 
 
 also, add a confirm password. That's it. PhpMyadmin installation is done. Now the last and important part of the setup is firewall configuration.
 
@@ -195,7 +195,7 @@ We will check installation now.
 Open Any browser type droplet's your public ip_address. 
 
 If you see below page your installation is successful.
-![How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-17.png) 
+![How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-17.png) 
 
 Above is default page of apache server to tell that configuration is successful.
 
@@ -204,7 +204,7 @@ Now check the installation of PhpMyAdmin. Visit
 your_ip_address/phpmyadmin
 
 If you see below screen
-![How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?](http://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-18-1024x475.png) 
+![How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-18-1024x475.png) 
 
 Done . we have completed LAMP installation on Digital Ocean Ubuntu 20.04 .
 
