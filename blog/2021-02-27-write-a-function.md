@@ -22,7 +22,7 @@ This means that in the Gregorian calendar, the years 2000 and 2400 are leap year
 
 Given a year, determine whether it is a leap year. If it is a leap year, return the Boolean�`True`, otherwise return�`False`.
 
-Note that the code stub provided reads from STDIN and passes arguments to the�`_\_leap`�function. It is only necessary to complete the_is\_leap`�function.
+Note that the code stub provided reads from STDIN and passes arguments to the�`__leap`�function. It is only necessary to complete the_is_leap`�function.
 
 **Input Format**
 

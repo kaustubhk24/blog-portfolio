@@ -135,31 +135,31 @@ In response, you will get the names of STATES available
 ### Step 2: Get District List
 
 Now In this Step, we will pass the STATE name in Request, this will return the districts names list, 
-URL Format�`https://bank-apis.justinclicks.com/API/V1/STATE/STA_\_NAME/`�, 
+URL Format�`https://bank-apis.justinclicks.com/API/V1/STATE/STA__NAME/`�, 
 Example�`https://bank-apis.justinclicks.com/API/V1/STATE/MAHARASHTRA/`
 
 ### [](https://github.com/kaustubhk24/Indian-Banks-Data/wiki/V1-Documentation#step-3-get-citys-list)Step 3: Get City's List
 
 To get city list 
-URL Format�`https://bank-apis.justinclicks.com/API/V1/STATE/STA_\_NAME/DISTRI_\_NAME/` 
+URL Format�`https://bank-apis.justinclicks.com/API/V1/STATE/STA__NAME/DISTRI__NAME/` 
 Example�`https://bank-apis.justinclicks.com/API/V1/STATE/MAHARASHTRA/PUNE/`
 
 ### [](https://github.com/kaustubhk24/Indian-Banks-Data/wiki/V1-Documentation#step-4-get-centers-list)Step 4: Get Center's List
 
 To get Center list 
-URL Format�`https://bank-apis.justinclicks.com/API/V1/STATE/STA_\_NAME/DISTRI_\_NAME/CI_\_NAME` 
+URL Format�`https://bank-apis.justinclicks.com/API/V1/STATE/STA__NAME/DISTRI__NAME/CI__NAME` 
 Example�`https://bank-apis.justinclicks.com/API/V1/STATE/MAHARASHTRA/PUNE/KHUTBAO`
 
 ### [](https://github.com/kaustubhk24/Indian-Banks-Data/wiki/V1-Documentation#step-5-get-branch-list)Step 5: Get Branch List
 
 To get Branch list 
-URL Format�`https://bank-apis.justinclicks.com/API/V1/STATE/STA_\_NAME/DISTRI_\_NAME/CI_\_NAME/CENT_\_NAME/` 
-Example�`https://bank-apis.justinclicks.com/API/V1/STATE/MAHARASHTRA/PUNE/KHUTBAO/KHUTBAO/`�we made .json files for each branch hence it will give the list of�*_ank\\_ame\\_.json**�Example of response�`["KHUTBHAV.json"]`
+URL Format�`https://bank-apis.justinclicks.com/API/V1/STATE/STA__NAME/DISTRI__NAME/CI__NAME/CENT__NAME/` 
+Example�`https://bank-apis.justinclicks.com/API/V1/STATE/MAHARASHTRA/PUNE/KHUTBAO/KHUTBAO/`�we made .json files for each branch hence it will give the list of�*_ank\_ame\_.json**�Example of response�`["KHUTBHAV.json"]`
 
 ### [](https://github.com/kaustubhk24/Indian-Banks-Data/wiki/V1-Documentation#step-6--get-branch-data)Step 6 : Get Branch Data:
 
 To get Branch list 
-URL Format�`https://bank-apis.justinclicks.com/API/V1/STATE/STA_\_NAME/DISTRI_\_NAME/CI_\_NAME/CENT_\_NAME/BRAN_\_NAME.json` 
+URL Format�`https://bank-apis.justinclicks.com/API/V1/STATE/STA__NAME/DISTRI__NAME/CI__NAME/CENT__NAME/BRAN__NAME.json` 
 Example�`https://bank-apis.justinclicks.com/API/V1/STATE/MAHARASHTRA/PUNE/KHUTBAO/KHUTBAO/KHUTBHAV.json` 
 This will send a response of bank details in JSON format, for example
 

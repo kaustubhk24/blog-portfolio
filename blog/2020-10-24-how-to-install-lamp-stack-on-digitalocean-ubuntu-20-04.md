@@ -101,7 +101,7 @@ $ apt install apache2
 
 Click Y if prompted.
 
-Now our Apache is installed. If you visit your\_ip\_address you will see the apache2 default page. if you don't see the page, No problem. We need to [configure our firewall.](#firewall-config)
+Now our Apache is installed. If you visit your_ip_address you will see the apache2 default page. if you don't see the page, No problem. We need to [configure our firewall.](#firewall-config)
 
 ## Installing MySQL
 
@@ -201,7 +201,7 @@ Above is default page of apache server to tell that configuration is successful.
 
 Now check the installation of PhpMyAdmin. Visit
 
-your\_ip\_address/phpmyadmin
+your_ip_address/phpmyadmin
 
 If you see below screen
 ![How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?](http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-18-1024x475.png) 

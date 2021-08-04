@@ -170,7 +170,7 @@ You can also install phpMyAdmin , if you need , but it's not required. To instal
 $ apt install phpmyadmin
 ```
 
-You can access PhpMyAdmin at _your\_instance\_ip_address/phpmyadmin_. View Video Version of this tutorial for more details.
+You can access PhpMyAdmin at _your_instance_ip_address/phpmyadmin_. View Video Version of this tutorial for more details.
 
 ## Installing PHP
 

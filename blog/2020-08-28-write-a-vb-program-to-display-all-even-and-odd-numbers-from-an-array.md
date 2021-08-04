@@ -1,0 +1,42 @@
+---
+title: Write a VB Program to display all even and odd numbers from an array
+date: 2020-08-28T14:27:00+00:00
+author: Kaustubh Kulkarni
+author_title: Programmer
+author_url: https://github.com/kaustubhk24
+author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f61?s=200
+
+slug: /write-a-vb-program-to-display-all-even-and-odd-numbers-from-an-array/
+---
+
+[![](https://1.bp.blogspot.com/-S2GO2ras9rM/X0kUXKzPZjI/AAAAAAAAfgQ/_4qwyZg2Vr8FbmTOk_hz2GNFk8bvkp3xQCLcBGAsYHQ/s400/1.png)](https://1.bp.blogspot.com/-S2GO2ras9rM/X0kUXKzPZjI/AAAAAAAAfgQ/_4qwyZg2Vr8FbmTOk_hz2GNFk8bvkp3xQCLcBGAsYHQ/s1366/1.png)
+
+
+```
+  
+Private Sub cmdDisplay_Click()  
+	Dim a() As Integer  
+	n = InputBox("How many elements do u want to enter")  
+	ReDima(n)  
+	Print "Array is : "  
+	For i = 0 To n - 1  
+		a(i) = Val(InputBox("Enter the Elements"))  
+		Print a(i)  
+	Next  
+	Print "Even Numbers are: "  
+	For i = 0 To n - 1  
+		If a(i) Mod 2 = 0 Then  
+			Print a(i)  
+		End If  
+	Next  
+	  
+	Print "Odd Numbers are: "  
+	For i = 0 To n - 1  
+		If a(i) Mod 2 <> 0 Then  
+			Print a(i)  
+		End If  
+	Next  
+End Sub  
+  
+
+```

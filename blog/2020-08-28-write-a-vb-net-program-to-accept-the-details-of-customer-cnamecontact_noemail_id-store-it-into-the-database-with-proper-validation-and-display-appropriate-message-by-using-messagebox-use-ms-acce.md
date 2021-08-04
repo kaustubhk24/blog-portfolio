@@ -8,7 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-vb-net-program-to-accept-the-details-of-customer-cnamecontact_noemail_id-store-it-into-the-database-with-proper-validation-and-display-appropriate-message-by-using-messagebox-use-ms-acce/
 ---
-Write a VB.NET program to accept the details of customer (CName,Contact\_No,Email\_id). Store it into the database with proper validation and display appropriate message by using Messagebox.(Use MS Access ) 
+Write a VB.NET program to accept the details of customer (CName,Contact_No,Email_id). Store it into the database with proper validation and display appropriate message by using Messagebox.(Use MS Access ) 
 
 
 ```

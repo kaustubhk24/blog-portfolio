@@ -1,0 +1,40 @@
+---
+title: 'Write a VB program to enter two positive numbers, calculate the sum of the products of each pair of digits occupying the same position in the two numbers. Display the result on to the form. Example: If first number is 45 and second number is 534, then output will be 32. (0*5 + 4*3 + 5*4 = 32)'
+date: 2020-08-28T14:36:00+00:00
+author: Kaustubh Kulkarni
+author_title: Programmer
+author_url: https://github.com/kaustubhk24
+author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f61?s=200
+
+slug: /write-a-vb-program-to-enter-two-positive-numbers-calculate-the-sum-of-the-products-of-each-pair-of-digits-occupying-the-same-position-in-the-two-numbers-display-the-result-on/
+---
+Write a VB program to enter two positive numbers, calculate the sum of the products of each pair of digits occupying the same position in the two numbers. Display the result on to the form. Example: If first number is 45 and second number is 534, then output will be 32. (0\*5 + 4\*3 + 5*4 = 32) 
+
+
+```
+  
+Private Sub Command1_Click()  
+	Dim no1 As Integer  
+	Dim no2 As Integer  
+	Dim r1 As Integer, r2 As Integer, sum As Integer  
+		no1 = Val(Text1.Text)  
+  
+  
+	no2 = Val(Text2.Text)  
+	While no1 Or no2  
+		r1 = no1 Mod 10  
+		r2 = no2 Mod 10  
+		prod = r1 * r2  
+		sum = sum + prod  
+		no1 = no1  10  
+		no2 = no2  10  
+	Wend  
+	Print "Sum of Product is "; sum  
+	  
+End Sub  
+   
+  
+  
+  
+
+```

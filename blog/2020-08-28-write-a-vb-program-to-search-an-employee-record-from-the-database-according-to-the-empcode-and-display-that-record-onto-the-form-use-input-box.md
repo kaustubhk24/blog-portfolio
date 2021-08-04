@@ -1,0 +1,49 @@
+---
+title: 'Write a VB program to search an employee record from the database according to the empcode and display that record onto the form. (Use Input box).'
+date: 2020-08-28T14:28:00+00:00
+author: Kaustubh Kulkarni
+author_title: Programmer
+author_url: https://github.com/kaustubhk24
+author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f61?s=200
+
+slug: /write-a-vb-program-to-search-an-employee-record-from-the-database-according-to-the-empcode-and-display-that-record-onto-the-form-use-input-box/
+---
+
+```
+  
+Dim c As New Connection  
+	Dim r As New Recordset  
+	Dim sql As String  
+  
+	Private Sub cmdSearch_Click()  
+	Dim id As Integer  
+	id = Val(InputBox("enter number to search"))  
+	sql = "select * from emp where empcode like '" & id & "'"  
+	r.Close  
+	r.Opensql, c, adOpenDynamic, adLockPessimistic  
+	If Not r.EOF And Not r.BOFThen  
+	Call display  
+	Else  
+	MsgBox ("No record Found")  
+	End If  
+  
+	End Sub  
+	Private Sub Form_Load()  
+sql = "select * from emp"  
+c.Open"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:UsersRamdasDocumentsEmployee1.mdb;Persist Security Info=False"  
+r.Opensql, c, adOpenDynamic, adLockPessimistic  
+Call display  
+End Sub  
+Private Sub display()  
+If Not r.EOFOrr.BOF Then  
+Text1.Text = r.Fields(0)  
+Text2.Text = r.Fields(1)  
+Text3.Text = r.Fields(2)  
+Text4.Text = r.Fields(3)  
+End If  
+End Sub  
+  
+  
+  
+
+```

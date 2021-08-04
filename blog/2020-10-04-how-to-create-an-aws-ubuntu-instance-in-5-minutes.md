@@ -77,7 +77,7 @@ Now see option **Delete on Termination** . If you want delete your storage autom
 
 How to Create an AWS Ubuntu Instance in 5 minutes?
 
-_Free tier eligible customers can get up to 30 GB of EBS General Purpose (SSD) or Magnetic storage.�[Learn more](https://aws.amazon.com/free/)�about free usage tier eligibility and usage restricti_s.\_
+_Free tier eligible customers can get up to 30 GB of EBS General Purpose (SSD) or Magnetic storage.�[Learn more](https://aws.amazon.com/free/)�about free usage tier eligibility and usage restricti_s._
 ![](http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-16-1024x576.png) 
 
 ## **Step 5 :** 

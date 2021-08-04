@@ -21,7 +21,7 @@ The names have been combined using an�**&**�symbol.
 
 
 
- Use the�__\_a__\_**�method to define a custom behavior for the + operator and return the resulting object.
+ Use the�___a___**�method to define a custom behavior for the + operator and return the resulting object.
  
 
 

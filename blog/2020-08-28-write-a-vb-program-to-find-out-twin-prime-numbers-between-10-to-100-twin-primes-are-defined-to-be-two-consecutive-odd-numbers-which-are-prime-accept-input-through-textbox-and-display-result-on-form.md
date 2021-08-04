@@ -1,0 +1,68 @@
+---
+title: 'Write a VB program to find out twin prime numbers between 10 to 100. Twin primes are defined to be two consecutive odd numbers, which are prime (Accept input through textbox and display result on form) e.g.: 11 and 13, 17 and 19 are twin prime numbers.'
+date: 2020-08-28T14:03:00+00:00
+author: Kaustubh Kulkarni
+author_title: Programmer
+author_url: https://github.com/kaustubhk24
+author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f61?s=200
+
+slug: /write-a-vb-program-to-find-out-twin-prime-numbers-between-10-to-100-twin-primes-are-defined-to-be-two-consecutive-odd-numbers-which-are-prime-accept-input-through-textbox-and-display-result-on-form/
+---
+
+```
+  
+  
+Private Sub Command1_Click()  
+	Dim no1 As Integer  
+	Dim no2 As Integer  
+	Dim i As Integer  
+	Dim flag As Boolean  
+	flag = False  
+	  
+	no1 = Val(Text1.Text)  
+  
+	no2 = Val(Text2.Text)  
+	  
+	If no1 > 10 And no2 < 100 Then  
+		While no1 <= no2  
+			For i = 2 To no1  2  
+				If no1 Mod i = 0 Then  
+					flag = True  
+				End If  
+			Next  
+			If flag = True Then  
+MsgBox ("Either of the number is not prime")  
+End  
+			Else  
+				cnt = cnt + 1  
+				no3 = no1  
+				no1 = no1 + 2  
+				flag = False  
+				  
+			End If  
+			If cnt = 2 Then  
+				If no3 = no2 Then  
+					MsgBox "No1 and no2 are twin primes"  
+				Else  
+					MsgBox "No1 and no2 are not twin primes"  
+				End If  
+				End  
+			End If  
+		Wend  
+	 End If  
+            End Sub  
+  
+       Private Sub Text1_Click()  
+	Text1.Text = ""  
+        End Sub  
+  
+Private Sub Text2_Click()  
+	Text2.Text = ""  
+End Sub  
+  
+  
+  
+  
+  
+
+```
