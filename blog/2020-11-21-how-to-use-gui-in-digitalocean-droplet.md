@@ -9,7 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /how-to-use-gui-in-digitalocean-droplet/
 
 
-saswp_custom_schema_field:
+
 
 ---
 Let's see How To Use GUI in DigitalOcean Droplet? 

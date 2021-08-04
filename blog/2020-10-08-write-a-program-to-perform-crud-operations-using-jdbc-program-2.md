@@ -15,7 +15,7 @@ slug: /write-a-program-to-perform-crud-operations-using-jdbc-program-2/
 
 
 
-saswp_custom_schema_field:
+
 
 ---
 

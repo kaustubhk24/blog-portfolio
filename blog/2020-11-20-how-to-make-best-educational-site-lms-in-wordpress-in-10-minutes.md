@@ -9,7 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /how-to-make-best-educational-site-lms-in-wordpress-in-10-minutes/
 
 
-saswp_custom_schema_field:
+
 
 ---
 Let's See Make Best Educational Site LMS In WordPress.
