@@ -1,0 +1,84 @@
+---
+title: Design an application in VB which contain find and replace dialogue box for textbox control with the multiple line of text with 3 options buttons for changing font and three checkboxes for giving effect (Bold, Italic, Underline) to the text. The form should contain following command buttons i. Find ii. Find Next iii. Replace all
+date: 2020-08-28T14:26:00+00:00
+author: Kaustubh Kulkarni
+author_title: Programmer
+author_url: https://github.com/kaustubhk24
+author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f61?s=200
+
+slug: /design-an-application-in-vb-which-contain-find-and-replace-dialogue-box-for-textbox-control-with-the-multiple-line-of-text-with-3-options-buttons-for-changing-font-and-three-checkboxes-for-giving-eff/
+---
+
+Design an application in VB which contain find and replace dialogue box for textbox control with the multiple line of text with 3 options buttons for changing font and three checkboxes for giving effect (Bold, Italic, Underline) to the text. The form should contain following command buttons i. Find ii. Find Next iii. Replace all
+
+
+
+```vb title="file.vb"
+
+Dim txt As String
+Dim s, l, r As Integer
+Private Sub Check1_Click(Index As Integer)
+	If Check1(0).Value = 1 Then
+
+
+		Text1.Font.Bold = True
+	Else
+		Text1.Font.Bold = False
+	End If
+	If Check1(1).Value = 1 Then
+		Text1.Font.Italic = True
+	Else
+		Text1.Font.Italic = False
+	End If
+	If Check1(2).Value = 1 Then
+		Text1.Font.Underline = True
+	Else
+		Text1.Font.Underline = False
+	End If
+End Sub
+
+Private Sub find()
+	txt = InputBox("enter Text to find")
+	l = Len(txt)
+	r = InStr(Text1.Text, txt)
+	Print r
+	Text1.SelStart = r - 1
+	Text1.SelLength = l
+End Sub
+Private Sub cmdFind_Click()
+	Call Text1_GotFocus
+End Sub
+Private Sub cmdFindNext_Click()
+	If r 
+		r = InStr(r + 2, Text1.Text, txt, vbTextCompare)
+		Text1.SelStart = r - 1
+		Text1.SelLength = l
+	Else
+		MsgBox "No more Text", vbInformation, "Find"
+	End If
+End Sub
+
+Private Sub cmdReplace_Click()
+	txt1 = InputBox("which text to replace")
+	txt = InputBox("enter text to replace")
+	Text1.Text = Replace(Text1.Text, txt1, txt)
+End Sub
+
+Private Sub Form_Load()
+	Text1.Text = "this is to find and replace the text"
+End Sub
+
+Private Sub Option1_Click(Index As Integer)
+	If Option1(0).Value = True Then
+		Text1.Font.Name = “Arial”
+	ElseIfOption1(1).Value = True Then
+		Text1.Font.Name = "Arial Black"
+	Else
+		Text1.Font.Name = "Times New Roman"
+	End If
+End Sub
+
+Private Sub Text1_GotFocus()
+	Call find
+End Sub
+```
