@@ -1,0 +1,32 @@
+---
+title: Write a Vb.net program to design the following form, allow the user to select radio buttons from Gender and AgePanel. After Selection appropriate CheckBox from Right Panel should be selected automatically. Display appropriate message into the MessageBox by clicking on Ok button.
+date: 2020-08-28T15:16:00+00:00
+author: Kaustubh Kulkarni
+author_title: Programmer
+author_url: https://github.com/kaustubhk24
+author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f61?s=200
+
+slug: /write-a-vb-net-program-to-design-the-following-form-allow-the-user-to-select-radio-buttons-from-gender-and-agepanel-after-selection-appropriate-checkbox-from-right-panel-should-be-selected-automatic/
+---
+
+
+```vb title="file.vb"
+
+PublicClass Form1
+PrivateSub Button1_Click(ByVal sender As System.Object, ByVal e As
+System.EventArgs) Handles Button1.Click
+If RadioButton1.Checked = TrueAnd RadioButton3.Checked = TrueOr
+RadioButton2.Checked = TrueAnd RadioButton3.Checked = TrueThen
+ CheckBox2.Checked = True
+ MsgBox(TextBox1.Text &" Sorry You Dont Drive Car")
+ElseIf RadioButton1.Checked = TrueAnd RadioButton4.Checked = TrueOr
+RadioButton2.Checked = TrueAnd RadioButton4.Checked = TrueThen
+ CheckBox1.Checked = True
+ MsgBox(TextBox1.Text &" You can Drive Car")
+Else
+ CheckBox3.Checked = True
+ MsgBox(TextBox1.Text &" It's All Right")
+EndIf
+EndSub
+EndClass
+```
