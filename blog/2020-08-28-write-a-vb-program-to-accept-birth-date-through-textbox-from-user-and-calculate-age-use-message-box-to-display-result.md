@@ -9,8 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-vb-program-to-accept-birth-date-through-textbox-from-user-and-calculate-age-use-message-box-to-display-result/
 ---
 
-```
-  
+```vb title="file.vb"
 Private Sub Command1_Click()  
 	BirthDate = Text1.Text  
 	MsgBox ("Age :" &ExactAge(BirthDate))  

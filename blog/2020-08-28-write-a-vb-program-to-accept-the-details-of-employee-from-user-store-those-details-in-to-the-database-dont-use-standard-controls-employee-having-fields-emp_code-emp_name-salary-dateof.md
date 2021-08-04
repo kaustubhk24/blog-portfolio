@@ -9,11 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-vb-program-to-accept-the-details-of-employee-from-user-store-those-details-in-to-the-database-dont-use-standard-controls-employee-having-fields-emp_code-emp_name-salary-dateof/
 ---
 
-```
-  
-  
-  
-  
+```vb title="file.vb"
 Dim C As New Connection  
 Dim R As New Recordset  
 Dim S As String  

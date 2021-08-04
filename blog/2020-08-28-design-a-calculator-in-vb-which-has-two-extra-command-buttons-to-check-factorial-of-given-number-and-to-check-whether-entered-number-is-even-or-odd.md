@@ -11,7 +11,7 @@ slug: /design-a-calculator-in-vb-which-has-two-extra-command-buttons-to-check-fa
 Design a calculator in VB, Which has Two extra command buttons to check factorial of given number and to check whether entered number is even or odd 
 
 
-```
+```vb title="file.vb"
   
 Dim no1 As Integer  
 Dim no2 As Integer  

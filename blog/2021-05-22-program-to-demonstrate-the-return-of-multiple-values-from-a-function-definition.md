@@ -12,13 +12,13 @@ Que > Program to demonstrate the Return of Multiple Values from a Function Defin
 
 ## Program
 
-```vb title="file.vb"
+```python title="file.py"
 def swap(x,y):
  return y,x
 print(swap(7,8))
 ```
 
-```vb title="file.vb"
+```python title="Output"
 (8, 7)
 
 ```

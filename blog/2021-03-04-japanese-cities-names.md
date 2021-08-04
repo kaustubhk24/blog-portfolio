@@ -8,13 +8,13 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /japanese-cities-names/
 ---
-Query the names of all the Japanese cities in the�**CITY**�table. The�**COUNTRYCODE**�for Japan is�`JPN`. 
-The�**CITY**�table is described as follows:
+Query the names of all the Japanese cities in the **CITY** table. The **COUNTRYCODE** for Japan is `JPN`. 
+The **CITY** table is described as follows:
 
 ![](https://s3.amazonaws.com/hr-challenge-images/8137/1449729804-f21d187d0f-CITY.jpg "CITY.jpg") 
 
 Answer :
 
-```vb title="file.vb"
+```cmd title="SQL"
 select NAME from CITY where COUNTRYCODE='JPN';
 ```

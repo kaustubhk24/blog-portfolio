@@ -30,4 +30,3 @@ Open Visual Studio 2019, Open **View** menu and **Server Explorer**, On Data Con
 
 Follow the wizard and You just completed Connection.
 
-## Video Guide

@@ -9,9 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-vb-program-to-find-sum-of-digit-of-a-given-number-till-it-reduces-to-single-digit-accept-input-through-textbox-and-display-the-output-in-message-box-using-function/
 ---
 
-```
-  
-  
+```vb title="file.vb"
 Private Sub Command1_Click()  
   
 	ans = display()  

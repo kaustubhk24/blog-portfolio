@@ -19,7 +19,7 @@ slug: /write-a-program-to-perform-crud-operations-using-jdbc-program-2/
 
 ---
 
-```
+```java title="assign.java" 
 /**  
 * Q 1) Write a program to perform CRUD operations using JDBC.  
 */  

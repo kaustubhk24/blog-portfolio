@@ -11,7 +11,7 @@ slug: /write-a-vb-program-to-enter-two-positive-numbers-calculate-the-sum-of-the
 Write a VB program to enter two positive numbers, calculate the sum of the products of each pair of digits occupying the same position in the two numbers. Display the result on to the form. Example: If first number is 45 and second number is 534, then output will be 32. (0\*5 + 4\*3 + 5*4 = 32) 
 
 
-```
+```vb title="file.vb"
   
 Private Sub Command1_Click()  
 	Dim no1 As Integer  

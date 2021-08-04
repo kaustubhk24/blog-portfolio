@@ -9,7 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /program-to-check-if-given-number-is-prime-or-not/
 ---
 
-```
+```cpp title="Prime.cpp"
   
   
 #include  

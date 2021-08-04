@@ -9,7 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-vb-net-program-for-blinking-an-image/
 ---
 
-```
+```vb title="file.vb"
   
 PublicClass Form1  
 PrivateSub Timer1_Tick(ByVal sender As System.Object, ByVal e As  

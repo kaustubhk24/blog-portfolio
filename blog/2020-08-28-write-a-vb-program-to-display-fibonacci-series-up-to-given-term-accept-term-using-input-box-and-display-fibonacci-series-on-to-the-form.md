@@ -9,7 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-vb-program-to-display-fibonacci-series-up-to-given-term-accept-term-using-input-box-and-display-fibonacci-series-on-to-the-form/
 ---
 
-```
+```vb title="file.vb"
   
 Private Sub Command1_Click()  
 	n = InputBox("Enter The Term")  

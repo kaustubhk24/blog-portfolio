@@ -8,7 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-program-to-implement-aggregation/
 ---
-```vb title="file.vb"
+```python title="file.py"
 class Heart:
  def __init__(self, heartValves):
  self.heartValves = heartValves
@@ -28,7 +28,7 @@ p.display()
 
 output:
 
-```vb title="file.vb"
+```python title="Output"
 
 First Name: ABC
 No of Healthy Valves: 4

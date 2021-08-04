@@ -107,6 +107,6 @@ tap that blue button and write copyright you want. You may use **%copy%** to pri
 
 Done we just saw, How To Make Fastest Blog in WordPress. IF you faced any issue while following this tutorial you can watch video Guide below.
 
-## Video Guide {#video-guide}
+ {#video-guide}
 
 Please comment if you have any suggestion, questions and complaints.

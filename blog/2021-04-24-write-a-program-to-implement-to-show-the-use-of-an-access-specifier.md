@@ -8,7 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-program-to-implement-to-show-the-use-of-an-access-specifier/
 ---
-```vb title="file.vb"
+```python title="file.py"
 class User:
  def __init__(self, name, age):
  self.usrName = name
@@ -22,7 +22,7 @@ obj.displayAge()
 
 output:
 
-```vb title="file.vb"
+```python title="Output"
 Name: ABC
 Age: 20
 ```

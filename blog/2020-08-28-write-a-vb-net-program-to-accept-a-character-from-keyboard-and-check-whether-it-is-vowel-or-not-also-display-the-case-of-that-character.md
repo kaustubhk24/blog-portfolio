@@ -9,7 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-vb-net-program-to-accept-a-character-from-keyboard-and-check-whether-it-is-vowel-or-not-also-display-the-case-of-that-character/
 ---
 
-```
+```vb title="file.vb"
   
 PublicClass Form1  
 PrivateSub Button1_Click(ByVal sender As System.Object, ByVal e As  

@@ -9,8 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-vb-program-to-find-out-twin-prime-numbers-between-10-to-100-twin-primes-are-defined-to-be-two-consecutive-odd-numbers-which-are-prime-accept-input-through-textbox-and-display-result-on-form/
 ---
 
-```
-  
+```vb title="file.vb"
   
 Private Sub Command1_Click()  
 	Dim no1 As Integer  

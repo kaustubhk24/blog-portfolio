@@ -32,7 +32,7 @@ Now once we click on Create Droplets , next we have to select Droplet Configurat
 
 For This tutorial We are going to use below configuration. If you are going to follow this tutorial. Kindly use below configuration.
 
-```vb title="file.vb"
+```cmd title="cmd"
 Distributions : Ubuntu 20.04
 Choose Plan : $5/month
 Authentication : Password
@@ -51,7 +51,7 @@ If you are using any Linux or Mac version in your PC.
 
 Login our Droplet using below command in terminal.
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ ssh root@ip_address_of_droplet
 ```
 
@@ -65,11 +65,11 @@ Now click on that **Console** button right corner. It will open a Prompt with te
 
 Now you will see below screen. 
 
-```vb title="file.vb"
+```cmd title="cmd"
 yoursitename login : root
 ```
 
-```vb title="file.vb"
+```cmd title="cmd"
 Enter password . which we created while creating droplet.
 ```
 
@@ -77,15 +77,15 @@ Enter password . which we created while creating droplet.
 
 This are some commands you have to run .
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ apt update
 ```
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ apt upgrade
 ```
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ apt autoremove
 ```
 
@@ -95,7 +95,7 @@ Press Y if prompts any where.
 
 To install apache we will run a very simple command 
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ apt install apache2
 ```
 
@@ -107,7 +107,7 @@ Now our Apache is installed. If you visit your_ip_address you will see the apach
 
 Let's install MySQL. Paste below commands in your terminal.
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ apt install mysql
 ```
 
@@ -119,7 +119,7 @@ Next step we will install PhpMyAdmin
 
 Like other software we installed. PHP My admin is also has similar and tricky installation
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ apt install phpmyadmin
 ```
 
@@ -146,43 +146,43 @@ also, add a confirm password. That's it. PhpMyadmin installation is done. Now th
 
 To configure firewall we will paste below commands. In Ubuntu we have ufw.
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ ufw status
 ```
 
 If you see output. you have firewall installed. basically os comes with firewall. In case not installed paste below command.
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ apt install ufw
 ```
 
 After that run status command again, now we will add apache in allowed apps & OpenSSH also.
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ ufw allow "Apache Full"
 ```
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ ufw allow OpenSSH
 ```
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ ufw enable
 ```
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ sudo service apache2 restart
 ```
 
 Now , Our Droplet needs to restart.
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ reboot
 ```
 
 Now login to system again. Once you login.use below command to start apache server
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ sudo service apache2 restart
 ```
 

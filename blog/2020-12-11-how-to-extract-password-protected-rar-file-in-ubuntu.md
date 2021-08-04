@@ -12,27 +12,27 @@ Let us see How To Extract Password Protected rar file in Ubuntu?
 
 To extract file with password or without password you have to install rar Command Line utility.
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ sudo apt-get install rar
 
 ```
 
 Now enter the below command in terminal.
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ sudo rar e file_name.rar
 
 ```
 
 for example, if your file name is **file.rar** then run below command in terminal
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ sudo rar e file.rar
 ```
 
 IF your file is password protected it will prompt for password. if file is not protected then it will automatically start extracting rar file. Output when password is required.
 
-```vb title="file.vb"
+```cmd title="cmd"
 Enter password (will not be echoed) for file.zip
 ```
 

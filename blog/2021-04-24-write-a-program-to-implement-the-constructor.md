@@ -13,7 +13,7 @@ slug: /write-a-program-to-implement-the-constructor/
 
 
 ---
-```vb title="file.vb"
+```python title="file.py"
 import operator
 from operator import eq, add, sub,mul
 class calculator:
@@ -31,7 +31,7 @@ obj.calculate()
 
 Output:
 
-```vb title="file.vb"
+```python title="Output"
 
 Enter No one : 4
 Enter No two : 5

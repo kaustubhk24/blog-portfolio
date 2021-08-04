@@ -83,10 +83,11 @@ C:\Users\username\source\repos\Tic Tac Toe\Setup1\Debug
 ## Installing Setup File
 
 Installing setup is very easy , Double click on **setup.msi** or **setup.exe** and just click next,next and done.
+
 ![How To Make Setup File in VB.NET](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-17.png) 
 
 or You can install easily by Right Clicking Setup in solution explorer and select install button, that's it.
 
 Congrats! You just created setup. If you have any issues just comment here, we will reply asap.
 
-## Video Guide
+

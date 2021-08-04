@@ -9,8 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-vb-program-to-accept-the-details-of-company-from-user-store-those-details-in-to-the-database-dont-use-standard-controls-company-having-fields-ccode-cname-cadddress-cphno/
 ---
 
-```
-  
+```vb title="file.vb"
 Dim ad As ADODB.Connection  
 Dim rst As ADODB.Recordset  
 Dim sql As String  

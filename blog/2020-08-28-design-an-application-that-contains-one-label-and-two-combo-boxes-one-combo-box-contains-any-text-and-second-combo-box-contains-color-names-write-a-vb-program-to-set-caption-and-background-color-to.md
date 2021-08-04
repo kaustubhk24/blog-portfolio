@@ -9,8 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /design-an-application-that-contains-one-label-and-two-combo-boxes-one-combo-box-contains-any-text-and-second-combo-box-contains-color-names-write-a-vb-program-to-set-caption-and-background-color-to/
 ---
 
-```
-  
+```vb title="file.vb"
 Private Sub Combo1_Click()  
 	Label1.Caption = Combo1.Text  
 End Sub  

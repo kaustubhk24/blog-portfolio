@@ -10,7 +10,7 @@ slug: /program-tocreate-a-pandas-dataframe-from-list-of-dicts/
 ---
 ** Code > **
 
-```vb title="file.vb"
+```python title="file.vb"
 import pandas as pd
 data = [{'401': 'Python', '402': 'ISSA', '403': 'OT','404':'EAF','405':'KRAI'},
  {'401':'Programming','402':'Security','403':'Maths','404':'Architecture','405':'AI'}]
@@ -21,7 +21,7 @@ print (dbs, "\n")
 Output> 
 
 
-```vb title="file.vb"
+```python title="Output"
  401 402 403 404 405
 subject Python ISSA OT EAF KRAI
 Description Programming Security Maths Architecture AI

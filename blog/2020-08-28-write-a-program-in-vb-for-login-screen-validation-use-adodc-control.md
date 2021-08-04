@@ -12,8 +12,7 @@ slug: /write-a-program-in-vb-for-login-screen-validation-use-adodc-control/
 [![](https://1.bp.blogspot.com/-YnfOMnS5bjw/X0kaBOpuYdI/AAAAAAAAfhE/Ca-tRJoqtt4vRZ5UPN5aYm1hNCqd6bEIQCLcBGAsYHQ/s400/1.png)](https://1.bp.blogspot.com/-YnfOMnS5bjw/X0kaBOpuYdI/AAAAAAAAfhE/Ca-tRJoqtt4vRZ5UPN5aYm1hNCqd6bEIQCLcBGAsYHQ/s316/1.png)
 
 
-```
-  
+```vb title="file.vb" 
 Private Sub cmdok_Click()  
 Static y As Integer  
  Adodc1.Refresh  

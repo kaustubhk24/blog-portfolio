@@ -18,7 +18,7 @@ slug: /write-a-program-to-demonstrate-java-swing-components-such-as-jpasswordfie
 
 ---
 
-```
+```java title="javaSwing.java" 
   
 /**  
 * Q 1) Write a program to demonstrate Java Swing components such as  

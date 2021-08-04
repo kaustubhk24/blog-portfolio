@@ -9,9 +9,8 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-java-program-to-get-the-first-and-last-elements-in-a-tree/
 ---
 
-```
-  
-  
+```java title="firstLast.java" 
+
 import java.util.*;  
 public class firstLast {  
 public static void main(String[] args) {  

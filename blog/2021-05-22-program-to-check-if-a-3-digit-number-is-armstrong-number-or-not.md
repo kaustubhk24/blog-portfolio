@@ -10,7 +10,7 @@ slug: /program-to-check-if-a-3-digit-number-is-armstrong-number-or-not/
 ---
 Que > Program to Check If a 3 Digit Number Is Armstrong Number or Not
 
-```vb title="file.vb"
+```python title="file.py"
 from math import *
 def armstrong(number):
  result = 0
@@ -37,7 +37,7 @@ else:
 
 ## 
 
-```vb title="file.vb"
+```python title="Output"
 Enter the number : 371
 Armstrong number
 ```

@@ -13,7 +13,7 @@ slug: /write-a-program-to-implement-multiple-inheritance/
 
 
 ---
-```vb title="file.vb"
+```python title="file.py"
 class Class1:
  def m(self):
  print("In Class1")
@@ -33,7 +33,7 @@ Class4.m(1)
 
 Output:
 
-```vb title="file.vb"
+```python title="Output"
 In Class1
 In Class2
 In Class3

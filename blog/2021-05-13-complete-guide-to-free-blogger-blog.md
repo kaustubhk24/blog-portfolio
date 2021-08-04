@@ -42,4 +42,4 @@ Once your DNS propogates, You can see site on your own domain.
 
 Want read more about Blogger? [Read here about blogger & it's Advantages & disadvantages.](https://blog.kaustubh.codes/how-to-make-completely-free-blog/#Blogger) 
 
-## Video Guide
+

@@ -9,8 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-vb-program-to-place-three-text-boxes-onto-the-form-at-run-time-enter-different-strings-in-first-and-second-textbox-on-clicking-to-command-button-concatenation-of-two-strings-should-be-displ/
 ---
 
-```
-  
+```vb title="file.vb"
 Dim WithEvents text1 As TextBox  
 Dim WithEvents text2 As TextBox  
 Dim WithEvents text3 As TextBox  

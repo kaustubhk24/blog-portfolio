@@ -9,8 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-vb-program-that-takes-a-set-of-ten-numbers-and-converts-them-into-either-a-bar-chart-or-pie-chart-using-appropriate-button/
 ---
 
-```
-  
+```vb title="file.vb"
 Private Sub cmdbar_Click()  
   
 If Option1.Value Then  

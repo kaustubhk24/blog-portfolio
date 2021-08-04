@@ -12,8 +12,7 @@ slug: /write-a-vb-program-to-design-following-screen-with-validation-name-should
 [![](https://1.bp.blogspot.com/-nineOD0gr_A/X0kU3_8x8fI/AAAAAAAAfgY/DMPeqqbhjBo0uBGUMWCbFViT0SMa1BuWQCLcBGAsYHQ/s400/1.png)](https://1.bp.blogspot.com/-nineOD0gr_A/X0kU3_8x8fI/AAAAAAAAfgY/DMPeqqbhjBo0uBGUMWCbFViT0SMa1BuWQCLcBGAsYHQ/s442/1.png)
 
 
-```
-  
+```vb title="file.vb"
 Private Sub Command1_Click()  
                 Dim str As String  
                 str = Text4.Text  

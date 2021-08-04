@@ -29,21 +29,21 @@ You correctly mentioned crontab. You can configure this as a script to run every
 
 Let’s first start with creating the script. SSH to your droplet and start executing the following commands
 
-```vb title="file.vb"
+```cmd title="cmd"
 touch ~/updateScript
 
 ```
 
 The above will create the file for you. Now it’s time to edit it.
 
-```vb title="file.vb"
+```cmd title="cmd"
 nano ~/updateScript
 
 ```
 
 Inside of it, you can type in the following
 
-```vb title="file.vb"
+```cmd title="cmd"
 **#!/bin/bash**
 sudo service apache2 restart
 sudo apt update
@@ -56,7 +56,7 @@ sudo reboot
 
 Save the file and exit. Now time to make sure your script is executable
 
-```vb title="file.vb"
+```cmd title="cmd"
 sudo chmod +x ~/updateScript
 ```
 
@@ -64,7 +64,7 @@ sudo chmod +x ~/updateScript
 
 Now the last bit, add it to your crontab. To do that, type in
 
-```vb title="file.vb"
+```cmd title="cmd"
 crontab -e
 ```
 
@@ -72,7 +72,7 @@ crontab -e
 
 When the file opens at the bottom of it, add the following line
 
-```vb title="file.vb"
+```cmd title="cmd"
 55 23 * * * bash ~/updateScript
 ```
 
@@ -84,7 +84,7 @@ When the file opens at the bottom of it, add the following line
 
 
 
-```vb title="file.vb"
+```cmd title="cmd"
 # ┌───────────── minute (0 - 59)
 # │ ┌───────────── hour (0 - 23)
 # │ │ ┌───────────── day of the month (1 - 31)

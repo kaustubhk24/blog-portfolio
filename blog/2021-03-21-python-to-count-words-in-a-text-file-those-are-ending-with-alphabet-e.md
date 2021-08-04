@@ -12,7 +12,7 @@ slug: /python-to-count-words-in-a-text-file-those-are-ending-with-alphabet-e/
 
 
 ---
-```vb title="file.vb"
+```python title="file.py"
 def checkLastChar(file_name,last):
  count=0
  print("Words Ending with "+last)
@@ -29,7 +29,7 @@ checkLastChar("file.txt","e")
 
 output:
 
-```vb title="file.vb"
+```python title="Output"
 
 Words Ending with e
 Word : labore

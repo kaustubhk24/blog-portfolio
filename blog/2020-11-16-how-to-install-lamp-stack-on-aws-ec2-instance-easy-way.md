@@ -42,7 +42,7 @@ Now open **Putty** App, fill below fields as per instructions.
 
 Host Name (IP Address)
 
-```vb title="file.vb"
+```cmd title="cmd"
 ubuntu@your_instance_ip_address
 ```
 
@@ -68,20 +68,20 @@ First thing we have to do once logged in is, switching user to **root** from **u
 
 ### Updates
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ sudo -i
 ```
 
 (You can just copy paste commmands, Just change them according to your requirements. While exectuing commands below if asked click "**y** " and hit enter)
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ apt update
 $ apt upgrade
 ```
 
 Above 2 commands will update all the apps in our EC2 Ubuntu instance.
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ apt autoremove
 ```
 
@@ -89,7 +89,7 @@ It will remove all the non-required packages.
 
 ### Setting Up Sudo - User
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ adduser enter_username_here
 ```
 
@@ -98,7 +98,7 @@ Now fill complete details of user and once asked for confirmation type **y** and
 
 Now we're going to add sudo / root privileges to this user , So the user can do tasks by using word sudo. To do that
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ usermod -aG sudo enter_username_here
 ```
 
@@ -108,19 +108,19 @@ $ usermod -aG sudo enter_username_here
 
 We need to configure firewall to prevent unauthorised access to our instance. By default the firewall is turned off .
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ ufw status
 ```
 
 This command will tell you status for firewall.
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ ufw app list
 ```
 
 It will show apps needs access to firewall. for example **OpenSSH**.
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ ufw allow OpenSSH
 $ ufw enable
 ```
@@ -131,14 +131,14 @@ $ ufw enable
 
 [Apache](https://en.wikipedia.org/wiki/Apache) is web server we are going to use for serving our sites. To install Apache paste below commands and enter **y** when asked.
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ apt install apache2
 $ service apache2 restart
 ```
 
 We need to update firewall rules again & need to add **"Apache"** to allowed list. To allow execute below commands.
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ ufw allow "Apache Full"
 ```
 
@@ -160,13 +160,13 @@ Once rules updated you can visit your IP address and you can see that confirmati
 
 To install Mysql use below commands.
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ apt install mysql-server
 ```
 
 You can also install phpMyAdmin , if you need , but it's not required. To install PhpMyAdmin use below commands,
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ apt install phpmyadmin
 ```
 
@@ -176,7 +176,7 @@ You can access PhpMyAdmin at _your_instance_ip_address/phpmyadmin_. View Video V
 
 Installing PHP is the last step, Let's complete that too,
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ apt install libapache2-mod-php php-mysql
 ```
 

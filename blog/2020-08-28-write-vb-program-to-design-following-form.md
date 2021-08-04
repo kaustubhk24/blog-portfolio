@@ -15,7 +15,7 @@ slug: /write-vb-program-to-design-following-form/
 User will select color from option button and style from check boxes that should apply to text in text boxes. When user press on Display button that image should be displayed in the picture box. 
 
 
-```
+```vb title="file.vb" 
   
 Private Sub Command1_Click()  
     If Option1(0).Value Then  

@@ -10,7 +10,7 @@ slug: /write-a-program-for-thread-creation-by-extending-thread-class/
 ---
 Write a program for Thread creation by extending Thread class
 
-```vb title="file.vb"
+```java title="example_Thread.java"
 package com.practical;
 public class example_Thread extends Thread{
 public static void main(String[] args) {

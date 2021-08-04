@@ -54,4 +54,4 @@ From that menu just select .NET Desktop Development Option and Click on **Instal
 
 Once installation started , you need to wait while installation is running. After installation Just sign in to V Studio, & Done. You just completed first step.
 
-## Video Guide
+

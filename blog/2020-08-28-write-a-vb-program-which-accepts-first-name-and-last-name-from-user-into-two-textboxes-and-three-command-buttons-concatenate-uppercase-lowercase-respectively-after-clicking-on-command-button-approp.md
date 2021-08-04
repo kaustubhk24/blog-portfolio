@@ -11,9 +11,7 @@ slug: /write-a-vb-program-which-accepts-first-name-and-last-name-from-user-into-
 Write a VB program which accepts First name and last name from user into two textboxes and three command buttons Concatenate, Uppercase, Lowercase respectively. After clicking on command button appropriate result should get display into third textbox. 
 
 
-```
-  
-  
+```vb title="file.vb" 
 Private Sub Command1_Click()  
   
 	Text3.Text = Text1.Text + Text2.Text  

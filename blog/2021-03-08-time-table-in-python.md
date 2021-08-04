@@ -17,7 +17,7 @@ In this tutorial we will write a program , when you will double click on Python 
 
 To use this update your subject names and lecture times accordingly
 
-```vb title="file.vb"
+```python title="file.py"
 import time
 from datetime import datetime
 # Basic Configuration

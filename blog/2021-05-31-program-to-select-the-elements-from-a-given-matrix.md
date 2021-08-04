@@ -20,7 +20,7 @@ print(ser[:3])
 
 ** Output > **
 
-```python title="Ouput"
+```python title="Output"
 Dwayne
 John
 Steve

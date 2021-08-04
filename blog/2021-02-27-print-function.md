@@ -8,7 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /print-function/
 ---
-The included code stub will read an integer,�n, from STDIN.
+The included code stub will read an integer,n, from STDIN.
 
 Without using any string methods, try to print the following:
 
@@ -20,11 +20,11 @@ Note that ".." represents the consecutive values in between.
 
 n=5
 
-Print the string�12345.
+Print the string12345.
 
 **Input Format**
 
-The first line contains an integer n�.
+The first line contains an integer n.
 
 **Constraints**
 
@@ -32,7 +32,7 @@ The first line contains an integer n�.
 
 **Output Format**
 
-Print the list of integers from�1�through��n as a string, without spaces.
+Print the list of integers from1throughn as a string, without spaces.
 
 **Sample Input 0**
 

@@ -12,7 +12,7 @@ We are going to write Program to Print Numbers to String, which will print from 
 
 You can also increase it's capacity by adding few cases in **startPrint()** method.
 
-```vb title="file.vb"
+```java title="numberToWords.java"
 import java.util.ArrayList;
 import java.util.Scanner;
 import javax.lang.model.util.ElementScanner6;

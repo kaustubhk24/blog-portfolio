@@ -9,8 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-vb-program-to-accept-the-details-of-doctor-having-fields-dno-dname-address-and-phone-number-display-those-details-on-to-the-grid/
 ---
 
-```
-  
+```vb title="file.vb" 
 Private Sub Command1_Click()  
 Static i As Integer  
 For j = 1 To MSFlexGrid1.Cols � 1  

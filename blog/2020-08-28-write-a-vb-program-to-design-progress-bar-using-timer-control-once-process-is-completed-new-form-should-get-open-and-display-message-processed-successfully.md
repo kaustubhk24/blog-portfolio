@@ -11,8 +11,7 @@ slug: /write-a-vb-program-to-design-progress-bar-using-timer-control-once-proces
 Write a VB program to design progress bar using Timer control. Once process is completed new form should get open and display message �Processed Successfully� 
 
 
-```
-  
+```vb title="file.vb"
 Private Sub Timer1_Timer()  
   
 	ProgressBar1.Value = ProgressBar1.Value + 10  

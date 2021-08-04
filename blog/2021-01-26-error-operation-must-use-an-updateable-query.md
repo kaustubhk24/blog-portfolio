@@ -50,5 +50,5 @@ Select your name and allow all the rights, click **apply** and **ok**. That's it
 If you still face any issue , you may view video Guide below. Let us know , if it works for you.
 ![error operation must use an updateable query](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-28.png) 
 
-## Video Guide
+
 

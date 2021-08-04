@@ -9,7 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-vb-net-program-to-design-the-following-form-this-program-shows-the-details-of-students-in-the-form-of-form-use-split-container-or-groupbox-control-to-separate-the-input-and-output-session/
 ---
 
-```
+```vb title="file.vb"
   
 PublicClass Form1  
 PrivateSub btnSubmit_Click(ByVal sender As System.Object, ByVal e As  

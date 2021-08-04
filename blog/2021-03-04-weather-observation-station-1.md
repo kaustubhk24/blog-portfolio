@@ -8,8 +8,8 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /weather-observation-station-1/
 ---
-Query a list of�**CITY**�and�**STATE**�from the�**STATION**�table. 
-The�**STATION**�table is described as follows:
+Query a list of **CITY** and **STATE** from the **STATION** table. 
+The **STATION** table is described as follows:
 
 ![](https://s3.amazonaws.com/hr-challenge-images/9336/1449345840-5f0a551030-Station.jpg "Station.jpg") 
 
@@ -17,6 +17,6 @@ The�**STATION**�table is described as follows:
 
 Answer :
 
-```vb title="file.vb"
+```sql title="SQL"
 select CITY,STATE from STATION;
 ```

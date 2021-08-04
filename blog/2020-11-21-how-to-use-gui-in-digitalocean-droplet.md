@@ -29,23 +29,23 @@ If you don't know how access your DigitalOcean droplet. Please read [this articl
 Ubuntu server does NOT comes with GUI. We need to install GUI.
 ![How To Use GUI in DigitalOcean Droplet](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-17.png) 
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ sudo apt update
 ```
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ sudo apt upgrade
 ```
 
 Above 2 commands will update your Ubuntu System ( enter **y** if asked ) & Apps. Follow Next Commands
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ sudo apt install tasksel
 ```
 
 Enter **y** when asked.
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ tasksel install ubuntu-desktop
 ```
 
@@ -55,7 +55,7 @@ $ tasksel install ubuntu-desktop
 
 This will install desktop GUI. After installing we need to reboot droplet. To reboot execute,
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ sudo reboot
 ```
 

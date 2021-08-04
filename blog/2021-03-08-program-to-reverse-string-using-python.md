@@ -8,7 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-reverse-string-using-python/
 ---
-```vb title="file.vb"
+```python title="file.py"
 # WAP accept string and return reverse
 str1=str(input("Enter String : "))
 print(str1[::-1])
@@ -17,7 +17,7 @@ print(str1[::-1])
 
 Output
 
-```vb title="file.vb"
+```python title="file.py"
 Enter String : Kaustubh
 hbutsuaK
 

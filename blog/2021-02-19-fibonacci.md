@@ -34,7 +34,7 @@ Write a program to take N (variable num in code template) positive numbers as in
 
 
 
-```vb title="file.vb"
+```python title="file.py"
 #Program
 nterms = int(input())
 def recur_fibo(n):
@@ -49,7 +49,7 @@ else:
  print(recur_fibo(i))
 ```
 
-```vb title="file.vb"
+```python title="file.py"
 Input:
 7
 Output:

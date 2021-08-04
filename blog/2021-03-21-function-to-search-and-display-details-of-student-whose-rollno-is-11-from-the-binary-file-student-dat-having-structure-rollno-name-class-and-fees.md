@@ -8,7 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /function-to-search-and-display-details-of-student-whose-rollno-is-11-from-the-binary-file-student-dat-having-structure-rollno-name-class-and-fees/
 ---
-```vb title="file.vb"
+```python title="file.py"
 import pickle
 filename="student.dat"
 f=open(filename,"wb")
@@ -45,7 +45,7 @@ for dict1 in dictlist:
 
 output:
 
-```vb title="file.vb"
+```python title="Output"
 success
 Student found with Roll No 11 , Name : RM | Class : MCA | Fees 54554
 ```

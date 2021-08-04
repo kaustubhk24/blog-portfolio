@@ -17,7 +17,7 @@ slug: /distribute-amount-in-notes/
 
 We are going to write Program Distribute Amount in Notes
 
-```vb title="file.vb"
+```java title="denomination.java"
 /**
  * This program will distribute amount in currency notes
  * In India we have 2000,500,100,50,20,10,5,2,1 Notes for program

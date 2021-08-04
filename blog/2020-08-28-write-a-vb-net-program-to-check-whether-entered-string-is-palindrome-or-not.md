@@ -9,8 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-vb-net-program-to-check-whether-entered-string-is-palindrome-or-not/
 ---
 
-```
-  
+```vb title="file.vb"
 PublicClass Form1  
 PrivateSub Button1_Click(ByVal sender As System.Object, ByVal e As  
 System.EventArgs) Handles Button1.Click  

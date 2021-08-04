@@ -9,8 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-java-program-to-find-the-duplicate-values-of-an-array-of-integer-values/
 ---
 
-```
-  
+```java title="duplicate.java"
 import java.util.Arrays;   
 public class duplicate{  
   public static void main(String[] args)   

@@ -12,8 +12,7 @@ slug: /write-a-vb-program-to-display-all-even-and-odd-numbers-from-an-array/
 [![](https://1.bp.blogspot.com/-S2GO2ras9rM/X0kUXKzPZjI/AAAAAAAAfgQ/_4qwyZg2Vr8FbmTOk_hz2GNFk8bvkp3xQCLcBGAsYHQ/s400/1.png)](https://1.bp.blogspot.com/-S2GO2ras9rM/X0kUXKzPZjI/AAAAAAAAfgQ/_4qwyZg2Vr8FbmTOk_hz2GNFk8bvkp3xQCLcBGAsYHQ/s1366/1.png)
 
 
-```
-  
+```vb title="file.vb"
 Private Sub cmdDisplay_Click()  
 	Dim a() As Integer  
 	n = InputBox("How many elements do u want to enter")  

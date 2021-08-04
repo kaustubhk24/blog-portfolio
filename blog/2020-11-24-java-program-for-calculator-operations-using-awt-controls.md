@@ -8,7 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /java-program-for-calculator-operations-using-awt-controls/
 ---
-```vb title="file.vb"
+```java title="calculator.java"
 import java.awt.*;
 import java.awt.event.*;
 public class calculator implements ActionListener

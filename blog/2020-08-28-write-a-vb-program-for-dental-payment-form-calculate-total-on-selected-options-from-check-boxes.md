@@ -12,7 +12,7 @@ slug: /write-a-vb-program-for-dental-payment-form-calculate-total-on-selected-op
 [![](https://1.bp.blogspot.com/-9tOY8WBDRFc/X0kP6uZf5LI/AAAAAAAAffw/m5k1N-KmDsAs9bO0cPmTPRbvt7Etf1gUgCLcBGAsYHQ/s320/1.png)](https://1.bp.blogspot.com/-9tOY8WBDRFc/X0kP6uZf5LI/AAAAAAAAffw/m5k1N-KmDsAs9bO0cPmTPRbvt7Etf1gUgCLcBGAsYHQ/s499/1.png)
 
 
-```
+```vb title="file.vb"
   
 Private Sub Command1_Click()  
 	Dim sum As Integer  

@@ -8,7 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-perform-various-operatios-of-string-in-python/
 ---
-```vb title="file.vb"
+```python title="file.py"
 # Write a program to perform various operatios of string
 str1=str(input("Enter String : "))
 # Length of string
@@ -27,7 +27,7 @@ print(str1.lower())
 print(str1.upper())
 ```
 
-```vb title="file.vb"
+```python title="file.py"
 Output:
 Enter String : Kaustubh K..com Blogs
 Kaustubh K..com Blogs

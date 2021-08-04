@@ -14,7 +14,7 @@ Que > Program to demonstrate Using the Same Variable Name in Calling Function an
 
 ## Program
 
-```vb title="file.vb"
+```python title="file.py"
 def start(msg):
  print(msg)
 msg="Hello"
@@ -23,6 +23,6 @@ start(msg)
 
 ## Output:
 
-```vb title="file.vb"
+```python title="Output"
 Hello
 ```

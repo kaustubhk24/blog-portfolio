@@ -21,7 +21,7 @@ Write a function to take the Celsius value as an argument and return the corresp
 
 Program
 
-```vb title="file.vb"
+```python title="file.py"
 celsius = int(input())
 def conv(c):
  return c*(9/5)+32

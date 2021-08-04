@@ -12,7 +12,7 @@ You have to write program to Accept student details Like Name, Marks ( Maths, Ch
 
 **For Example :**
 
-```vb title="file.vb"
+```python title="file.py"
 Input
 1 # Number of Users
 33 # Physics Marks
@@ -25,7 +25,7 @@ This will output student result All subject's marks and percent must be greater 
 
 **Constraint**
 
-```vb title="file.vb"
+```python title="file.py"
 0 => Marks => 100
 ```
 
@@ -33,7 +33,7 @@ Marks must be greater than equal to 0 and less than equal to 100
 
 **Passing Criteria:**
 
-```vb title="file.vb"
+```python title="file.py"
 Marks >=35 To Pass
 Percent >= To Pass
 ```
@@ -45,7 +45,7 @@ Percent >= To Pass
 
 **Solution**
 
-```vb title="file.vb"
+```python title="file.py"
 # define function accept student name, get marks of 3 subjects pcm and calculate percentage
 data=[]
 n=0
@@ -94,7 +94,7 @@ printData()
 
 **Output:**
 
-```vb title="file.vb"
+```python title="file.py"
 
 Enter Number of Students :4
 Enter student Name :Mahesh Disale

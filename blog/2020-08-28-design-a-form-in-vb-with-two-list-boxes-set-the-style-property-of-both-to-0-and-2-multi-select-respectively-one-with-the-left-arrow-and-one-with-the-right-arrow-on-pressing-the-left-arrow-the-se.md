@@ -9,7 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /design-a-form-in-vb-with-two-list-boxes-set-the-style-property-of-both-to-0-and-2-multi-select-respectively-one-with-the-left-arrow-and-one-with-the-right-arrow-on-pressing-the-left-arrow-the-se/
 ---
 
-```
+```vb title="file.vb"
   
 Private Sub cmdAddLeft_Click()  
 	List1.AddItem (InputBox("Enter Item"))  

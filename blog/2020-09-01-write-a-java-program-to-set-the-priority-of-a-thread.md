@@ -9,7 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-java-program-to-set-the-priority-of-a-thread/
 ---
 
-```
+```java title="setPriorityOfThread.java" 
   
 /**  
  * Q2 Write a Java program to set the priority of a thread.  

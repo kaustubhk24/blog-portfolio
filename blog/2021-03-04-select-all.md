@@ -8,13 +8,13 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /select-all/
 ---
-Query all columns (attributes) for every row in the�**CITY**�table.
+Query all columns (attributes) for every row in the **CITY** table.
 
-The�**CITY**�table is described as follows:
+The **CITY** table is described as follows:
 ![](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/03/sql-1.jpg) 
 
 Answer :
 
-```vb title="file.vb"
+```sql title="SQL"
 select * from CITY
 ```

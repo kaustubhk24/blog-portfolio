@@ -10,7 +10,7 @@ slug: /program-for-performing-some-addition-sum-product-and-division-operation-o
 ---
 Que > Program for performing some addition, sum, product and division operation on given input and handle all types of Exceptions using Attribute Error, Value Error and Division by Zero Error, etc
 
-```vb title="file.vb"
+```python title="file.py"
 try:
  n1=int(input("Enter Integer 1:"))
  n2=int(input("Enter Integer 2:"))
@@ -30,7 +30,7 @@ finally:
  print("Program terminated")
 ```
 
-```vb title="file.vb"
+```python title="Output"
 Enter Integer 1:6
 Enter Integer 2:0
  N1 * N2 = 0

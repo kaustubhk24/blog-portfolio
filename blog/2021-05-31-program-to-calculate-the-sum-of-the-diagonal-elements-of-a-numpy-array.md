@@ -10,7 +10,7 @@ slug: /program-to-calculate-the-sum-of-the-diagonal-elements-of-a-numpy-array/
 ---
 ** Code > **
 
-```vb title="file.vb"
+```python title="file.vb"
 import numpy as np
 n_array = np.array([[95, 25, 15],
  [30, 24, 2],
@@ -24,7 +24,7 @@ print(trace)
 
 Output>
 
-```vb title="file.vb"
+```python title="Output"
 Numpy Matrix is:
 [[95 25 15]
  [30 24 2]

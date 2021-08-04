@@ -8,7 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-read-persons-age-from-keyboard-and-display-whether-is-eligible-for-voting-or-not/
 ---
-```vb title="file.vb"
+```python title="file.py"
 # Write a program to read person's age from keyboard and display whether is eligible for voting or not
 def isEligible(age):
  if age>18:
@@ -18,7 +18,7 @@ def isEligible(age):
 isEligible(int(input("Enter Age : ")))
 ```
 
-```vb title="file.vb"
+```python title="file.py"
 Output:
 Enter Age : 19
 Eligible for voting

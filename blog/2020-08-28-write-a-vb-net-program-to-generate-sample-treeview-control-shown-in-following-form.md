@@ -9,9 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-vb-net-program-to-generate-sample-treeview-control-shown-in-following-form/
 ---
 
-```
-  
-  
+```vb title="file.vb"
 public class Form1  
 Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As  
 System.EventArgs) Handles Button1.Click  

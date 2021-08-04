@@ -12,7 +12,7 @@ Let us see program to Function To Swap Values,
 
 ## Using Temporary Variable
 
-```vb title="file.vb"
+```python title="file.py"
 # method Using Temporary Variable
 def swap(a,b):
  temp=a

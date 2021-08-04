@@ -10,7 +10,7 @@ slug: /program-to-demonstrate-the-use-of-math-module-and-use-of-its-various-math
 ---
 Que > Program to demonstrate the use of math module and use of its various mathematical functions.
 
-```vb title="file.vb"
+```python title="file.py"
 
 import math
 print(math.pi)
@@ -21,7 +21,7 @@ print(math.e**10)
 print(math.sqrt(9))
 ```
 
-```vb title="file.vb"
+```python title="Output"
 3.141592653589793
 2.718281828459045
 2.302585092994046

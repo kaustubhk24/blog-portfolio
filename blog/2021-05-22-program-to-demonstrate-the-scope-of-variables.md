@@ -10,7 +10,7 @@ slug: /program-to-demonstrate-the-scope-of-variables/
 ---
 Que > Program to demonstrate the Scope of Variables
 
-```vb title="file.vb"
+```python title="file.py"
 a="Global"
 def fun(a):
  print(a)
@@ -18,7 +18,7 @@ print(a)
 fun("Local")
 ```
 
-```vb title="file.vb"
+```python title="Output"
 Global
 Local
 ```

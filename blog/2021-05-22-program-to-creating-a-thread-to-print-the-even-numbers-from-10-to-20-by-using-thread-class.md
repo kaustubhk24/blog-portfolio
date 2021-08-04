@@ -10,7 +10,7 @@ slug: /program-to-creating-a-thread-to-print-the-even-numbers-from-10-to-20-by-u
 ---
 Que > Program to creating a thread to print the even numbers from 10 to 20 by using Thread Class
 
-```vb title="file.vb"
+```python title="file.py"
 from _thread import *
 import threading as thread
 def even(name,timer):
@@ -23,7 +23,7 @@ except Exception as e:
  print ("Error: ",e)
 ```
 
-```vb title="file.vb"
+```python title="Output"
 Thread : 10
 Thread : 12
 Thread : 14

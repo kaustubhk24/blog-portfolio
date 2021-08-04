@@ -11,7 +11,7 @@ slug: /write-a-vb-net-program-to-do-the-following-operations-on-richtextbox-valu
 Write a VB.NET program to do the following operations on RichTextBox values i) Font Style ii) Font Color iii) Save iv) Open 
 
 
-```
+```vb title="file.vb"
   
 Imports System.IO  
 PublicClass Form1  

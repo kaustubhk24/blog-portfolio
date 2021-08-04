@@ -9,7 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /program-to-read-line-number-4-from-the-following-file/
 ---
 
-```
+```python title="file.py"
 *# Write a program to read line number 4 from the following file*
 *# Line1*
 *# Line2*
@@ -18,10 +18,7 @@ slug: /program-to-read-line-number-4-from-the-following-file/
 *# Line5*
 *# Line6*
 
-```
 
-
-```vb title="file.vb"
 def findInFile(file_name,line_no):
  count=0
  file=open(file_name)
@@ -32,7 +29,7 @@ findInFile("file.txt",4)
 
 output:
 
-```vb title="file.vb"
+```python title="Output"
  Etiam non quam lacus suspendisse faucibus interdum posuere.
 
 ```

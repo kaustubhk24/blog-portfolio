@@ -10,7 +10,7 @@ slug: /program-to-demonstrate-the-use-of-args-and-kwargs/
 ---
 Que > Program to demonstrate the Use of \*args and \**kwargs
 
-```vb title="file.vb"
+```python title="file.py"
 def adder(*num,**data):
  sum = 0
  for n in num:
@@ -21,7 +21,7 @@ def adder(*num,**data):
 adder(3,5,Firstname="K", Lastname="K", Age=222, Phone=1234567890)
 ```
 
-```vb title="file.vb"
+```python title="Output"
 
 Sum: 8
 Firstname is K

@@ -10,7 +10,7 @@ slug: /program-to-demonstrate-generators-in-python/
 ---
 Que > Program to demonstrate Generators in Python
 
-```vb title="file.vb"
+```python title="file.py"
 def func(a):
  yield a
 a=[1,2,3]
@@ -18,7 +18,7 @@ b=func(a)
 next(b)
 ```
 
-```vb title="file.vb"
+```python title="Output"
 [1, 2, 3]
 
 ```

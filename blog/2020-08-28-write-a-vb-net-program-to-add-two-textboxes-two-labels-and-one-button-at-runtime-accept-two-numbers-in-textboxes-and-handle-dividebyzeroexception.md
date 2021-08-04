@@ -9,9 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-vb-net-program-to-add-two-textboxes-two-labels-and-one-button-at-runtime-accept-two-numbers-in-textboxes-and-handle-dividebyzeroexception/
 ---
 
-```
-  
-  
+```vb title="file.vb" 
 PublicClass Form1  
 Dim text1 AsNew TextBox  
 Dim text2 AsNew TextBox  

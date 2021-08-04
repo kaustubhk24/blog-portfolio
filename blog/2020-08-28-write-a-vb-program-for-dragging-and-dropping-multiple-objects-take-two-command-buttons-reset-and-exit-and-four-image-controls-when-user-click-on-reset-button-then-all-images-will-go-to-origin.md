@@ -9,10 +9,8 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-vb-program-for-dragging-and-dropping-multiple-objects-take-two-command-buttons-reset-and-exit-and-four-image-controls-when-user-click-on-reset-button-then-all-images-will-go-to-origin/
 ---
 
-```
-  
-  
-           Private Sub Command1_Click()  
+```vb title="file.vb"
+Private Sub Command1_Click()  
 For i = 1 To 4  
 Image1(i).Visible = True  
 Next  

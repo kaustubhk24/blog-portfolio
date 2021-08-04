@@ -15,13 +15,10 @@ slug: /function-in-python-to-read-the-content-from-a-text-file-line-by-line-and-
  
 
 
-```
-*Write a function in python to read the content from a text file line by line and display the same on screen*
-
-```
+```python title="file.py"
+#Write a function in python to read the content from a text file line by line and display the same on screen*
 
 
-```vb title="file.vb"
 # function Defination
 def LineByLine(file_name):
  file=open(file_name)
@@ -35,7 +32,7 @@ LineByLine("file.txt")
 
 output:
 
-```vb title="file.vb"
+```python title="output"
 Data in file.txt is below
 Lorem ipsum dolor sit amet, consectetur adipiscing elit,
  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

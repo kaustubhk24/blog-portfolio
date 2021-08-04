@@ -10,13 +10,13 @@ slug: /program-to-demonstrate-the-use-of-keyword-arguments/
 ---
 Que > Program to demonstrate the Use of Keyword Arguments
 
-```vb title="file.vb"
+```python title="file.py"
 def my_function(v1, v2, v3):
  print(v3)
 my_function(v1=3, v2=5,v3=8)
 ```
 
-```vb title="file.vb"
+```python title="Output"
 
 8
 ```

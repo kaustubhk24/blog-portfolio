@@ -8,7 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-get-largest-number-from-list/
 ---
-```vb title="file.vb"
+```python title="file.py"
 # Write a program to get largest number from list
 list1=[*range(1,50)]
 print(max(list1))
@@ -20,7 +20,7 @@ for i in list1:
 print(largest)
 ```
 
-```vb title="file.vb"
+```python title="file.py"
 Output:
 49
 49

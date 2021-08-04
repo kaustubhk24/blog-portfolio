@@ -9,8 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-java-program-to-find-the-second-smallest-element-in-an-array/
 ---
 
-```
-  
+```java title="SecondSmallestInArray.java"
 public class SecondSmallestInArray{    
 public static int getSecondSmallest(int[] a, int total){    
 int temp;    

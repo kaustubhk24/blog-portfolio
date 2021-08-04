@@ -9,18 +9,11 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-program-to-demonstrate-class-components-such-as-textarea-checkbox-textfield-list-and-button/
 
 
-
-
-
-
-
-
-
 ---
-/*\* \* \* Q) Write a program to demonstrate class components such as TextArea, \* Checkbox, TextField, List and Button. \* \*/ 
+/* Q Write a program to demonstrate class components such as TextArea, \* Checkbox, TextField, List and Button. */ 
 
 
-```
+```java title="demonstrate.java" 
   
 import java.awt.*;  
   

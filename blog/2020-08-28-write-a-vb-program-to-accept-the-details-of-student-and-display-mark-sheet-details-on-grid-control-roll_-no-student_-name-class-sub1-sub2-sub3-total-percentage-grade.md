@@ -12,8 +12,7 @@ slug: /write-a-vb-program-to-accept-the-details-of-student-and-display-mark-shee
 [![](https://1.bp.blogspot.com/-PZ8xmszzCs4/X0kR5tVp8rI/AAAAAAAAfgE/unp7n2_eI3kJyLfaymoHytTR9WAu7M70ACLcBGAsYHQ/s400/1.png)](https://1.bp.blogspot.com/-PZ8xmszzCs4/X0kR5tVp8rI/AAAAAAAAfgE/unp7n2_eI3kJyLfaymoHytTR9WAu7M70ACLcBGAsYHQ/s1366/1.png)
 
 
-```
-  
+```vb title="file.vb"
 Private Sub Command1_Click()  
 	lblTotal.Caption = Val(Text4.Text) + Val(Text5.Text) + Val(Text6.Text)  
 	lblPer.Caption = Val(lblTotal.Caption) / 3  

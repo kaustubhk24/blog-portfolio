@@ -9,7 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-vb-net-program-to-design-the-following-form-select-the-question-number-from-combo-box-that-question-will-be-displayed-into-textbox-and-the-options-for-that-question-will-be-displayed-on-four/
 ---
 
-```
+```vb title="file.vb"
   
 PublicClass Form1  
 PrivateSub ComboBox1_SelectedIndexChanged(ByVal sender As System.Object, ByVal e  

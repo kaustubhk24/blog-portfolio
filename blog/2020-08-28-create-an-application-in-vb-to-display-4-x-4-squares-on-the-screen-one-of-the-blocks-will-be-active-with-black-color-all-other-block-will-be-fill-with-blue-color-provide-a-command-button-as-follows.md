@@ -14,7 +14,7 @@ Create an application in VB to display 4 X 4 squares on the screen. One of the b
 [![](https://1.bp.blogspot.com/-vcdvsYodu4Y/X0kZKEqq_qI/AAAAAAAAfg8/H3cLG-S6zfkMY3pcJV7wOIYzwYqOcY4PACLcBGAsYHQ/s400/1.png)](https://1.bp.blogspot.com/-vcdvsYodu4Y/X0kZKEqq_qI/AAAAAAAAfg8/H3cLG-S6zfkMY3pcJV7wOIYzwYqOcY4PACLcBGAsYHQ/s557/1.png)
 
 
-```
+```vb title="File.vb"
   
   
 Dim i As Integer  

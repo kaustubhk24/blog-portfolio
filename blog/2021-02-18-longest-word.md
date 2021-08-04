@@ -18,20 +18,20 @@ awesome
 
 
 
- Recall the�**split(� �)**�method, which returns a list of words of the string.
+ Recall the'**split(' ')**'method, which returns a list of words of the string.
  
 
 
 
 
-```vb title="file.vb"
+```python title="file.py"
 Program
 txt = input()
 arr=txt.split(' ')
 print(max(arr, key=len))
 ```
 
-```vb title="file.vb"
+```python title="file.py"
 Input:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
 Output:

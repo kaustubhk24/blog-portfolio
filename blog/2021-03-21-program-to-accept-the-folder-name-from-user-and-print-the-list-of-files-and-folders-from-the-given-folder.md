@@ -8,7 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-accept-the-folder-name-from-user-and-print-the-list-of-files-and-folders-from-the-given-folder/
 ---
-```vb title="file.vb"
+```python title="file.py"
 import os
 filenames = next(os.walk(input("Please copy paste path of folder : ")))[2]
 print("Following are the files in folder\n")
@@ -22,7 +22,7 @@ print("-----------------------------------------------")
 
 output:
 
-```vb title="file.vb"
+```python title="Output"
 
 Please copy paste path of folder : C:\Users\Kaustubh K.\Downloads\Python\LAB 2
 Following are the files in folder

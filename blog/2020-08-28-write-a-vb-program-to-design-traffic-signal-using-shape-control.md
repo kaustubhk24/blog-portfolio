@@ -9,9 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-vb-program-to-design-traffic-signal-using-shape-control/
 ---
 
-```
-  
-  
+```vb title="file.vb"
 Private Sub Timer1_Timer()  
 If Shape3.BackColor = vbGreen Then  
 Shape2.BackColor = vbYellow  

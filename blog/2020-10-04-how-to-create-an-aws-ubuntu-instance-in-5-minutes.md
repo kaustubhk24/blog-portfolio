@@ -119,7 +119,5 @@ While using EC2 instance for webhosting. use another SMTP servers. using similar
 
 I hope this tutorial helped you creating your first AWS Ubuntu instance.
 
-Not easy to understand? See below YouTube Video
 
-## **Video Format of Above Tutorial**
 

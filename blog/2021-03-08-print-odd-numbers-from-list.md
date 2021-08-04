@@ -13,7 +13,7 @@ slug: /print-odd-numbers-from-list/
 ---
 In this program we have to take list as input from user and we will print Odd Numbers from list.
 
-```vb title="file.vb"
+```python title="file.py"
 #Expected Input
 Enter Number of Elements in List : 3
 Enter Element 1 :7
@@ -46,7 +46,7 @@ Following are the Odd Numbers From List Given
 
 Answer :
 
-```vb title="file.vb"
+```python title="file.py"
 # Function to Get Number and print if it is odd
 def printOdd():
     print("Following are the Odd Numbers from Given List")
@@ -67,7 +67,7 @@ printOdd()
 
 Output: 1
 
-```vb title="file.vb"
+```python title="file.py"
 Enter Number of Elements in List : 3
 Enter Element 1 :7
 Enter Element 2 :2
@@ -78,7 +78,7 @@ Following are the Odd Numbers From List Given
 
 Output 2:
 
-```vb title="file.vb"
+```python title="file.py"
 Enter Number of Elements :7
 Enter Element 1 :7
 Enter Element 2 :6

@@ -8,14 +8,14 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-program-to-perform-crud-operations-using-jdbc/
 ---
-�/**
+/**
 
 * Q ) Write a program to perform CRUD operations using JDBC.
 
 */
 
 
-```
+```java title="assign2.java" 
 import java.sql.*;  
 import java.util.Scanner;  
 public class assign2 {  

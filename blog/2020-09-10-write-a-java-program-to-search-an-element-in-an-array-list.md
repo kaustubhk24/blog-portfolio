@@ -9,8 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-java-program-to-search-an-element-in-an-array-list/
 ---
 
-```
-  
+```java title="searchElement.java"   
 import java.util.*;  
 public class searchElement {  
 public static void main(String[] args) {  

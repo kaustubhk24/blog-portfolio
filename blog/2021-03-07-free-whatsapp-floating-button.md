@@ -45,11 +45,8 @@ To add this floating button you have to copy complete code from site and paste i
 
 ## Live Preview
 
-Live Preview is already added for this page , you can check right bottom corner to see example widget, Although we did not mentioned our number, So the link will not work, Don;t worry,
+Live Preview is already added for this page , you can check right bottom corner to see example widget, Although we did not mentioned our number, So the link will not work, Don't worry,
 
 
 
-## Starter Template
-
-```vb title="file.vb"
 

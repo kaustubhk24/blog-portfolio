@@ -10,7 +10,7 @@ slug: /program-to-demonstrate-the-use-if-else-block-in-try-except-block/
 ---
 Que > Program to demonstrate the use if else block in Try Except block
 
-```vb title="file.vb"
+```python title="file.py"
 def divider(x, y):
  try:
  result = x // y
@@ -23,7 +23,7 @@ def divider(x, y):
 divider(3, 2)
 ```
 
-```vb title="file.vb"
+```python title="Output"
 Answer is : 1
 Program Terminated
 ```

@@ -68,7 +68,7 @@ Now click on **Open**, If it asks for anything click on **Allow**. Now It will o
 
 Accessing droplet is very easy from Ubuntu. To access just open your **Terminal** and paste below command.
 
-```vb title="file.vb"
+```cmd title="cmd"
 $ ssh username@ip_address
 ```
 

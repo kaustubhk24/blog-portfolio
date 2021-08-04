@@ -18,7 +18,7 @@ slug: /write-a-java-program-to-display-progress-bar/
 
 ---
 
-```
+```java title="progressbar.java" 
   
 import javax.swing.*;  
 public class progressbar {  

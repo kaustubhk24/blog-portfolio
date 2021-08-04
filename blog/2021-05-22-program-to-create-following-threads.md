@@ -12,7 +12,7 @@ slug: /program-to-create-following-threads/
 
 # 2. Second thread to print the cube of a number and show the result. Use start and join operations.
 
-```vb title="file.vb"
+```python title="file.py"
 from _thread import *
 import threading as thread
 def sqr(name,num):
@@ -30,7 +30,7 @@ except Exception as e:
  print ("Error: ",e)
 ```
 
-```vb title="file.vb"
+```python title="Output"
 enter number : 9
 1#2#3#4
 Thread - 1: Square: : 81

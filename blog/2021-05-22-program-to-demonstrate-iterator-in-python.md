@@ -10,7 +10,7 @@ slug: /program-to-demonstrate-iterator-in-python/
 ---
 Que > Program to demonstrate Iterator in Python
 
-```vb title="file.vb"
+```python title="file.py"
 arr={10,20,30,40,50,60,70}
 sum=0
 for i in arr:
@@ -18,6 +18,6 @@ for i in arr:
 print(sum)
 ```
 
-```vb title="file.vb"
+```python title="Output"
 280
 ```

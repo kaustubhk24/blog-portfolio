@@ -10,9 +10,9 @@ slug: /sum-of-consecutive-numbers/
 ---
 Problem
 
-```vb title="file.vb"
+```python title="file.py"
 No one likes homework, but your math teacher has given you an assignment to find the sum of the first N numbers.
-Let�s save some time by creating a program to do the calculation for you!
+Let's save some time by creating a program to do the calculation for you!
 Take a number N as input and output the sum of all numbers from 1 to N (including N).
 Sample Input
 100
@@ -22,7 +22,7 @@ Explanation: The sum of all numbers from 1 to 100 is equal to 5050.
 
 ```
 
-```vb title="file.vb"
+```python title="file.py"
 Program
 N = int(input())
 sum=0

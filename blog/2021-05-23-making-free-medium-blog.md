@@ -46,5 +46,5 @@ That's it , done, Keep in mind You can not run ads here, they have there own par
 
 If you want to read more about [Advantages and disadvantages of medium you can read here](https://blog.kaustubh.codes/how-to-make-completely-free-blog/#Medium)
 
-## Video Guide
+
 

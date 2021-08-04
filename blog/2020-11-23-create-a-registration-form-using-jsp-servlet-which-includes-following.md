@@ -24,16 +24,14 @@ field:
  Now, create one more JSP page, where all details will be verified and after 
  verification it will display one WELCOME message.
 
-```vb title="file.vb"
+```cmd title="cmd"
 register.jsp
 ```
 
-```vb title="file.vb"
+```cmd title="cmd"
 <%@ page language="java" contentType="text/html;
 charset=ISO-8859-1"
  pageEncoding="ISO-8859-1"%>
-
-
 
 
 Registration Page
@@ -66,11 +64,11 @@ Registration form
 
 ```
 
-```vb title="file.vb"
+```cmd title="cmd"
 register_valid.java
 ```
 
-```vb title="file.vb"
+```cmd title="cmd"
 package javaAssignmen10;
 import java.io.*;
 import java.sql.*;
@@ -137,11 +135,11 @@ welcome page after success
 
 ```
 
-```vb title="file.vb"
+```cmd title="cmd"
 welcome.jsp
 ```
 
-```vb title="file.vb"
+```cmd title="cmd"
 <%@ page language="java" contentType="text/html;
 charset=ISO-8859-1"
  pageEncoding="ISO-8859-1"%>

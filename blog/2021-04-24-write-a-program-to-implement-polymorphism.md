@@ -8,7 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-program-to-implement-polymorphism/
 ---
-```vb title="file.vb"
+```python title="file.py"
 def add(x, y, z=3):
  return x + y + z
 print(add(6, 7))
@@ -17,7 +17,7 @@ print(add(2, 5, 6))
 
 output:
 
-```vb title="file.vb"
+```python title="Output"
 16
 13
 ```

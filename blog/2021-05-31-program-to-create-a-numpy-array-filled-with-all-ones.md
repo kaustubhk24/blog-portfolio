@@ -10,7 +10,7 @@ slug: /program-to-create-a-numpy-array-filled-with-all-ones/
 ---
 ** Code > **
 
-```vb title="file.vb"
+```python title="file.vb"
 import numpy as np
 a = np.ones(3, dtype = int)
 print("Matrix a:", a)
@@ -20,7 +20,7 @@ print("Matrix b:", b)
 
 ** Output > **
 
-```vb title="file.vb"
+```python title="Output"
 import numpy as np
 a = np.ones(3, dtype = int)
 print("Matrix a:", a)

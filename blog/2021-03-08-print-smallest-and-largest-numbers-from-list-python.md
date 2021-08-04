@@ -11,7 +11,7 @@ slug: /print-smallest-and-largest-numbers-from-list-python/
 
 
 ---
-```vb title="file.vb"
+```python title="file.py"
 list1=[]
 n=int(input("Enter Number of elements :"))
 for i in range(1,n+1):
@@ -24,7 +24,7 @@ print("Min is :"+str(min(list1)))
 
 Output:
 
-```vb title="file.vb"
+```python title="file.py"
 Enter Number of elements :4
 Enter Element : 5
 Enter Element : 6

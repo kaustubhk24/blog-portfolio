@@ -11,9 +11,7 @@ slug: /write-a-menu-driven-program-in-vb-for-i-addition-ii-subtraction-iii-multi
 Write a menu driven program in VB for i. Addition ii. Subtraction iii. Multiplication iv. Division 
 
 
-```
-  
-  
+```vb title="file.vb"
 Private Sub cmdClear_Click()  
 Text1.Text = ��  
 Text2.Text = ��  

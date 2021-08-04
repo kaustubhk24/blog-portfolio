@@ -19,7 +19,7 @@ slug: /python-to-read-lines-from-a-text-file-and-function-should-find-and-displa
 ```
 
 
-```vb title="file.vb"
+```python title="file.py"
 def findInFile(file_name,wordToFind):
  count=0
  file=open(file_name)
@@ -35,7 +35,7 @@ findInFile("file.txt","Python")
 
 output:
 
-```vb title="file.vb"
+```python title="Output"
 
 Python Found 1 times, Line Number : 3
 Python Found 2 times, Line Number : 4

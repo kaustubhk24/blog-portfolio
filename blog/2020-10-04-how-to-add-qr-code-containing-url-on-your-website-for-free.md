@@ -9,13 +9,6 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /how-to-add-qr-code-containing-url-on-your-website-for-free/
 
 
-
-
-
-
-
-
-
 ---
 [![](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/chart-300x300.png)](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/chart.png)
 
@@ -25,5 +18,5 @@ In this tutorial, I am Going to Guide you How to add QR code your site.
 
 Go to any part of your webpage, where you want to show the QR code of your page URL.
 
-&� Paste the following code there.
+ Paste the following code there.
 

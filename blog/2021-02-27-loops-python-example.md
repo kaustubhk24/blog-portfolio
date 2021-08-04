@@ -60,7 +60,7 @@ Print�n�lines, one corresponding to each�i.
 ```
 
 
-```vb title="file.vb"
+```python title="file.py"
 # Answer
 if __name__ == '__main__':
  n = int(input())
@@ -69,7 +69,7 @@ if 1<=n and n<=20:
  print(i**2)
 ```
 
-```vb title="file.vb"
+```python title="file.py"
 # Output
 5
 1

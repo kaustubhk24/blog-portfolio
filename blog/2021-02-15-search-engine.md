@@ -10,10 +10,10 @@ slug: /search-engine/
 ---
 Problem
 
-```vb title="file.vb"
-You�re working on a search engine. Watch your back Google!
+```python title="file.py"
+You're working on a search engine. Watch your back Google!
 The given code takes a text and a word as input and passes them to a function called search().
-The search() function should return "Word found" if the word is present in the text, or "Word not found", if it�s not.
+The search() function should return "Word found" if the word is present in the text, or "Word not found", if it's not.
 Sample Input
 "This is awesome"
 "awesome"
@@ -23,7 +23,7 @@ Word found
 
 Program:
 
-```vb title="file.vb"
+```python title="file.py"
 
 text = input()
 word = input()

@@ -28,21 +28,16 @@ Now when you will click View Windows Settings , your editor will open **app.mani
 
 In your **app.manifest** file, press **ctrl + f** and search for **dpiAware**, Now you will see some lines of code that is already commented, we will just remove there comment, See 
 
-```vb title="file.vb"
 
-```
 
 Just remove this lines of comment
 
 **Current text**
 
-```vb title="file.vb"
- Remove this line
-```
+
 
 You should have only this , just remove comments
 
-```vb title="file.vb"
 
 
 true
@@ -54,5 +49,5 @@ After this save all, click ctrl + s, Now run your app, if app still not fixed, t
 
 Also Watch Video Guide if you face any issues,
 
-## Video Guide
+
 

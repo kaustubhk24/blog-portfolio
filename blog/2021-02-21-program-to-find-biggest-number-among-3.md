@@ -8,7 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-find-biggest-number-among-3/
 ---
-```vb title="file.vb"
+```python title="file.py"
 # Write a program to find biggest number among 3
 arr=[0]*3
 for i in range(0,3):
@@ -16,7 +16,7 @@ for i in range(0,3):
 print(max(arr))
 ```
 
-```vb title="file.vb"
+```python title="file.py"
 Output:
 Enter Number : 13
 Enter Number : 65

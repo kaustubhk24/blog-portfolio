@@ -9,9 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-vb-program-to-move-a-command-button-by-using-timer-control/
 ---
 
-```
-  
-  
+```vb title="file.vb"
 Private Sub Form_Load()  
   
 	Timer1.Interval = 1  

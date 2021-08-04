@@ -10,7 +10,7 @@ slug: /program-to-add-column-in-to-dataframe/
 ---
 ** Code > **
 
-```vb title="file.vb"
+```python title="file.vb"
 import pandas as pd
 data = {'Name': ['Snake', 'Prince', 'Gangsta', 'Wolf'],
  'City':['Pune','Nasik','Kolhapur','Bangalore'],
@@ -22,7 +22,7 @@ df.insert(1, "Age", [21, 23, 24, 21], True)
 
 ** Output > ** (OLD)
 
-```vb title="file.vb"
+```python title="Output"
 
 Old:
  Name City Qualification

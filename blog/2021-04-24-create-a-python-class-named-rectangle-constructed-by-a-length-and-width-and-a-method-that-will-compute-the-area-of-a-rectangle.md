@@ -14,7 +14,7 @@ slug: /create-a-python-class-named-rectangle-constructed-by-a-length-and-width-a
 ---
 # 
 
-```vb title="file.vb"
+```python title="file.py"
 class Rectangle:
  def __init__(self, length, width):
  self.length = length
@@ -29,7 +29,7 @@ print("Area of Rectangle is :{} ".format(r.area()))
 
 ## Output:
 
-```vb title="file.vb"
+```python title="Output"
 Please Enter Length of Rectangle : 4
 Please Enter width of Rectangle : 5
 Area of Rectangle is :20.0 

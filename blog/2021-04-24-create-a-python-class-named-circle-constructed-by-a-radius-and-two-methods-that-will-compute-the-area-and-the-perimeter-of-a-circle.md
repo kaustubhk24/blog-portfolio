@@ -13,7 +13,7 @@ slug: /create-a-python-class-named-circle-constructed-by-a-radius-and-two-method
 
 
 ---
-```vb title="file.vb"
+```python title="file.py"
 class Circle():
  def __init__(self, r):
  self.radius = r
@@ -28,7 +28,7 @@ print("Perimeter of Circle is :{} ".format(NewCircle.perimeter()))
 
 Output:
 
-```vb title="file.vb"
+```python title="Output"
 
 Please Enter Radius of Circle : 5
 Area of Circle is :78.5

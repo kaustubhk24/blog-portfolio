@@ -12,7 +12,7 @@ slug: /program-to-print-numbers-to-string-in-javascript/
 
 Javascript Program to Print Numbers to String .
 
-```vb title="file.vb"
+```js title="print.js"
 function convertNumberToWords(amount) {
  var words = new Array();
  words[0] = '';

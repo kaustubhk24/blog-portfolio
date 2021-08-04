@@ -9,7 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-program-to-replace-an-element-in-a-list-using-replaceall/
 ---
 
-```
+```java title="replaceAllAnElementArrayList.java" 
 /**  
  *  Write a program to replace an element in a list using replaceAll()  
  */  

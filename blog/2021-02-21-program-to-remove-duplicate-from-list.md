@@ -8,13 +8,13 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-remove-duplicate-from-list/
 ---
-```vb title="file.vb"
+```python title="file.py"
 # Write a program to remove duplicate from list
 list1=[5,1,2,3,4,5,6,7,8,1,2,3,0,9,8,6,4,3]
 print(list(dict.fromkeys(list1)))
 ```
 
-```vb title="file.vb"
+```python title="file.py"
 Output:
 [5, 1, 2, 3, 4, 6, 7, 8, 0, 9]
 

@@ -9,9 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-java-program-to-raise-nullpointerexception/
 ---
 
-```
-  
-  
+```java title="nullPointer.java"
 public class nullPointer {  
     public static void main(String[] args) {  
        Object ref = null;  

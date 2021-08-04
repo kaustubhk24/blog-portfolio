@@ -9,13 +9,9 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /python-to-count-and-display-the-total-number-of-words-in-a-text-file/
 ---
 
-```
-*# Write a function in Python to count and display the total number of words in a text file.*
+```python title="file.py"
+# Write a function in Python to count and display the total number of words in a text file.
 
-```
-
-
-```vb title="file.vb"
 def countWords(file_name):
  file=open(file_name)
  lines=file.readlines()
@@ -30,7 +26,7 @@ print("Number of words in file = ",countWords("file.txt"))
 
 output:
 
-```vb title="file.vb"
+```python title="Output"
 Number of words in file = 108
 
 ```

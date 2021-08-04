@@ -12,7 +12,7 @@ slug: /write-a-program-thread-creation-by-implementing-runnable-interface/
 
 Write a program Thread creation by implementing Runnable Interface
 
-```vb title="file.vb"
+```java title="runnable.java"
 package com.practical;
 public class runnable implements Runnable{
 public static void main(String[] args) {

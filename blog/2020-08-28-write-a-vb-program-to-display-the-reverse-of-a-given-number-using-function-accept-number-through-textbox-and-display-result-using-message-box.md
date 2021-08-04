@@ -9,9 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-vb-program-to-display-the-reverse-of-a-given-number-using-function-accept-number-through-textbox-and-display-result-using-message-box/
 ---
 
-```
-  
-  
+```vb title="file.vb"
 Private Sub Command1_Click()  
 	Dim n As Integer  
 n = Val(Text1.Text)  

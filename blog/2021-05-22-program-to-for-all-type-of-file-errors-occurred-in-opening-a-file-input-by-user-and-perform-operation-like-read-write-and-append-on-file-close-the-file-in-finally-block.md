@@ -10,7 +10,7 @@ slug: /program-to-for-all-type-of-file-errors-occurred-in-opening-a-file-input-b
 ---
 Que > Program to for all type of file Errors occurred in opening a file input by user and perform operation like read write and append on file, close the file in finally block.
 
-```vb title="file.vb"
+```python title="file.py"
 file_name=str(input('Please enter valid file name :'))
 try:
  f=open(file_name)
@@ -32,7 +32,7 @@ finally:
  print("Program terminated")
 ```
 
-```vb title="file.vb"
+```python title="Output"
 
 Please enter valid file name :k
 Could not open/read file: k

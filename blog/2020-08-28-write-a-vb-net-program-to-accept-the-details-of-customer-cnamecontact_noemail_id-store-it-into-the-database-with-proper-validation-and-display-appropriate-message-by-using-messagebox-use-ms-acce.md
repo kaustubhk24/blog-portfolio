@@ -11,8 +11,7 @@ slug: /write-a-vb-net-program-to-accept-the-details-of-customer-cnamecontact_noe
 Write a VB.NET program to accept the details of customer (CName,Contact_No,Email_id). Store it into the database with proper validation and display appropriate message by using Messagebox.(Use MS Access ) 
 
 
-```
-  
+```vb title="file.vb"
 PublicClass Form1  
 PrivateSub CustomerBindingNavigatorSaveItem_Click(ByVal sender As System.Object,  
 ByVal e As System.EventArgs) Handles CustomerBindingNavigatorSaveItem.Click  

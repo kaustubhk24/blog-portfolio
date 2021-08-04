@@ -11,7 +11,7 @@ slug: /write-a-vb-a-program-to-enter-voters-details-and-on-next-form-disply-vote
 Write a VB a program to enter �Voters details and on next form disply Voter�s Information and check proper validation for(name, age,nationality) as � Name should be in upper case letters � Age should not be less than 18 yrs. � Natinality should be Indian. 
 
 
-```
+```vb title="file.vb"
   
 Dim age As Integer  
 Dim vname As String  

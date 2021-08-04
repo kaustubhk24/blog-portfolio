@@ -9,8 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /write-a-vb-net-program-to-create-a-table-patient-pidpnamecontact_no-disease-insert-records-into-table-and-display-appropriate-message-in-message-box-use-ms-access-to-create-db/
 ---
 
-```
-  
+```vb title="file.vb"
 PublicClass Form1  
 Dim con AsNew OleDb.OleDbConnection  
 Dim da AsNew OleDb.OleDbDataAdapter  

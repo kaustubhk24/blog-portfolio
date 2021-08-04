@@ -10,7 +10,7 @@ slug: /program-to-demonstrate-decorators-in-python/
 ---
 Que > Program to demonstrate Decorators in Python
 
-```vb title="file.vb"
+```python title="file.py"
 def first(msg):
  print(msg)
 def second(func, msg):
@@ -18,7 +18,7 @@ def second(func, msg):
 second(first, "Hello!")
 ```
 
-```vb title="file.vb"
+```python title="Output"
 Hello!
 
 ```

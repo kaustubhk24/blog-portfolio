@@ -19,7 +19,7 @@ Firstly you should have HTML form with you, if you don't have any form now, then
 
 Registration-file.html
 
-```vb title="file.vb"
+```sql title="SQL"
 Google Sheet , if you don't have one.
 
 Now let's link google form to sheet, So that we can submit HTML Form To Google Sheet.
@@ -34,7 +34,7 @@ Now we will rename Our project , To rename just click on Untitled Project & in p
 
 Now remove firstly written function from there and copy paste code below there, and click on **save button icon** , Once saved we will move forward for **initial setup**, For initial setup,
 
-```vb title="file.vb"
+```sql title="SQL"
 function doGet(e){
  return handleResponse(e);
 }

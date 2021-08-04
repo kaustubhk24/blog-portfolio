@@ -8,7 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-display-reversal-of-number/
 ---
-```vb title="file.vb"
+```python title="file.py"
 # Write a program to display reversal of number
 num=int(input("Enter a number : "))
 reverse=0
@@ -19,7 +19,7 @@ while num>0:
 print("Reversed Number is : " +str(reverse))
 ```
 
-```vb title="file.vb"
+```python title="file.py"
 output:
 Enter a number : 1569
 Reversed Number is : 9651

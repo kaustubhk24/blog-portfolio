@@ -8,13 +8,6 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /how-to-move-from-blogger-to-wordpress-without-loosing-traffic-easily/
 
-
-enclosure:
- https://static-cdn.Kaustubh K..com/assets/videos/Move-From-Blogger-To-WordPress-1.mp4
- 7084733
- video/mp4
- 
-
 ---
 Looking for How To Move From Blogger To WordPress Without Loosing Traffic Easily?
 
@@ -52,4 +45,4 @@ Now You will see some code. Now we have to add code below there. in between ****
 
 You Need to Change SiteURL to Your new WordPress site URL .
 
-```vb title="file.vb"
+

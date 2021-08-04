@@ -9,12 +9,12 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /function-display-words-in-python-to-read-lines-from-a-text-file-and-display-those-words-which-are-less-than-4-characters/
 ---
 
-```
-*# Write a function display_words() in python to read lines from a text file, and display those words, which are less than 4 characters*
+```python title="file.py"
+# Write a function display_words() in python to read lines from a text file, and display those words, which are less than 4 characters*
 ```
 
 
-```
+```python title="file.py"
 **def** wordSizeChecker(file_name,wordSize):
     count=0
     file=open(file_name)
@@ -29,7 +29,7 @@ wordSizeChecker("file.txt",4)
 
 Output:
 
-```vb title="file.vb"
+```python title="Output"
 
 Word : sit , Length : 3
 Word : sed , Length : 3
