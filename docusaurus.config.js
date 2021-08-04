@@ -37,7 +37,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'silva-nick',
+          title: 'Kaustubh K.',
           items: [
             {
               label: 'Home',
