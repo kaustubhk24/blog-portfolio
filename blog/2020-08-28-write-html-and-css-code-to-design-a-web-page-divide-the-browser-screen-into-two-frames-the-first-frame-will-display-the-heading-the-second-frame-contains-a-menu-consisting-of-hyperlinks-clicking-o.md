@@ -17,332 +17,147 @@ Write HTML and CSS code to design a web page. Divide the browser screen into two
 [![](https://1.bp.blogspot.com/-L4l47fCcAuA/X0klCRT9ZYI/AAAAAAAAfhc/O9ejLyPmGNoGa1cllgOdqhKWQwldO1LAwCLcBGAsYHQ/s400/2.png)](https://1.bp.blogspot.com/-L4l47fCcAuA/X0klCRT9ZYI/AAAAAAAAfhc/O9ejLyPmGNoGa1cllgOdqhKWQwldO1LAwCLcBGAsYHQ/s734/2.png)
 
 
-```
-file1.html
-```
-
-
-```
-  
-  
-  
-  
-  
-
-
-  
-F.Y.B.C.A. Exam Time Table   
-|  
- Date |  
- Time |  
- Subject Code |  
- Subject Name |  
-
-  
-|  
- 10/10/2018 |  
- 10:30am-01:30pm |  
- 101 |  
- PPA |  
-
-  
-|  
- 13/10/2018 |  
- 10:30am-01:30pm |  
- 102 |  
- MOE |  
-
-  
-|  
- 14/10/2018 |  
- 10:30am-01:30pm |  
- 103 |  
- BC |  
-
-  
-|  
- 15/10/2018 |  
- 10:30am-01:30pm |  
- 104 |  
- PM |  
-
-  
-|  
- 16/10/2018 |  
- 10:30am-01:30pm |  
- 105 |  
- FA |  
-
-  
-
-  
-  
-  
-  
+```html title="file1.html" 
+<html>
+<head><title></title></head>
+<body>
+<table border="1">
+<caption style="color:red";font-family:arial>F.Y.B.C.A. Exam Time Table </font></caption>
+<tr>
+<th>Date</th>
+<th>Time</th>
+<th>Subject Code</th>
+<th>Subject Name</th>
+</tr>
+<tr>
+<td>10/10/2018</td>
+<td>10:30am-01:30pm</td>
+<td>101</td>
+<td>PPA</td>
+</tr>
+<tr>
+<td>13/10/2018</td>
+<td>10:30am-01:30pm</td>
+<td>102</td>
+<td>MOE</td>
+</tr>
+<tr>
+<td>14/10/2018</td>
+<td>10:30am-01:30pm</td>
+<td>103</td>
+<td>BC</td>
+</tr>
+<tr>
+<td>15/10/2018</td>
+<td>10:30am-01:30pm</td>
+<td>104</td>
+<td>PM</td>
+</tr>
+<tr>
+<td>16/10/2018</td>
+<td>10:30am-01:30pm</td>
+<td>105</td>
+<td>FA</td>
+</tr>
+</table>
+</body>
+</html>
 
 ```
-
-
-Output: 
-
-
-
-
-F.Y.B.C.A. Exam Time Table | 
- Date
-  | 
- Time
-  | 
- Subject Code
-  | 
- Subject Name
-  |
-| 
- 10/10/2018
-  | 
- 10:30am-01:30pm
-  | 
- 101
-  | 
- PPA
-  |
-| 
- 13/10/2018
-  | 
- 10:30am-01:30pm
-  | 
- 102
-  | 
- MOE
-  |
-| 
- 14/10/2018
-  | 
- 10:30am-01:30pm
-  | 
- 103
-  | 
- BC
-  |
-| 
- 15/10/2018
-  | 
- 10:30am-01:30pm
-  | 
- 104
-  | 
- PM
-  |
-| 
- 16/10/2018
-  | 
- 10:30am-01:30pm
-  | 
- 105
-  | 
- FA
-  |
+|Date|Time|Subject Code|Subject Name|
+|--- |--- |--- |--- |
+|10/10/2018|10:30am-01:30pm|101|PPA|
+|13/10/2018|10:30am-01:30pm|102|MOE|
+|14/10/2018|10:30am-01:30pm|103|BC|
+|15/10/2018|10:30am-01:30pm|104|PM|
+|16/10/2018|10:30am-01:30pm|105|FA|
 
 
 
-```
-file2.html
-```
-
-
-```
-  
-  
-  
-  
-
-
-  
- S.Y.B.C.A. Exam Time Table   
-|  
- Date |  
- Time |  
- Subject Code |  
- Subject Name |  
-
-  
-|  
- 10/10/2018 |  
- 10:30am-01:30pm |  
- 201 |  
- RD |  
-
-  
-|  
- 13/10/2018 |  
- 10:30am-01:30pm |  
- 202 |  
- DS |  
-
-  
-|  
- 14/10/2018 |  
- 10:30am-01:30pm |  
- 203 |  
- OS |  
-
-  
-|  
- 15/10/2018 |  
- 10:30am-01:30pm |  
- 204 |  
- BM |  
-
-  
-|  
- 16/10/2018 |  
- 10:30am-01:30pm |  
- 205 |  
- SE |  
-
-  
-
-  
-  
-  
-  
+```html title="file2.html" 
+<html>
+<head><title></title></head>
+<body>
+<table border="1">
+<caption style="color:blue";font-family:arial> S.Y.B.C.A. Exam Time Table </caption>
+<tr>
+<th>Date</th>
+<th>Time</th>
+<th>Subject Code</th>
+<th>Subject Name</th>
+</tr>
+<tr>
+<td>10/10/2018</td>
+<td>10:30am-01:30pm</td>
+<td>201</td>
+<td>RD</td>
+</tr>
+<tr>
+<td>13/10/2018</td>
+<td>10:30am-01:30pm</td>
+<td>202</td>
+<td>DS</td>
+</tr>
+<tr>
+<td>14/10/2018</td>
+<td>10:30am-01:30pm</td>
+<td>203</td>
+<td>OS</td>
+</tr>
+<tr>
+<td>15/10/2018</td>
+<td>10:30am-01:30pm</td>
+<td>204</td>
+<td>BM</td>
+</tr>
+<tr>
+<td>16/10/2018</td>
+<td>10:30am-01:30pm</td>
+<td>205</td>
+<td>SE</td>
+</tr>
+</table>
+</body>
+</html>
 
 ```
 
+|Date|Time|Subject Code|Subject Name|
+|--- |--- |--- |--- |
+|10/10/2018|10:30am-01:30pm|201|RD|
+|13/10/2018|10:30am-01:30pm|202|DS|
+|14/10/2018|10:30am-01:30pm|203|OS|
+|15/10/2018|10:30am-01:30pm|204|BM|
+|16/10/2018|10:30am-01:30pm|205|SE|
 
-Output: 
-
-
-
- S.Y.B.C.A. Exam Time Table | 
- Date
-  | 
- Time
-  | 
- Subject Code
-  | 
- Subject Name
-  |
-| 
- 10/10/2018
-  | 
- 10:30am-01:30pm
-  | 
- 201
-  | 
- RD
-  |
-| 
- 13/10/2018
-  | 
- 10:30am-01:30pm
-  | 
- 202
-  | 
- DS
-  |
-| 
- 14/10/2018
-  | 
- 10:30am-01:30pm
-  | 
- 203
-  | 
- OS
-  |
-| 
- 15/10/2018
-  | 
- 10:30am-01:30pm
-  | 
- 204
-  | 
- BM
-  |
-| 
- 16/10/2018
-  | 
- 10:30am-01:30pm
-  | 
- 205
-  | 
- SE
-  |
-
-
-
+```html title="file3.html" 
+<html>
+<head><title> </title></head>
+<body>
+<a href="file1.html">FYBCA</a><br>
+<a href="file2.html">SYBCA</a>
+</body>
+</html>
 ```
-file3.html
+```html title="file4.html" 
+
+<html>
+<head>
+</head>
+<body>
+<h1 style="color:red";font-family:arial><b>COMPUTER SCIENCE <br>DEPARTMENT </b></h1>
+</body>
+</html>
 ```
+```html title="file5.html" 
 
-
+<html>
+<frameset cols="30%,70%">
+<frame src=comp_sci.html>
+<frame src=menu.html>
+</frameset>
+</html>
 ```
-  
-  
-  
-   
-  
-[FYBCA](file1.html)  
-  
-  
-  
-  
-
-```
-
-
-Output: [FYBCA](https://Kaustubh K..com/timetable_fy.html) 
-[SYBCA](https://Kaustubh K..com/timetable_sy.html) 
-
-
-```
-file4.html
-```
-
-
-```
-  
-  
-  
-  
-  
-**COMPUTER SCIENCE DEPARTMENT**
-===============================
-
-  
-  
-  
-  
-
-```
-
-
-Output: 
-
-**COMPUTER SCIENCE 
-DEPARTMENT**
-==================================
-
-
-
-```
-file5.html
-```
-
-
-```
-  
-  
-  
-  
-  
-  
-  
-  
-
-```
-
-
 Output: 
 
 

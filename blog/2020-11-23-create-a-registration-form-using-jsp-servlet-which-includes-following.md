@@ -24,52 +24,46 @@ field:
  Now, create one more JSP page, where all details will be verified and after 
  verification it will display one WELCOME message.
 
-```cmd title="cmd"
-register.jsp
-```
 
-```cmd title="cmd"
+
+```java title="register.jsp"
 <%@ page language="java" contentType="text/html;
 charset=ISO-8859-1"
  pageEncoding="ISO-8859-1"%>
-
-
-Registration Page
-
-
-Registration form
-=================
-
-
-
- First Name:    
-
- Last Name:    
-
- Address:   
-
- Contact number:   
-
- Email:   
-
- User Name:   
-
- Password:   
-
-  
-
-
-
-
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Registration Page</title>
+</head>
+<body>
+<h1>Registration form</h1>
+ <FORM action="registervalid" method="post">
+ First Name: <input type="text"
+name="fsNm"> <br>
+ Last Name: <input type="text"
+name="lsNm"> <br>
+ Address: <input type="text"
+name="add"><br>
+ Contact number: <input type="text"
+name="mob" maxlength="10" pattern="[0-9]{10}"><br>
+ Email: <input type="text"
+name="eml"><br>
+ User Name: <input type="text"
+name="usNm"><br>
+ Password: <input type="password"
+name="pass"><br>
+ <input type="submit" value="submit"><br>
+ <input type=reset value=reset>
+</FORM>
+</body>
+</html>
 ```
 
-```cmd title="cmd"
-register_valid.java
-```
 
-```cmd title="cmd"
-package javaAssignmen10;
+
+```java title="register_valid.java"
+package javaAssignment10;
 import java.io.*;
 import java.sql.*;
 import javax.servlet.*;
@@ -133,23 +127,21 @@ welcome page after success
 }
 }
 
+
 ```
 
-```cmd title="cmd"
-welcome.jsp
-```
 
-```cmd title="cmd"
+```java title="welcome.jsp"
 <%@ page language="java" contentType="text/html;
 charset=ISO-8859-1"
  pageEncoding="ISO-8859-1"%>
-
-
-
-
-Welcome
-
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Welcome</title>
+</head>
+<body>
 <%
  if(session.getAttribute("firstName")==null)
 {
@@ -157,14 +149,10 @@ response.sendRedirect("Register.jsp");//This is to prevent
 users from directly accessing webpage
 }
 %>
-Welcome ${firstName}
-====================
-
-
-### You have successfully registered for
-Competition!
-
-
-
+<h1>Welcome ${firstName}</h1>
+<h3>You have successfully registered for
+Competition!</h3>
+</body>
+</html>
 
 ```

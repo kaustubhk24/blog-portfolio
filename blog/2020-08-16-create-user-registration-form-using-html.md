@@ -1,6 +1,6 @@
 ---
 title: Create User Registration form using HTML
-slug: create-user-registration-form-using-html/
+slug: /create-user-registration-form-using-html/
 date: 2020-08-16T12:21:00+00:00
 author: Kaustubh Kulkarni
 author_title: Programmer

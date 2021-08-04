@@ -8,36 +8,35 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /video-forward-reverse-controls-in-html/
 
-
-
-
-
-
-
-
-enclosure:
- https://static-cdn.Kaustubh K..com/assets/videos/sample-video.mp4
- 6609513
- video/mp4
- 
-
 ---
 
-```
-  
-  
-	  
-                                                                        var vd = document.getElementById("myVd");  
-             
-            function vdFwd()  
-            {  
-                vd.currentTime=vd.currentTime+10;  
-                vd.play();  
-            }  
-            function vdRev()  
-            {  
-                vd.currentTime=vd.currentTime-10;  
-                vd.play();  
-            }
-```
+```html title="index.html"
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Video-Forward,Reverse</title>
 
+</head>
+<body>
+    <center>
+        <video width="400" height="400" id="myVd" controls>
+                  <source id="firstVd" src="1.mp4" type="video/mp4"></video>
+       <button id="btFwd" type="button" onClick="vdFwd()">Forward</button>
+       <button id="btBhd" type="button" onClick="vdRev()">Reverse</button><br>
+        </center>
+        <script type="text/javascript">
+            var vd = document.getElementById("myVd");
+           
+            function vdFwd()
+            {
+                vd.currentTime=vd.currentTime+10;
+                vd.play();
+            }
+            function vdRev()
+            {
+                vd.currentTime=vd.currentTime-10;
+                vd.play();
+            }</script>
+</body>
+</html>
+```
