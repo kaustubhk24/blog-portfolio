@@ -48,7 +48,7 @@ In this step we have to select An Amazon Machine Image (AMI). we will simply cli
 
 
 
-For this tutorial we are going to use **Ubuntu Server 20.04 LTS (HVM), SSD Volume Type�- ami-0cda377a1b884a1bc (64-bit x86) / ami-086c142842468ba9d (64-bit Arm)**. Now click on **select** button as shown in image.
+For this tutorial we are going to use **Ubuntu Server 20.04 LTS (HVM), SSD Volume Type - ami-0cda377a1b884a1bc (64-bit x86) / ami-086c142842468ba9d (64-bit Arm)**. Now click on **select** button as shown in image.
 ![How to Create an AWS Ubuntu Instance in 5 minutes?](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-38-1024x576.png) 
 
 
@@ -77,7 +77,7 @@ Now see option **Delete on Termination** . If you want delete your storage autom
 
 How to Create an AWS Ubuntu Instance in 5 minutes?
 
-_Free tier eligible customers can get up to 30 GB of EBS General Purpose (SSD) or Magnetic storage.�[Learn more](https://aws.amazon.com/free/)�about free usage tier eligibility and usage restricti_s._
+_Free tier eligible customers can get up to 30 GB of EBS General Purpose (SSD) or Magnetic storage. [Learn more](https://aws.amazon.com/free/) about free usage tier eligibility and usage restricti_s._
 ![](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-16-1024x576.png) 
 
 ## **Step 5 :** 

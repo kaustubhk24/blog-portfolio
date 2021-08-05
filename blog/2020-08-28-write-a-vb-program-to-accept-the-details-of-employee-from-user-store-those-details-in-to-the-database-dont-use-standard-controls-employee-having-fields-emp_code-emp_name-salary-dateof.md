@@ -1,5 +1,5 @@
 ---
-title: 'Write a VB Program to accept the details of employee from user & store those details in to the database. (Don�t use Standard controls) Employee having fields e_\_code, e_\_name, salary, dateofjoining.'
+title: 'Write a VB Program to accept the details of employee from user & store those details in to the database. (Don t use Standard controls) Employee having fields e_\_code, e_\_name, salary, dateofjoining.'
 date: 2020-08-28T14:20:00+00:00
 author: Kaustubh Kulkarni
 author_title: Programmer

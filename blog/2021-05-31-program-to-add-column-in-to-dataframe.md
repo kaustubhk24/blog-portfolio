@@ -24,68 +24,18 @@ df.insert(1, "Age", [21, 23, 24, 21], True)
 
 ```python title="Output"
 
-Old:
+**Old:**
  Name City Qualification
-0 Snake Pune Msc
-1 Prince Nasik MA
-2 Gangsta Kolhapur Msc
-3 Wolf Bangalore Msc
+ Snake Pune Msc
+ Prince Nasik MA
+ Gangsta Kolhapur Msc
+ Wolf Bangalore Msc
 ```
+** New > ** (OLD)
 
-New ** Output > ** 
-
-
-
-|  | 
- Name
-  | 
- Age
-  | 
- City
-  | 
- Qualification
-  |
-| --- | --- | --- | --- | --- |
-|  | 
- Snake
-  | 
- 21
-  | 
- Pune
-  | 
- Msc
-  |
-| 
- 1
-  | 
- Prince
-  | 
- 23
-  | 
- Nasik
-  | 
- MA
-  |
-| 
- 2
-  | 
- Gangsta
-  | 
- 24
-  | 
- Kolhapur
-  | 
- Msc
-  |
-| 
- 3
-  | 
- Wolf
-  | 
- 21
-  | 
- Bangalore
-  | 
- Msc
-  |
-
+|Name|Age|City|Qualification|
+|--- |--- |--- |--- |
+|Snake|21|Pune|Msc|
+|Prince|23|Nasik|MA|
+|Gangsta|24|Kolhapur|Msc|
+|Wolf|21|Bangalore|Msc|

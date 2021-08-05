@@ -10,7 +10,7 @@ slug: /index-complete-visual-basic-net-series/
 ---
 We decided to make a complete series on visual basic.net (VB.NET).
 
-This is index file of of our new complete vb.net series this will be� daily updated once content is updated, we will upload tutorials along with images and videos here and we will create YouTube playlist and link will be shared here, please follow below index, happy learning
+This is index file of of our new complete vb.net series this will be  daily updated once content is updated, we will upload tutorials along with images and videos here and we will create YouTube playlist and link will be shared here, please follow below index, happy learning
 
 YouTube Playlist [Click Here](https://www.youtube.com/playlist?list=PLOO3sLziWSxa0MO2x1r-7BQyfQX7vtomf)
 

@@ -1,5 +1,5 @@
 ---
-title: 'Write a VB a program to enter �Voters details and on next form disply Voter�s Information and check proper validation for(name, age,nationality) as � Name should be in upper case letters � Age should not be less than 18 yrs. � Natinality should be Indian.'
+title: 'Write a VB a program to enter  Voters details and on next form disply Voter s Information and check proper validation for(name, age,nationality) as   Name should be in upper case letters   Age should not be less than 18 yrs.   Natinality should be Indian.'
 date: 2020-08-28T14:36:00+00:00
 author: Kaustubh Kulkarni
 author_title: Programmer
@@ -8,7 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-vb-a-program-to-enter-voters-details-and-on-next-form-disply-voters-information-and-check-proper-validation-forname-agenationality-as-name-should-b/
 ---
-Write a VB a program to enter �Voters details and on next form disply Voter�s Information and check proper validation for(name, age,nationality) as � Name should be in upper case letters � Age should not be less than 18 yrs. � Natinality should be Indian. 
+Write a VB a program to enter  Voters details and on next form disply Voter s Information and check proper validation for(name, age,nationality) as   Name should be in upper case letters   Age should not be less than 18 yrs.   Natinality should be Indian. 
 
 
 ```vb title="file.vb"

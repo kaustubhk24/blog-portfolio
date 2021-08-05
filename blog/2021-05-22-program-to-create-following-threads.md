@@ -8,9 +8,9 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-create-following-threads/
 ---
-# 1. First thread to print the square of a number entered by user,
 
-# 2. Second thread to print the cube of a number and show the result. Use start and join operations.
+*  First thread to print the square of a number entered by user,
+*  Second thread to print the cube of a number and show the result. Use start and join operations.
 
 ```python title="file.py"
 from _thread import *

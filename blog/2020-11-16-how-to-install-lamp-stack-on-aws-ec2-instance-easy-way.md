@@ -184,10 +184,10 @@ enter **y** when asked, That's it. You just completed installation of LAMP Stack
 
 
 
-# Video Version of Above Tutorial
 
 
-# Looking for Alternative of EC2? 
+
+## Looking for Alternative of EC2? 
 
 
 Get the $100 free credits by Digital Ocean for free. You can get $100 by clicking below button.

@@ -103,7 +103,7 @@ Click on **Site Library** and Select site you like, In this tutorial we will be 
 To remove copyright , activation of copyright plugin is required, it will be automatically disabled , if you imported above site, Go to Appearance -> GeneratePress and activate that plugin, Next click Appearance -> Customize 
 ![](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-26.png) 
 
-tap that blue button and write copyright you want. You may use **%copy%** to print **�** symbol and **%curre__year%** will print **current yea**r.
+tap that blue button and write copyright you want. You may use **%copy%** to print ** ** symbol and **%curre__year%** will print **current yea**r.
 
 Done we just saw, How To Make Fastest Blog in WordPress. IF you faced any issue while following this tutorial you can watch video Guide below.
 

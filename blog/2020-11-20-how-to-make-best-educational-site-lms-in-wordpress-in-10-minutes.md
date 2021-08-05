@@ -43,7 +43,7 @@ Last step is to follow there wizard , and import demo. that's it. You got site j
 If facing difficulties [check this guide.](#video)
 ![Make Best Educational Site LMS In WordPress](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-15-1024x405.png) 
 
-# Video Version Make Best Educational Site LMS In WordPress {#video}
+
 
 
 

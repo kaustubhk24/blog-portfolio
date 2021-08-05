@@ -68,5 +68,5 @@ If you still have issues watch video version below.
 
 **NOTE: MAKE SURE YOU TAKE NECESSARY CARE OF DROPLET SECURITY, IN THIS PROCESS.**
 
-## Video Version of Tutorial
+ 
 

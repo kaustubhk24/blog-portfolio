@@ -9,13 +9,13 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /loops-python-example/
 ---
 **Task** 
-The provided code stub reads and integer,�n, from STDIN. For all non-negative integers i2.
+The provided code stub reads and integer, n, from STDIN. For all non-negative integers i2.
 
 **Example**
 
 n=3
 
-The list of non-negative integers that are less than n=3��is [0,1,2]�. Print the square of each number on a separate line.
+The list of non-negative integers that are less than n=3  is [0,1,2] . Print the square of each number on a separate line.
 
 
 ```
@@ -28,7 +28,7 @@ The list of non-negative integers that are less than n=3��is [0,1,2]�. Pri
 
 **Input Format**
 
-The first and only line contains the integer, n�.
+The first and only line contains the integer, n .
 
 **Constraints**
 
@@ -36,7 +36,7 @@ The first and only line contains the integer, n�.
 
 **Output Format**
 
-Print�n�lines, one corresponding to each�i.
+Print n lines, one corresponding to each i.
 
 **Sample Input 0**
 

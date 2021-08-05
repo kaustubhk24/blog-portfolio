@@ -13,9 +13,9 @@ Write a menu driven program in VB for i. Addition ii. Subtraction iii. Multiplic
 
 ```vb title="file.vb"
 Private Sub cmdClear_Click()  
-Text1.Text = ��  
-Text2.Text = ��  
-Text3.Text = ��  
+Text1.Text =     
+Text2.Text =     
+Text3.Text =     
 Text1.SetFocus  
 End Sub  
 Private Sub cmdExit_Click()  
@@ -31,7 +31,7 @@ Private Sub mnuMult_Click()
 Text3.Text = Val(Text1.Text) * Val(Text2.Text)  
 End Sub  
 Private Sub mnusub_Click()  
-Text3.Text = Val(Text1.Text) � Val(Text2.Text)  
+Text3.Text = Val(Text1.Text)   Val(Text2.Text)  
 End Sub  
   
   

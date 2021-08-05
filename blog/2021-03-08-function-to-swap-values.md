@@ -10,7 +10,7 @@ slug: /function-to-swap-values/
 ---
 Let us see program to Function To Swap Values,
 
-## Using Temporary Variable
+### Using Temporary Variable
 
 ```python title="file.py"
 # method Using Temporary Variable
@@ -28,7 +28,7 @@ print(swap(7,3))
 >> (3,7)
 ```
 
-## Direct Method
+### Direct Method
 
 ```vb title="file.vb"
 
@@ -43,7 +43,7 @@ print(swap(3,7))
 >>(7,3)
 ```
 
-## Without Using Temporary Variable
+### Without Using Temporary Variable
 
 ```vb title="file.vb"
 def swap(a,b):

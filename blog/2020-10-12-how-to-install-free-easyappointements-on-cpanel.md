@@ -39,7 +39,7 @@ To upload click on **File Manager** and Go to **Public_html** folder and create 
 
 Suppose you want to add your software at **example.com/book** then create a folder **book** inside your **public_html** folder.
 
-Now upload the .zip file we downloaded from easy appointments site. Now we have to extract that file. After extraction, you will get a folder with the same name as our zip file name. Firstly we can securely delete that zip file. Now move the content from our **easyappontments�.** folder to our **book** folder. 
+Now upload the .zip file we downloaded from easy appointments site. Now we have to extract that file. After extraction, you will get a folder with the same name as our zip file name. Firstly we can securely delete that zip file. Now move the content from our **easyappontments .** folder to our **book** folder. 
 
 that's it. we completed our first task to upload required files to the server.
 
@@ -77,7 +77,7 @@ To start final setup Go to File Manger and find the file we renamed to **config.
 
 
 
-```vb title="file.vb"
+```php title="config.php"
 php
 /* ----------------------------------------------------------------------------
  * Easy!Appointments - Open Source Web Scheduler
@@ -186,77 +186,25 @@ Enter credentials we just setup and Login. You can customise everything now. Upd
 
 ## About Booking System Pro 
 
-Booking system Pro is provided by [JustInClicks.com](https://justinclicks.com/appointment-booking-system/) . It contains Multiple Pro Features that are NOT available in FREE system.
+Booking system Pro is provided by [JustInClicks.com](https://justinclicks.com/contact) . It contains Multiple Pro Features that are NOT available in FREE system.
 
 ### FREE vs Pro. Why Pro
 
-
-|  |  |
-| --- | --- |
-| **FREE** | **PRO** |
-| 
- Email Notification  
- | 
- Email Notification  
- |
-| 
- All Basic Features  
- | 
- All Basic Features  
- |
-| 
- Responsive Design  
- | 
- Responsive Design  
- |
-| 
- 23+ Language Support  
- | 
- 23+ Language Support  
- |
-| 
- Multiple Attendants  
- | 
- Multiple Attendants  
- |
-| 
- Business Logic Setup  
- | 
- Business Logic Setup  
- |
-| 
- You have to pay for hosting and domain
-  | [JustInClicks.com](https://www.kaustubh.codes/booking-app/index.html) Pay for both
-  |
-| 
- Unlimited users  
- | 
- Unlimited users  
- |
-| ~~Installation~~ | 
- Installation
-  |
-| ~~QR Code integration~~ |   
-QR Code integration  
- |
-| ~~QR Scanner App~~ | 
- QR Scanner App  
- |
-| ~~Payment Gateway~~ | **Payment Gateway** |
-| ~~Theme Customization~~ | 
- Theme Customization  
- |
-| ~~Technical Support~~ | 
- Technical Support  
- |
-| ~~Web Hosting~~ | 
- Web Hosting
-  |
-
-
-
-
-
-
-
-## YouTube Video Version of Above Tutorial
+|||
+|--- |--- |
+|FREE|PRO|
+|Email Notification|Email Notification|
+|All Basic Features|All Basic Features|
+|Responsive Design|Responsive Design|
+|23+ Language Support|23+ Language Support|
+|Multiple Attendants|Multiple Attendants|
+|Business Logic Setup|Business Logic Setup|
+|You have to pay for hosting and domain|JustInClicks.com Pay for both|
+|Unlimited users|Unlimited users|
+|Installation|Installation|
+|QR Code integration|QR Code integration|
+|QR Scanner App|QR Scanner App|
+|Payment Gateway|Payment Gateway|
+|Theme Customization|Theme Customization|
+|Technical Support|Technical Support|
+|Web Hosting|Web Hosting|

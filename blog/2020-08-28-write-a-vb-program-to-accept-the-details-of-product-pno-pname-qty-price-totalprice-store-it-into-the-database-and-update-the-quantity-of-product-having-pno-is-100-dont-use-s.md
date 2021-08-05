@@ -1,5 +1,5 @@
 ---
-title: 'Write a VB program to accept the details of product (pno, pname, qty, price totalprice) store it into the database and update the quantity of product having pno is 100. (Don�t use Standard Data controls)'
+title: Write a VB program to accept the details of product (pno, pname, qty, price totalprice) store it into the database and update the quantity of product having pno is 100. (Don't use Standard Data controls)
 date: 2020-08-28T14:31:00+00:00
 author: Kaustubh Kulkarni
 author_title: Programmer

@@ -24,7 +24,7 @@ What are the data types available in VB?
 
 ### **String** 
 
-String Data types used to Save words in varible Like �abc', Its size depends on platform implementation. example
+String Data types used to Save words in varible Like  abc', Its size depends on platform implementation. example
 
 ```vb title="file.vb"
 Dim str As String= "PQR"

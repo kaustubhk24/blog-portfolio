@@ -1,5 +1,5 @@
 ---
-title: 'Write a VB program to design progress bar using Timer control. Once process is completed new form should get open and display message �Processed Successfully�'
+title: 'Write a VB program to design progress bar using Timer control. Once process is completed new form should get open and display message  Processed Successfully '
 date: 2020-08-28T14:37:00+00:00
 author: Kaustubh Kulkarni
 author_title: Programmer
@@ -8,7 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-vb-program-to-design-progress-bar-using-timer-control-once-process-is-completed-new-form-should-get-open-and-display-message-processed-successfully/
 ---
-Write a VB program to design progress bar using Timer control. Once process is completed new form should get open and display message �Processed Successfully� 
+Write a VB program to design progress bar using Timer control. Once process is completed new form should get open and display message  Processed Successfully  
 
 
 ```vb title="file.vb"

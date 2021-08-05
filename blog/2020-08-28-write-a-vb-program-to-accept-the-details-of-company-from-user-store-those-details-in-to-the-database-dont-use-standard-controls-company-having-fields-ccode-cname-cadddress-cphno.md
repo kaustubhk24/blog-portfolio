@@ -1,5 +1,5 @@
 ---
-title: 'Write a VB Program to accept the details of Company from user & store those details in to the database. (Don�t use Standard controls) Company having fields ccode, cname, cadddress, cphno'
+title: 'Write a VB Program to accept the details of Company from user & store those details in to the database. (Don t use Standard controls) Company having fields ccode, cname, cadddress, cphno'
 date: 2020-08-28T14:22:00+00:00
 author: Kaustubh Kulkarni
 author_title: Programmer
