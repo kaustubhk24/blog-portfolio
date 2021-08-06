@@ -1,0 +1,99 @@
+---
+title: How to use EasyURLs?
+date: 2021-08-06 
+author: Kaustubh Kulkarni
+author_title: Programmer
+author_url: https://github.com/kaustubhk24
+author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f61?s=200
+slug: /how-to-use-easyurls/
+---
+
+# Installation
+
+## Uploading files 
+
+
+To upload files, first we need to download them from [EasyURLs repository](https://github.com/kaustubhk24/EasyURLs/)
+
+[Download zip file](https://github.com/kaustubhk24/EasyURLs/archive/refs/heads/main.zip)
+
+Once source code is downloaded. Now visit your website's CPanel. You can access your cpanel from your hosting provider's site or you can directly access using cpanel.yoursite.com or yoursite.com/cpanel .
+
+Once you accessed your CPanel we will be moving to upload our files on CPanel Account .
+To upload click on **File Manager** and Go to **Public_html** folder and create desired folder.
+![How to Install FREE EasyURLS on CPanel in 5 minutes? ](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-2.png) 
+
+Suppose you want to add your software at **example.com/url** then create a folder **url** inside your **public_html** folder.
+
+Now upload the .zip file we downloaded from above link. Now we have to extract that file. After extraction, you will get a folder with the same name as our zip file name. Now we can securely delete that zip file. Now move the content from our **EasyURLs-master .** folder to our **link** folder. 
+
+that's it. we completed our first task to upload required files to the server.
+
+## Database Part
+
+### Creating Database
+
+To create database click on **MySQL Databases**. see image below. option 1 to be selected.
+![How to Install FREE EasyURLS on CPanel in 5 minutes? ](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-3.png) 
+
+Once you click you will be redirected to page where it will ask you the name of database. You have to enter database name you want to use. Keep Good & understandable database name & click on **Create Database**.
+![How to Install FREE EasyURLS on CPanel in 5 minutes? ](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-4.png) 
+
+### Creating A User
+
+Once the database is created. we have to create a user to access the database we just created. To create users just scroll down. You will get the option to **Add New User**. Create a username & you can use a password generator to generate passwords. Keep all this data safe and secure. we need all this data while setting up your app.
+![How to Install FREE EasyURLS on CPanel in 5 minutes? ](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-5.png) 
+
+### Authorising the user to use database
+
+The last step & important step is to authorize user to use our database. Just scroll more you will find **Add User to Database** option.
+![How to Install FREE EasyURLS on CPanel in 5 minutes? ](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-7.png) 
+
+Now select the user and appropriate database and click on **Add** button. Now you will be redirected to another page. Where you are required to select the rights to users on the database. simply select **ALL PRIVILEGES**.
+![How to Install FREE EasyURLS on CPanel in 5 minutes? ](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-8-1024x524.png) 
+
+Now click on **Make Changes** . Done, we have done database part too.
+
+
+
+## Configuration
+
+> Note : If needed you can install free ssl certificate, to install ssl please read [this article](https://www.kaustubh.codes/blog/how-to-make-fastest-blog-in-wordpress/#installing-free-ssl)
+
+Now visit `yoursite.com/link` or `yoursite.com` on which path you uploaded files in last step, it will redirect you to `yoursite.com/install.php`
+
+![Installation Process](/imgs/gifs/installation.gif "Installation Process")
+
+In form below enter the following details, to install application.
+
+* Host : If you are installing on same server use `localhost`, if you are using external database make please use IP Address and port 3306 e.g. `1.1.1.1:3306`, You have to start access in MySQL remote database else it will not work
+* Database username : enter username generated in last step
+* Database Password : enter db user's password
+* Database Name : now database name
+
+> important : If you see error, please check your database credentials, if those are correct and you are still facing issue then please give database access to user [Read more](#authorising-the-user-to-use-database)
+
+If you don't see any errors, then you completed setup correctly, In next step enter
+
+* Username : this is just short name for login e.g. admin,peter etc.
+* Email : enter valid email id, After new update you will be able to reset your password with this mail, So enter correct mail id.
+* Password : Use strong password, keep it secure.
+
+Click on Complete Installation, Now it will show that installation has been completed. it will take you automatically to login page.
+
+:::note
+If you face any issue during installation & unable to complete installation, Please delete `config.php` file and start process again, also create database again
+:::
+
+:::danger
+After successful installation, it automatically deletes `install.php` and `install2.php`, if it does not delete, Please delete both files manually.
+:::
+
+## login
+
+Visit `yoursite.com/login.php' to login your site, enter email or username and password & click login to  access dashboard.
+
+## Creating link
+
+
+_Working on it... will be updated in few days_
