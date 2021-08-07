@@ -8,10 +8,8 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /how-to-use-easyurls/
 ---
 
-# Installation
-
-## Uploading files 
-
+## Installation
+### Uploading Files
 
 To upload files, first we need to download them from [EasyURLs repository](https://github.com/kaustubhk24/EasyURLs/)
 
@@ -44,7 +42,7 @@ Once you click you will be redirected to page where it will ask you the name of 
 Once the database is created. we have to create a user to access the database we just created. To create users just scroll down. You will get the option to **Add New User**. Create a username & you can use a password generator to generate passwords. Keep all this data safe and secure. we need all this data while setting up your app.
 ![How to Install FREE EasyURLS on CPanel in 5 minutes? ](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-5.png) 
 
-### Authorising the user to use database
+### Authorizing the user to use database
 
 The last step & important step is to authorize user to use our database. Just scroll more you will find **Add User to Database** option.
 ![How to Install FREE EasyURLS on CPanel in 5 minutes? ](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-7.png) 
@@ -66,18 +64,18 @@ Now visit `yoursite.com/link` or `yoursite.com` on which path you uploaded files
 
 In form below enter the following details, to install application.
 
-* Host : If you are installing on same server use `localhost`, if you are using external database make please use IP Address and port 3306 e.g. `1.1.1.1:3306`, You have to start access in MySQL remote database else it will not work
-* Database username : enter username generated in last step
-* Database Password : enter db user's password
-* Database Name : now database name
+* ** Host** : If you are installing on same server use `localhost`, if you are using external database make please use IP Address and port 3306 e.g. `1.1.1.1:3306`, You have to start access in MySQL remote database else it will not work
+* ** Database username** : enter username generated in last step
+* ** Database Password** : enter db user's password
+* ** Database Name** : now database name
 
 > important : If you see error, please check your database credentials, if those are correct and you are still facing issue then please give database access to user [Read more](#authorising-the-user-to-use-database)
 
 If you don't see any errors, then you completed setup correctly, In next step enter
 
-* Username : this is just short name for login e.g. admin,peter etc.
-* Email : enter valid email id, After new update you will be able to reset your password with this mail, So enter correct mail id.
-* Password : Use strong password, keep it secure.
+* **Username** : this is just short name for login e.g. admin,peter etc.
+* **Email** : enter valid email id, After new update you will be able to reset your password with this mail, So enter correct mail id.
+* **Password** : Use strong password, keep it secure.
 
 Click on Complete Installation, Now it will show that installation has been completed. it will take you automatically to login page.
 
@@ -85,15 +83,42 @@ Click on Complete Installation, Now it will show that installation has been comp
 If you face any issue during installation & unable to complete installation, Please delete `config.php` file and start process again, also create database again
 :::
 
+
+
+## login
+
 :::danger
 After successful installation, it automatically deletes `install.php` and `install2.php`, if it does not delete, Please delete both files manually.
 :::
 
-## login
+Visit `yoursite.com/login.php` to login your site, enter email or username and password & click login to  access dashboard.
 
-Visit `yoursite.com/login.php' to login your site, enter email or username and password & click login to  access dashboard.
+## Managing EasyURLS
 
-## Creating link
+### Creating URL
+
+![Link](/imgs/gifs/managing-links.gif "Link")
+
+After login click on **Manage Links** navigation bar now you can see all the links created by you as we are creating our first link click on add new  link enter long URL after that enter short URL it will show you availability, if the URL is available click on **add** it will create short url.
+To copy short url, Right click on short code and click **Copy Link Address**
 
 
-_Working on it... will be updated in few days_
+### Deleting URL
+
+To delete URL **Manage Links --> All Links**, Click Delete button next to any url to delete that `URL`
+
+### Editing URL
+
+In current version of EasyURLs, it's not possible to edit any url, But you can delete old url and add new url.
+
+### Searching
+
+To search short url just start typing in above search bar, it will automatically filter urls, with your search query.
+
+### Download Excel
+
+You can download excel file of all the urls generated, to download visit **Manage Links --> All Links --> Download Excel**, it will download `.xls` file, if you see any warning please ignore the excel file is safe to use.
+
+:::note
+Remaining documentation will be available soon
+:::
