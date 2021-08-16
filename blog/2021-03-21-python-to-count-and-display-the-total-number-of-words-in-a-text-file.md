@@ -28,5 +28,4 @@ output:
 
 ```python title="Output"
 Number of words in file = 108
-
 ```
