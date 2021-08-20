@@ -185,8 +185,7 @@ Request type : `GET`
 `API_KEY` : Enter key you generated in last step
 `TYPE`    : `LINKS`
 ```
-You will get response in json with all the available urls, for example,
-
+You will get response in json , for e.g.
 ```json title="response.json"
 [
    {
@@ -221,11 +220,104 @@ You will get response in json with all the available urls, for example,
    }
 ]
 ```
+#### Getting Specific Link Details
+To get specific link with details use
+```cpp title="Base URL"
+// base url
+your_domain.com/api.php
 
+Request type : `GET`
+
+// following parameters are required
+
+`API_KEY` : Enter key you generated in last step
+`TYPE`    : `VIEW`
+'LINK_ID' : int LINK_ID e.g. 1
+```
+
+
+You will get response in json , for e.g.
+
+```json title="response.json"
+[
+   {
+      "ID":"6",
+      "SHORT_URL":"UMYi2",
+      "LONG_URL":"https://facebook.com",
+      "COUNT":"0"
+   }
+]
+```
+#### Adding New Link
+To add new link we have 2 ways 
+
+##### Link with ShortLink
+If you want specific short link for given long_url, please pass params as follow
+```cpp title="Base URL"
+// base url
+your_domain.com/api.php
+
+Request type : `GET`
+
+// following parameters are required
+
+`API_KEY` : Enter key you generated in last step
+`TYPE`    : `ADD`
+'SHORT_URL' : short_url you want to set, do not use domain, use only code e.f. xyz
+'LONG_URL' : LONG_URL is url where you want to redirect your short url
+```
+
+##### Link without ShortLink
+If you want to generate short code automatically
+```cpp title="Base URL"
+// base url
+your_domain.com/api.php
+
+Request type : `GET`
+
+// following parameters are required
+
+`API_KEY` : Enter key you generated in last step
+`TYPE`    : `ADD`
+'LONG_URL' : LONG_URL is url where you want to redirect your short url
+```
+You will get following response in both cases,
+
+```json title="response.json"
+URL added[
+   {
+      "ID":"6",
+      "SHORT_URL":"UMYi2",
+      "LONG_URL":"https://facebook.com",
+      "COUNT":"0"
+   }
+]
+```
+#### Deleting Link
+To delete link
+```cpp title="Base URL"
+// base url
+your_domain.com/api.php
+
+Request type : `GET`
+
+// following parameters are required
+
+`API_KEY` : Enter key you generated in last step
+`TYPE`    : `DELETE`
+`LINK_ID` : int LINK_ID e.g. 1
+```
+
+
+You will get following response
+
+```json title="response.json"
+Deleted
+```
 ### Managing Users
 
 #### Getting All Users
-To get all links with details use
+To get all users with details use
 ```cpp title="Base URL"
 // base url
 your_domain.com/api.php
@@ -237,7 +329,8 @@ Request type : `GET`
 `API_KEY` : Enter key you generated in last step
 `TYPE`    : `USERS`
 ```
-You will get response in json with all the available urls, for example,
+
+You will get response in json , for e.g.
 
 ```json title="response.json"
 [
@@ -253,10 +346,90 @@ You will get response in json with all the available urls, for example,
    }
 ]
 ```
+#### Getting Specific Users Details
+To get specific user with details use
+```cpp title="Base URL"
+// base url
+your_domain.com/api.php
 
+Request type : `GET`
+
+// following parameters are required
+
+`API_KEY` : Enter key you generated in last step
+`TYPE`    : `VIEW`
+`USER_ID` : int USER_ID e.g. 1
+```
+
+
+You will get response in json , for e.g.
+
+```json title="response.json"
+[
+   {
+      "USER_ID":"1",
+      "USERNAME":"kaustubh",
+      "EMAIL":"info@example.com"
+   }
+]
+```
+#### Adding User
+To add user
+```cpp title="Base URL"
+// base url
+your_domain.com/api.php
+
+Request type : `GET`
+
+// following parameters are required
+
+`API_KEY` : Enter key you generated in last step
+`TYPE`    : `ADD`
+`EMAIL` : users email
+`USERNAME` : username for login
+`PASSWORD` : send non-encrypted password, it will be automatically encrypted.
+```
+
+
+You will get following response
+
+```json title="response.json"
+User added[
+   {
+      "USER_ID":"14",
+      "USERNAME":"test",
+      "EMAIL":"in@demo.com"
+   }
+]
+```
+#### Deleting User
+To delete user
+```cpp title="Base URL"
+// base url
+your_domain.com/api.php
+
+Request type : `GET`
+
+// following parameters are required
+
+`API_KEY` : Enter key you generated in last step
+`TYPE`    : `DELETE`
+`USER_ID` : int USER_ID e.g. 1
+```
+
+
+You will get following response
+
+```json title="response.json"
+Deleted
+```
 ### Common Errors 
 You may face following issues while using api, so it is recommended to handle all of these exceptions.
 
 * **Invalid Operation**      : You have to pass correct operation in 'TYPE' parameter, else API request will be rejected with above error.
 * **Invalid API Key**        : Please check if you are passing active API key to 'API_KEY' with no spaces in both sides.
 * **Database Not Reachable** : Check if your database is not overloaded.
+
+## Contribute
+Currently project does not accept any contribution as I'm working on core files, in few days you'll be able to contribute translations,code etc.
+Meanwhile if you found any bug, please [create issue here](https://github.com/kaustubhk24/EasyURLs/issues/new)
