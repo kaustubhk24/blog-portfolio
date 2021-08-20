@@ -25,7 +25,7 @@ Suppose you want to add your software at **example.com/url** then create a folde
 
 Now upload the .zip file we downloaded from above link. Now we have to extract that file. After extraction, you will get a folder with the same name as our zip file name. Now we can securely delete that zip file. Now move the content from our **EasyURLs-master .** folder to our **link** folder. 
 
-that's it. we completed our first task to upload required files to the server.
+tha's it. we completed our first task to upload required files to the server.
 
 ### Database Part
 
@@ -69,7 +69,7 @@ In form below enter the following details, to install application.
 * ** Database Password** : enter db user's password
 * ** Database Name** : now database name
 
-> important : If you see error, please check your database credentials, if those are correct and you are still facing issue then please give database access to user [Read more](#authorising-the-user-to-use-database)
+> Important : If you see error, please check your database credentials, if those are correct and you are still facing issue then please give database access to user [Read more](#authorising-the-user-to-use-database)
 
 If you don't see any errors, then you completed setup correctly, In next step enter
 
@@ -148,7 +148,7 @@ You can download excel file of all the users generated, to download visit **Mana
 
 You can edit your username, email and password, Just click on whatever you want edit and add new value then click update.
 
-Make sure if you don't want to change password then keep those fields as it is, same for username and email.
+Make sure if you don`t want to change password then keep those fields as it is, same for username and email.
 
 
 ## API
@@ -174,7 +174,7 @@ You can use API once you generate api key.
 
 #### Getting All Links
 To get all links with details use
-```cpp title="Base URL"
+```cpp title="Request"
 // base url
 your_domain.com/api.php
 
@@ -222,7 +222,7 @@ You will get response in json , for e.g.
 ```
 #### Getting Specific Link Details
 To get specific link with details use
-```cpp title="Base URL"
+```cpp title="Request"
 // base url
 your_domain.com/api.php
 
@@ -232,7 +232,7 @@ Request type : `GET`
 
 `API_KEY` : Enter key you generated in last step
 `TYPE`    : `VIEW`
-'LINK_ID' : int LINK_ID e.g. 1
+`LINK_ID` : int LINK_ID e.g. 1
 ```
 
 
@@ -253,7 +253,7 @@ To add new link we have 2 ways
 
 ##### Link with ShortLink
 If you want specific short link for given long_url, please pass params as follow
-```cpp title="Base URL"
+```cpp title="Request"
 // base url
 your_domain.com/api.php
 
@@ -263,13 +263,13 @@ Request type : `GET`
 
 `API_KEY` : Enter key you generated in last step
 `TYPE`    : `ADD`
-'SHORT_URL' : short_url you want to set, do not use domain, use only code e.f. xyz
-'LONG_URL' : LONG_URL is url where you want to redirect your short url
+`SHORT_URL` : short_url you want to set, do not use domain, use only code e.f. xyz
+`LONG_URL` : LONG_URL is url where you want to redirect your short url
 ```
 
 ##### Link without ShortLink
 If you want to generate short code automatically
-```cpp title="Base URL"
+```cpp title="Request"
 // base url
 your_domain.com/api.php
 
@@ -279,7 +279,7 @@ Request type : `GET`
 
 `API_KEY` : Enter key you generated in last step
 `TYPE`    : `ADD`
-'LONG_URL' : LONG_URL is url where you want to redirect your short url
+`LONG_URL` : LONG_URL is url where you want to redirect your short url
 ```
 You will get following response in both cases,
 
@@ -295,7 +295,7 @@ URL added[
 ```
 #### Deleting Link
 To delete link
-```cpp title="Base URL"
+```cpp title="Request"
 // base url
 your_domain.com/api.php
 
@@ -318,7 +318,7 @@ Deleted
 
 #### Getting All Users
 To get all users with details use
-```cpp title="Base URL"
+```cpp title="Request"
 // base url
 your_domain.com/api.php
 
@@ -348,7 +348,7 @@ You will get response in json , for e.g.
 ```
 #### Getting Specific Users Details
 To get specific user with details use
-```cpp title="Base URL"
+```cpp title="Request"
 // base url
 your_domain.com/api.php
 
@@ -375,7 +375,7 @@ You will get response in json , for e.g.
 ```
 #### Adding User
 To add user
-```cpp title="Base URL"
+```cpp title="Request"
 // base url
 your_domain.com/api.php
 
@@ -404,7 +404,7 @@ User added[
 ```
 #### Deleting User
 To delete user
-```cpp title="Base URL"
+```cpp title="Request"
 // base url
 your_domain.com/api.php
 
@@ -426,10 +426,10 @@ Deleted
 ### Common Errors 
 You may face following issues while using api, so it is recommended to handle all of these exceptions.
 
-* **Invalid Operation**      : You have to pass correct operation in 'TYPE' parameter, else API request will be rejected with above error.
-* **Invalid API Key**        : Please check if you are passing active API key to 'API_KEY' with no spaces in both sides.
+* **Invalid Operation**      : You have to pass correct operation in `TYPE` parameter, else API request will be rejected with above error.
+* **Invalid API Key**        : Please check if you are passing active API key to `API_KEY` with no spaces in both sides.
 * **Database Not Reachable** : Check if your database is not overloaded.
 
 ## Contribute
-Currently project does not accept any contribution as I'm working on core files, in few days you'll be able to contribute translations,code etc.
+Currently project does not accept any contribution as I am working on core files, in few days you'll be able to contribute translations,code etc.
 Meanwhile if you found any bug, please [create issue here](https://github.com/kaustubhk24/EasyURLs/issues/new)
