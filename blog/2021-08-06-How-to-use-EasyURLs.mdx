@@ -431,5 +431,38 @@ You may face following issues while using api, so it is recommended to handle al
 * **Database Not Reachable** : Check if your database is not overloaded.
 
 ## Contribute
-Currently project does not accept any contribution as I am working on core files, in few days you'll be able to contribute translations,code etc.
-Meanwhile if you found any bug, please [create issue here](https://github.com/kaustubhk24/EasyURLs/issues/new)
+You can contribute in 3 ways
+### Core files
+While making changes in core files please add comments in code, make sure your code does not break any previously written code.
+### Translations
+To contribute language, please visit [assets/local](https://github.com/kaustubhk24/EasyURLs/tree/main/assets/local)
+
+#### Editing Current Translations
+Visit any language file you want, please note we're using iso language code for file name, for example, file name for `Hindi` language will be `hi.php`, After making changes please create pull request.
+
+#### Adding New Language
+To add new language please find correct ISO code of language you are adding and create file with `ISO_LANGUAGE_CODE.PHP`, for example name for Hindi language file will be `hi.php`, Now copy the text from sample.php and paste it in file you just created and replace array values as required.
+```php title="language.php"
+"Language"=>"Language Name you want to show",
+..
+...
+// Now complete all remaining fields
+```
+
+After that open `index.php` and add new array key and value for language
+
+```php title="index.php"
+$languages = array(
+    "English"=>"en",
+    "मराठी"=>"mr",
+    "हिंदी"=>"hi"
+);
+
+
+```
+Please make sure array key must be Name of language and array value must be iso code of language.
+
+After committing changes please make pull request.
+
+### Sponsor
+To Sponsor project please visit https://github.com/kaustubhk24/EasyURLs and Click on Sponsor button.
