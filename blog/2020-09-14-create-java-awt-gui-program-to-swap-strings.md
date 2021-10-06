@@ -77,5 +77,5 @@ public class me {
 Output: 
 
 
-[![](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/09/Screenshot-2Bfrom-2B2020-09-14-2B10-33-44-300x169.png)](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/09/Screenshot-2Bfrom-2B2020-09-14-2B10-33-44.png)
+[![](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/09/Screenshot-2Bfrom-2B2020-09-14-2B10-33-44-300x169.png)](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/09/Screenshot-2Bfrom-2B2020-09-14-2B10-33-44.png)
 

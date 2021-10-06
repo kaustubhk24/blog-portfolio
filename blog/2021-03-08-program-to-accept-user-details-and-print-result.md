@@ -39,7 +39,7 @@ Percent >= To Pass
 ```
 
 **Output (Expected )**
-![Program To Accept User Details And Print Result](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-12-1024x243.png "Program To Accept User Details And Print Result") 
+![Program To Accept User Details And Print Result](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2021/03/image-12-1024x243.png "Program To Accept User Details And Print Result") 
 
 
 
@@ -119,4 +119,4 @@ Enter math Marks :98
 Data added successfully !!!
 
 ```
-![Program To Accept User Details And Print Result](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-12-1024x243.png "Program To Accept User Details And Print Result")
+![Program To Accept User Details And Print Result](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2021/03/image-12-1024x243.png "Program To Accept User Details And Print Result")

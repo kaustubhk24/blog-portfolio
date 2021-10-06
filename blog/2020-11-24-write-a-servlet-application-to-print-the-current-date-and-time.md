@@ -11,7 +11,7 @@ slug: /write-a-servlet-application-to-print-the-current-date-and-time/
 Create New [Dynamic Web Project](https://en.wikipedia.org/wiki/Dynamic_web_page), Create below files and copy paste this content.
 
 Make sure your file structure looks like image below.
-![](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-22.png) 
+![](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/11/image-22.png) 
 
 
 ```html title="index.html"
@@ -69,4 +69,4 @@ public class Date1 extends HttpServlet{
 
 Output:
 
-![](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-23.png) 
+![](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/11/image-23.png) 

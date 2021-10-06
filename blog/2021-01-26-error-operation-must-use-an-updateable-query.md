@@ -14,7 +14,7 @@ slug: /error-operation-must-use-an-updateable-query/
 Almost everyone face Error Operation Must Use an Updateable Query , when they make first [setup](https://blog.kaustubh.codes/how-to-make-setup-file-in-vb-net/) of there .NET project.
 
 ## Error Images
-![](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/error-operation-must-use-an-updateable-query-1024x683.png) 
+![](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2021/01/error-operation-must-use-an-updateable-query-1024x683.png) 
 
 If you have use try catch block and printed exception then you will get error from image 1 else you will get image 2 error.
 
@@ -43,12 +43,12 @@ This command will print your username like.
 You need to remember that username.
 
 Then right click on Database and **View Properties** & then click on **Security Tab** & Click on **Edit** Button refer screenshot below.
-![error operation must use an updateable query](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-27.png) 
+![error operation must use an updateable query](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2021/01/image-27.png) 
 
 Select your name and allow all the rights, click **apply** and **ok**. That's it. You can use your database now.
 
 If you still face any issue , you may view video Guide below. Let us know , if it works for you.
-![error operation must use an updateable query](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-28.png) 
+![error operation must use an updateable query](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2021/01/image-28.png) 
 
 
 

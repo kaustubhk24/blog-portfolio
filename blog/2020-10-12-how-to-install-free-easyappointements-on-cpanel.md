@@ -35,7 +35,7 @@ To download visit above link and click on **Source Code** once source code is do
 Once you accessed your CPanel we will be moving to upload our files on CPanel Account .
 
 To upload click on **File Manager** and Go to **Public_html** folder and create desired folder.
-![How to Install FREE EasyAppointements on CPanel in 5 minutes? ](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-2.png) 
+![How to Install FREE EasyAppointements on CPanel in 5 minutes? ](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/10/image-2.png) 
 
 Suppose you want to add your software at **example.com/book** then create a folder **book** inside your **public_html** folder.
 
@@ -44,30 +44,30 @@ Now upload the .zip file we downloaded from easy appointments site. Now we have 
 that's it. we completed our first task to upload required files to the server.
 
 One important task is to rename `config-sample.php` to `config.php` 
-![How to Install FREE EasyAppointements on CPanel in 5 minutes? ](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-1-1024x386.png) 
+![How to Install FREE EasyAppointements on CPanel in 5 minutes? ](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/10/image-1-1024x386.png) 
 
 ### Database Part
 
 ### Create Database
 
 To create database click on **MySQL Databases**. see image below. option 1 to be selected.
-![How to Install FREE EasyAppointements on CPanel in 5 minutes? ](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-3.png) 
+![How to Install FREE EasyAppointements on CPanel in 5 minutes? ](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/10/image-3.png) 
 
 Once you click you will be redirected to page where it will ask you the name of database. You have to enter database name you want to use. Keep Good & understandable database name & click on **Create Database**.
-![How to Install FREE EasyAppointements on CPanel in 5 minutes? ](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-4.png) 
+![How to Install FREE EasyAppointements on CPanel in 5 minutes? ](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/10/image-4.png) 
 
 ### Creating A User
 
 Once the database is created. we have to create a user to access the database we just created. To create users just scroll down. You will get the option to **Add New User**. Create a username & you can use a password generator to generate passwords. Keep all this data safe and secure. we need all this data while setting up your app.
-![How to Install FREE EasyAppointements on CPanel in 5 minutes? ](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-5.png) 
+![How to Install FREE EasyAppointements on CPanel in 5 minutes? ](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/10/image-5.png) 
 
 ### Authorising the user to use database
 
 The last step & important step is to authorize user to use our database. Just scroll more you will find **Add User to Database** option.
-![How to Install FREE EasyAppointements on CPanel in 5 minutes? ](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-7.png) 
+![How to Install FREE EasyAppointements on CPanel in 5 minutes? ](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/10/image-7.png) 
 
 Now select the user and appropriate database and click on **Add** button. Now you will be redirected to another page. Where you are required to select the rights to users on the database. simply select **ALL PRIVILEGES**.
-![How to Install FREE EasyAppointements on CPanel in 5 minutes? ](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-8-1024x524.png) 
+![How to Install FREE EasyAppointements on CPanel in 5 minutes? ](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/10/image-8-1024x524.png) 
 
 Now click on **Make Changes** . Done, we have done database part too.
 
@@ -175,12 +175,12 @@ Now visit our app link. The link we defined in config.php as `const BASE_URL.`
 for example: <a href="https://example.com" target="_blank" aria-label="example.com/book (opens in a new tab)" rel="noreferrer noopener nofollow" class="rank-math-link"example.com/book
 
 You will see below screen 
-![How to Install FREE EasyAppointements on CPanel in 5 minutes? ](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-9-1024x438.png) 
+![How to Install FREE EasyAppointements on CPanel in 5 minutes? ](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/10/image-9-1024x438.png) 
 
 Enter all data correctly and click on **Install EasyAppointments.**
 
 Done you have completed installation process. To access admin panel of application we just installed click on Login section button. 
-![](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-10.png) 
+![](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/10/image-10.png) 
 
 Enter credentials we just setup and Login. You can customise everything now. Update setup with your business data and logics . You have completed setup for FREE & Open-source booking System.
 

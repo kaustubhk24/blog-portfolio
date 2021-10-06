@@ -27,10 +27,10 @@ The most important part is buying reliable / suitable domain and hosting, we hav
 In this step we will install , FREE SSL certificate, to move our site from http to https, 
 
 visit [sslforfree.com](https://www.sslforfree.com/) enter your domain name , now it will prompt for **Login/Register**, If you don't have account there, you can **Register**, after that you will see screen below,
-![How To Make Fastest Blog in WordPress](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-18.png) 
+![How To Make Fastest Blog in WordPress](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2021/01/image-18.png) 
 
 Click on **Next Step**, Now we need to **verify** our domain , we can do same using 3 methods, but we will be using **http file upload** method. First create folder _.well-known_ then create folder _pki-validation_ inside that and upload the downloaded file there & click on **verify** button . Now you'll see confirmation screen below
-![How To Make Fastest Blog in WordPress](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-19.png) 
+![How To Make Fastest Blog in WordPress](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2021/01/image-19.png) 
 
 You can download this **.zip** file, Now open your **CPanel**, Search for **SSL / TLS** option -> **Install and Manage SSL for your site**, extract and copy paste files on correct location,
 
@@ -57,19 +57,19 @@ https://www.example.com
 
 
 enter username, email, password and click on install button, It will automatically create database for you and will install complete WordPress automatically,
-![How To Make Fastest Blog in WordPress](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-20.png) 
+![How To Make Fastest Blog in WordPress](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2021/01/image-20.png) 
 
 After installation is done, you can see **wp-admin** link, click on it, GoDaddy will show there setup option we will not be using in this tutorial, So use default wordpress. & click **yes I'm sure** then, You are now at **WordPress Dashboard**. Let's remove non-required things, please [watch Video Guide](https://blog.kaustubh.codes/wp-admin/post.php?post=1185&action=edit#video-guide).
 
 ## Removing Non-Required Things
 
 We will remove all the Non-required Plugins, Posts, Pages, Themes that are previously installed , move to trash and delete from that trash too. please [watch Video Guide](https://blog.kaustubh.codes/wp-admin/post.php?post=1185&action=edit#video-guide).
-![How To Make Fastest Blog in WordPress](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-21.png) 
+![How To Make Fastest Blog in WordPress](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2021/01/image-21.png) 
 
 ## Installing Theme
 
 We will install [GeneratePress](https://wordpress.org/themes/generatepress/) theme here, Currently this is fastest theme available. Open **WordPress Dashboard**, -> **Appearance** -> **Themes** and in searchbox type **GeneratePress** and Click **install** then **Activate**.
-![How To Make Fastest Blog in WordPress](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-22.png) 
+![How To Make Fastest Blog in WordPress](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2021/01/image-22.png) 
 
 you just installed and activated theme. You can use this theme completely **FREE**. But we want some features that are NOT available in FREE version, So we're buying Premium here, If you don't want to invest money now, simply use this theme, But if you can , I will definitely suggest to go for Pro version.
 
@@ -88,20 +88,20 @@ You can visit generatepress.com/premium to purchase pro. It will cost you around
 _[ **NOTE** : GPL is GNU general public license and its legal to use. Read more about [GPL here](https://en.wikipedia.org/wiki/GNU_General_Public_License) ]_
 
 Now we assume that you have GeneratePress copy. Now Open **Plugins** , Click on **Add New** then **Upload plugin**, and upload the file we just purchased.
-![How To Make Fastest Blog in WordPress](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-23.png) 
+![How To Make Fastest Blog in WordPress](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2021/01/image-23.png) 
 
 After installing Plugin we need to **activate** plugins inside Select all plugins and Click **activate**
 
 Once all plugins activated you can see option **Site Library**, will be used for importing Ready Made site.
-![How To Make Fastest Blog in WordPress](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-24.png) 
+![How To Make Fastest Blog in WordPress](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2021/01/image-24.png) 
 
 Click on **Site Library** and Select site you like, In this tutorial we will be importing **Marketer** site, Click on **Import** Button and After import you will see option **Visit Site**
-![How To Make Fastest Blog in WordPress](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-25.png) 
+![How To Make Fastest Blog in WordPress](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2021/01/image-25.png) 
 
 ## Removing Copyrights
 
 To remove copyright , activation of copyright plugin is required, it will be automatically disabled , if you imported above site, Go to Appearance -> GeneratePress and activate that plugin, Next click Appearance -> Customize 
-![](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-26.png) 
+![](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2021/01/image-26.png) 
 
 tap that blue button and write copyright you want. You may use **%copy%** to print ** ** symbol and **%curre__year%** will print **current yea**r.
 

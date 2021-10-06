@@ -79,4 +79,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 ### Preview
 
-[View Here](https://kaustubh.codes/imgs/preview/create-user-registration-form-using.html) 
+[View Here](https://kaustubhk24.netlify.app/imgs/preview/create-user-registration-form-using.html) 

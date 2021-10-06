@@ -153,10 +153,10 @@ Total :86549
 ```
 
 Screenshot
-![Distribute Amount in Notes ](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/image.png)
+![Distribute Amount in Notes ](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/12/image.png)
 
 
-[Download Program](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/12/denomination.zip)
+[Download Program](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/12/denomination.zip)
 
 
 

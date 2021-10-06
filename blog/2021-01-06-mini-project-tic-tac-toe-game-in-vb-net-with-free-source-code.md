@@ -17,7 +17,7 @@ In this tutorial we are going to make complete mini project VB.NET game named ti
 ### **Making UI**
 
 Now Let's get started, first open your Visual Studio and drag 10 Buttons and 1 label and 1 image view and arrange all of them like design below. You can download image assets from here.
-![Tic Tac Toe Game in VB.NET](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/01/tic-tac-toe.png) 
+![Tic Tac Toe Game in VB.NET](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2021/01/tic-tac-toe.png) 
 
 ### **Code**
 

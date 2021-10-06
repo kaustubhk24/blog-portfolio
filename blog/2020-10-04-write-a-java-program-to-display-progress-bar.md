@@ -49,5 +49,5 @@ progressBar.setValue(100);
 Output 
 
 
-[![](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/v-300x169.png)](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/v.png)
+[![](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/10/v-300x169.png)](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/10/v.png)
 

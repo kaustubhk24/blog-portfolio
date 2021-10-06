@@ -248,4 +248,4 @@ calculator v = new calculator();
 ```vb title="file.vb"
 Output
 ```
-![](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-20.png) 
+![](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/11/image-20.png) 

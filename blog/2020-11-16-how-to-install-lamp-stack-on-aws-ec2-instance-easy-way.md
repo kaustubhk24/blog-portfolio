@@ -36,7 +36,7 @@ To connect , first we will need to generate Private Key (.ppk) from PuttyGen. _(
 
 Now click on **Save private key** . save it as (.ppk) file.
 ![How to Install LAMP Stack on AWS EC2 Instance?
-](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-2.png) 
+](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/11/image-2.png) 
 
 Now open **Putty** App, fill below fields as per instructions.
 
@@ -53,12 +53,12 @@ keep port **22** as it is.
 Now from left menu , select Connection -> SSH -> Auth
 
 Check for option **Private Key for file authentication** & select the file we generated in last step & Click on Open Button.
-![How to Install LAMP Stack on AWS EC2 Instance?](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-3.png) 
+![How to Install LAMP Stack on AWS EC2 Instance?](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/11/image-3.png) 
 
 Once everything added , Go to session windows again & in saved session add this session, So next time, you will not require do this stuff again. Now Click on **Open** button.
 
 SSH will go you warning click on **Allow** / **OK**.
-![How to Install LAMP Stack on AWS EC2 Instance?](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-4.png) 
+![How to Install LAMP Stack on AWS EC2 Instance?](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/11/image-4.png) 
 
 Now you have access to your SSH.
 
@@ -94,7 +94,7 @@ $ adduser enter_username_here
 ```
 
 Now fill complete details of user and once asked for confirmation type **y** and hit enter.
-![How to Install LAMP Stack on AWS EC2 Instance?](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-5.png) 
+![How to Install LAMP Stack on AWS EC2 Instance?](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/11/image-5.png) 
 
 Now we're going to add sudo / root privileges to this user , So the user can do tasks by using word sudo. To do that
 
@@ -143,7 +143,7 @@ $ ufw allow "Apache Full"
 ```
 
 Once done visit your **EC2 IP address**, You will see success apache configuration success page. as shown below,
-![How to Install LAMP Stack on AWS EC2 Instance?](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-17.png) 
+![How to Install LAMP Stack on AWS EC2 Instance?](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/10/image-17.png) 
 
 If you are unable to view above page, then that's not issue, We can update some setting and you will be able to see this page. To do that,
 
@@ -152,7 +152,7 @@ visit [console.aws.amazon.com](https://console.aws.amazon.com)
 Click on the **services** in top corner -> **EC2**, after click on **Security Groups** & select the security group associated with our instance. After selecting Click on **Edit Inboud rules**,
 
 Now make all the settings as shown in this image.
-![How to Install LAMP Stack on AWS EC2 Instance?](https://www.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-6-1024x307.png) 
+![How to Install LAMP Stack on AWS EC2 Instance?](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/11/image-6-1024x307.png) 
 
 Once rules updated you can visit your IP address and you can see that confirmation page.
 

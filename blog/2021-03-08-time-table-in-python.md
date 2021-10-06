@@ -130,10 +130,10 @@ toast.show_toast("Next Lecture is About to start","Hello {}, {} Lecture is about
 
 Output 1: 
 
-![](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-13.png) 
+![](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2021/03/image-13.png) 
 
 Output 2:
 
 This will show all lectures
 
-![](https://www.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-14.png) 
+![](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2021/03/image-14.png) 
