@@ -18,9 +18,10 @@ module.exports = {
           type: 'doc',
           docId: 'about',
           position: 'left',
-          label: 'More Info',
+          label: 'Information',
         },
         { to: 'blog', label: 'Blog', position: 'left' },
+        { to: 'docs/hire', label: 'Hire Me', position: 'left' },
         {
           href: 'https://kaustubhk24.netlify.app/Downloads/Kaustubh-Kulkarni.pdf',
           label: 'Download Resume',
