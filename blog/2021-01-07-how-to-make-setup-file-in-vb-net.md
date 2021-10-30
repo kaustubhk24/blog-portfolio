@@ -10,6 +10,7 @@ slug: /how-to-make-setup-file-in-vb-net/
 
 
 ---
+Article has been moved to
 If you have created Project and Now you want to distribute project to your customer or friends, you need to Create **setup.msi** or **setup.exe** file, So they can install it on there Windows computer and use same.
 
 Now in this tutorial , we are making setup file of our recent Project [Tic Tac Toe](https://blog.kaustubh.codes/mini-project-tic-tac-toe-game-in-vb-net-with-free-source-code/), If you don't have your project and Just want to follow this tutorial , you can download this project for free, [Download Now](https://blog.kaustubh.codes/mini-project-tic-tac-toe-game-in-vb-net-with-free-source-code/).

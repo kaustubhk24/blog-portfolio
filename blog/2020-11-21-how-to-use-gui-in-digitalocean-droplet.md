@@ -12,6 +12,7 @@ slug: /how-to-use-gui-in-digitalocean-droplet/
 
 
 ---
+Article has been moved to
 Let's see How To Use GUI in DigitalOcean Droplet? 
 
 If you are looking for running [DigitalOcean](https://m.do.co/c/253fdc8807b5) Ubuntu Droplet using GUI ( Graphical User Interface ) Then you are at right place. to Follow this tutorial you must have Droplet.

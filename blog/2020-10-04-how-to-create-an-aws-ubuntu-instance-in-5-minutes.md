@@ -10,6 +10,7 @@ slug: /how-to-create-an-aws-ubuntu-instance-in-5-minutes/
 
 
 ---
+Article has been moved to
  
 
 

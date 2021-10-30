@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-vb-program-to-accept-the-details-of-student-and-display-mark-sheet-details-on-grid-control-roll_-no-student_-name-class-sub1-sub2-sub3-total-percentage-grade/
 ---
+Article has been moved to
 
 [![](https://1.bp.blogspot.com/-PZ8xmszzCs4/X0kR5tVp8rI/AAAAAAAAfgE/unp7n2_eI3kJyLfaymoHytTR9WAu7M70ACLcBGAsYHQ/s400/1.png)](https://1.bp.blogspot.com/-PZ8xmszzCs4/X0kR5tVp8rI/AAAAAAAAfgE/unp7n2_eI3kJyLfaymoHytTR9WAu7M70ACLcBGAsYHQ/s1366/1.png)
 

@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-program-to-perform-crud-operations-using-jdbc/
 ---
+Article has been moved to
 /**
 
 * Q ) Write a program to perform CRUD operations using JDBC.

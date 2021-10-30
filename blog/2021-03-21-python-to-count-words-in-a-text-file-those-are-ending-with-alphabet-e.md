@@ -12,6 +12,7 @@ slug: /python-to-count-words-in-a-text-file-those-are-ending-with-alphabet-e/
 
 
 ---
+Article has been moved to
 ```python title="file.py"
 def checkLastChar(file_name,last):
  count=0

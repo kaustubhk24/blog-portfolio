@@ -11,6 +11,7 @@ slug: /visual-studio-ide/
 
 
 ---
+Article has been moved to
 ## What is IDE
 
 Visual Studio IDE is an integrated development environment. It is a software application that provides comprehensive facilities  to computer programmers for software development

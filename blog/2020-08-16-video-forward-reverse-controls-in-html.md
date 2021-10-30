@@ -9,6 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /video-forward-reverse-controls-in-html/
 
 ---
+Article has been moved to
 
 ```html title="index.html"
 <!DOCTYPE html>

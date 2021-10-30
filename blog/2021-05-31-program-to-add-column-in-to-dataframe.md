@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-add-column-in-to-dataframe/
 ---
+Article has been moved to
 ** Code > **
 
 ```python title="file.vb"
@@ -34,7 +35,11 @@ df.insert(1, "Age", [21, 23, 24, 21], True)
 ** New > ** (OLD)
 
 |Name|Age|City|Qualification|
-|--- |--- |--- |--- |
+|---
+Article has been moved to |---
+Article has been moved to |---
+Article has been moved to |---
+Article has been moved to |
 |Snake|21|Pune|Msc|
 |Prince|23|Nasik|MA|
 |Gangsta|24|Kolhapur|Msc|

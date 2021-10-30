@@ -12,6 +12,7 @@ slug: /create-a-python-class-named-rectangle-constructed-by-a-length-and-width-a
 
 
 ---
+Article has been moved to
 # 
 
 ```python title="file.py"

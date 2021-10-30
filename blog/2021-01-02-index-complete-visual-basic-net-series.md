@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /index-complete-visual-basic-net-series/
 ---
+Article has been moved to
 We decided to make a complete series on visual basic.net (VB.NET).
 
 This is index file of of our new complete vb.net series this will be  daily updated once content is updated, we will upload tutorials along with images and videos here and we will create YouTube playlist and link will be shared here, please follow below index, happy learning

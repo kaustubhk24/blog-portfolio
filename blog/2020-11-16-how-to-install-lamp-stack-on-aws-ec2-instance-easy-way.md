@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /how-to-install-lamp-stack-on-aws-ec2-instance-easy-way/
 ---
+Article has been moved to
 In this tutorial we will see, How to Install LAMP Stack on AWS EC2 Instance?
 
 # Pre-requisites:

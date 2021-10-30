@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-vb-program-to-display-all-even-and-odd-numbers-from-an-array/
 ---
+Article has been moved to
 
 [![](https://1.bp.blogspot.com/-S2GO2ras9rM/X0kUXKzPZjI/AAAAAAAAfgQ/_4qwyZg2Vr8FbmTOk_hz2GNFk8bvkp3xQCLcBGAsYHQ/s400/1.png)](https://1.bp.blogspot.com/-S2GO2ras9rM/X0kUXKzPZjI/AAAAAAAAfgQ/_4qwyZg2Vr8FbmTOk_hz2GNFk8bvkp3xQCLcBGAsYHQ/s1366/1.png)
 

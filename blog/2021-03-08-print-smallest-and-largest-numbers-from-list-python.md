@@ -11,6 +11,7 @@ slug: /print-smallest-and-largest-numbers-from-list-python/
 
 
 ---
+Article has been moved to
 ```python title="file.py"
 list1=[]
 n=int(input("Enter Number of elements :"))

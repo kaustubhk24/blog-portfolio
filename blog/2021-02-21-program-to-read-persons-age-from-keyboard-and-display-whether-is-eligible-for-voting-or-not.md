@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-read-persons-age-from-keyboard-and-display-whether-is-eligible-for-voting-or-not/
 ---
+Article has been moved to
 ```python title="file.py"
 # Write a program to read person's age from keyboard and display whether is eligible for voting or not
 def isEligible(age):

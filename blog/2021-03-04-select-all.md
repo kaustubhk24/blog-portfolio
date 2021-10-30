@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /select-all/
 ---
+Article has been moved to
 Query all columns (attributes) for every row in the **CITY** table.
 
 The **CITY** table is described as follows:

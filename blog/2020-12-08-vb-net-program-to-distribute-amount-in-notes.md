@@ -11,6 +11,7 @@ slug: /vb-net-program-to-distribute-amount-in-notes/
 
 
 ---
+Article has been moved to
 We are going to write VB.NET Program to Distribute Amount in Notes.
 
 Design screen like below
@@ -30,7 +31,12 @@ Now double click on screen and Add this code in **form1.vb**
  * 50 X 1=50
  * 10 X 1=10
  * 5 X 1=5
- * ----------------
+ * ---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to-
  * Total : 365
  *
  *

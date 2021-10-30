@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-an-implementation-of-hash-tables-from-scratch-define-the-following-methods-getkey-put-key-value-removekey-containskey-key-and-size/
 ---
+Article has been moved to
 
 ```java title="hashtable.java" 
   

@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /mini-project-tic-tac-toe-game-in-vb-net-with-free-source-code/
 ---
+Article has been moved to
  
 
 ## How do you make a tic tac toe game in VB net? 

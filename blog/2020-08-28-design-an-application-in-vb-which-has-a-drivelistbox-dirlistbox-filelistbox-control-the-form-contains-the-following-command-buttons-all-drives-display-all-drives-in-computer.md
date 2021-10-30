@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /design-an-application-in-vb-which-has-a-drivelistbox-dirlistbox-filelistbox-control-the-form-contains-the-following-command-buttons-all-drives-display-all-drives-in-computer/
 ---
+Article has been moved to
 Design an application in VB which has a Drivelistbox, Dirlistbox, Filelistbox control. The form contains the following command buttons: All drives: Display all drives in computer (including network drives) All subdirectories: Display all subfolders of the currently selected directory. All files : Display a popup menu which contains the following options: a. All document files b All bitmaps c All files On selection of option, display the specified type. 
 
 ![IMG](https://1.bp.blogspot.com/-hJUFmFvqGSQ/X0kRT0jSBfI/AAAAAAAAff8/Z-XJOHn7Nvc_CgXMdl3K3BTUSLRe94qcACLcBGAsYHQ/s1366/1.png "img")

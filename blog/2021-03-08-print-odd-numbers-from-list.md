@@ -11,6 +11,7 @@ slug: /print-odd-numbers-from-list/
 
 
 ---
+Article has been moved to
 In this program we have to take list as input from user and we will print Odd Numbers from list.
 
 ```python title="file.py"

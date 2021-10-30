@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-find-the-sum-of-values-in-a-matrix/
 ---
+Article has been moved to
 ** Code > **
 
 ```python title="file.py"

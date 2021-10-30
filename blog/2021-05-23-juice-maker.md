@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /juice-maker/
 ---
+Article has been moved to
  
 
 You are given a **Juice** class, which has **name** and **capacity** properties. 

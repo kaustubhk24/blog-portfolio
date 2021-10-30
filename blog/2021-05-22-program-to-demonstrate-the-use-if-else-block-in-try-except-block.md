@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-demonstrate-the-use-if-else-block-in-try-except-block/
 ---
+Article has been moved to
 Que > Program to demonstrate the use if else block in Try Except block
 
 ```python title="file.py"

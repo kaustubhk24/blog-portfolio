@@ -11,6 +11,7 @@ slug: /making-simple-calculator-in-javascript/
 
 
 ---
+Article has been moved to
 In this tutorial we will create imple Calculator in JavaScript 
 
 

@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-vb-net-program-to-do-the-following-operations-on-richtextbox-values-i-font-style-ii-font-color-iii-save-iv-open/
 ---
+Article has been moved to
 Write a VB.NET program to do the following operations on RichTextBox values i) Font Style ii) Font Color iii) Save iv) Open 
 
 

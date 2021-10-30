@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-vb-net-program-to-create-author-table-aidanamebook_name-insert-the-records-max-5-delete-a-record-of-author-who-has-written-vb-net-book-and-display-remaining-records-o/
 ---
+Article has been moved to
 Write a VB.NET program to create Author table (aid,aname,book_name). Insert the records (Max 5). Delete a record of author who has written “VB.NET book” and display remaining records onthe Crystal Report.(Use MS Access to create db) 
 ```vb title="file.vb"
 PublicClass Form1

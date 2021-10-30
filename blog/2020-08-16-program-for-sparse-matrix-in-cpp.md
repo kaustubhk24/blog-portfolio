@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-for-sparse-matrix-in-cpp/
 ---
+Article has been moved to
 
 ```cpp title="Sparse.cpp"
   
@@ -58,12 +59,26 @@ int main()
  sparse2[0][2]=n;  
  sparse2[0][3]=t2;  
  cout<<"The first sparse matrix is:";  
- cout<<"n-----------------------n";  
+ cout<<"n---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to--n";  
  for(i=0;i<=t1;i++)  
  {  
  cout< }  
  cout<<"The second sparse matrix is:";  
- cout<<"n-----------------------n";  
+ cout<<"n---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to--n";  
  for(i=0;i<=t2;i++)  
  {  
  cout< }  
@@ -148,7 +163,14 @@ int main()
  }  
  sum[0][1]=m,sum[0][2]=n,sum[0][3]=s-1;  
  cout<<"The sum is :";  
- cout<<"n-----------------------n";  
+ cout<<"n---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to--n";  
  for(i=0;i {  
  cout< }  
  return 0;  

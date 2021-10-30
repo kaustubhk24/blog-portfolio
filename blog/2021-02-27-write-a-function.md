@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-function/
 ---
+Article has been moved to
 An extra day is added to the calendar almost every four years as February 29, and the day is called a _leap day_. It corrects the calendar for the fact that our planet takes approximately 365.25 days to orbit the sun. A leap year contains a leap day.
 
 In the Gregorian calendar, three conditions are used to identify leap years:

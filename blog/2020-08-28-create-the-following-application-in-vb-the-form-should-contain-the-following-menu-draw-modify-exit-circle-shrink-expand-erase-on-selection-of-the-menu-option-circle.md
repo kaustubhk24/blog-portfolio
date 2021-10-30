@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /create-the-following-application-in-vb-the-form-should-contain-the-following-menu-draw-modify-exit-circle-shrink-expand-erase-on-selection-of-the-menu-option-circle/
 ---
+Article has been moved to
 
 ```cpp title="file.vb"
 Private Sub Form_MouseDown(Button As Integer, Shift As Integer, X As Single, Y As    Single)  

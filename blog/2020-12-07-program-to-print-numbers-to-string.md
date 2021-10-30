@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-print-numbers-to-string/
 ---
+Article has been moved to
 We are going to write Program to Print Numbers to String, which will print from 1 to 99,99,99,999.
 
 You can also increase it's capacity by adding few cases in **startPrint()** method.

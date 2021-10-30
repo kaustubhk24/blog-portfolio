@@ -11,6 +11,7 @@ slug: /free-whatsapp-floating-button/
 
 
 ---
+Article has been moved to
 To increase leads on your website you might be looking to add FREE WhataApp Floating Button on your website, It's too easy to add, Let's see ,
 
 First Visit [https://kaustubhk24.github.io/FREE-WhatsApp-Widget-for-Sites/](https://kaustubhk24.github.io/FREE-WhatsApp-Widget-for-Sites/),

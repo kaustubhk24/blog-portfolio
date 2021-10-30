@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-for-all-type-of-file-errors-occurred-in-opening-a-file-input-by-user-and-perform-operation-like-read-write-and-append-on-file-close-the-file-in-finally-block/
 ---
+Article has been moved to
 Que > Program to for all type of file Errors occurred in opening a file input by user and perform operation like read write and append on file, close the file in finally block.
 
 ```python title="file.py"

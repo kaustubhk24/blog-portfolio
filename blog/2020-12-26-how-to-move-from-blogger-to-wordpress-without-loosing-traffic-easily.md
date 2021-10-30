@@ -9,6 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /how-to-move-from-blogger-to-wordpress-without-loosing-traffic-easily/
 
 ---
+Article has been moved to
 Looking for How To Move From Blogger To WordPress Without Loosing Traffic Easily?
 
 [Blogger](https://www.blogger.com) is completely FREE to use. But when you need more controls on Blog , then should move to [WordPress](https://wordpress.org). 

@@ -13,6 +13,7 @@ slug: /create-a-python-class-named-circle-constructed-by-a-radius-and-two-method
 
 
 ---
+Article has been moved to
 ```python title="file.py"
 class Circle():
  def __init__(self, r):

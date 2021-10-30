@@ -12,6 +12,7 @@ slug: /how-to-install-free-easyappointements-on-cpanel/
 
 
 ---
+Article has been moved to
  
 
 Let's see How to Install FREE EasyAppointements on CPanel in 5 minutes? 
@@ -79,7 +80,32 @@ To start final setup Go to File Manger and find the file we renamed to **config.
 
 ```php title="config.php"
 php
-/* ----------------------------------------------------------------------------
+/* ---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to-
  * Easy!Appointments - Open Source Web Scheduler
  *
  * @package EasyAppointments
@@ -88,7 +114,32 @@ php
  * @license https://opensource.org/licenses/GPL-3.0 - GPLv3
  * @link https://easyappointments.org
  * @since v1.0.0
- * ---------------------------------------------------------------------------- */
+ * ---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to- */
 /**
  * Easy!Appointments Configuration File
  *
@@ -104,22 +155,166 @@ php
  * file because the old "configuration.php" is not used anymore.
  */
 class Config {
- // ------------------------------------------------------------------------
+ // ---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to
  // GENERAL SETTINGS
- // ------------------------------------------------------------------------
+ // ---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to
  const BASE_URL = 'https://book.Kaustubh K..com/test-booking';
  const LANGUAGE = 'english';
  const DEBUG_MODE = FALSE;
- // ------------------------------------------------------------------------
+ // ---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to
  // DATABASE SETTINGS
- // ------------------------------------------------------------------------
+ // ---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to
  const DB_HOST = 'localhost';
  const DB_NAME = 'tstdbjc';
  const DB_USERNAME = 'tst_userr';
  const DB_PASSWORD = 'VBQ[ETjX_J@.';
- // ------------------------------------------------------------------------
+ // ---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to
  // GOOGLE CALENDAR SYNC
- // ------------------------------------------------------------------------
+ // ---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to
  const GOOGLE_SYNC_FEATURE = FALSE; // Enter TRUE or FALSE
  const GOOGLE_PRODUCT_NAME = '';
  const GOOGLE_CLIENT_ID = '';
@@ -148,12 +343,60 @@ Database Settings :
 
 ```vb title="file.vb"
  // DATABASE SETTINGS
- // ------------------------------------------------------------------------
+ // ---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to
  const DB_HOST = 'localhost';
  const DB_NAME = 'tstdbjc';
  const DB_USERNAME = 'tst_userr';
  const DB_PASSWORD = 'VBQ[ETjX_J@.';
- // ------------------------------------------------------------------------
+ // ---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to
 ```
 
 const DB_HOST will be localhost all time. Please fill all the fields according to database settings. 
@@ -191,7 +434,9 @@ Booking system Pro is provided by [JustInClicks.com](https://justinclicks.com/co
 ### FREE vs Pro. Why Pro
 
 |||
-|--- |--- |
+|---
+Article has been moved to |---
+Article has been moved to |
 |FREE|PRO|
 |Email Notification|Email Notification|
 |All Basic Features|All Basic Features|

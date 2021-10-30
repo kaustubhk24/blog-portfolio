@@ -11,6 +11,7 @@ slug: /submit-html-form-to-google-sheet-in-5-steps/
 
 
 ---
+Article has been moved to
 Many times while working on static sites we need HTML forms to embeded on our site, We found several articles submitting HTML form to Google Sheets, but in 2021 all of them are out of date, this is latest method you should follow to Submit HTML Form To Google Sheet.
 
 ## Making  HTML Form

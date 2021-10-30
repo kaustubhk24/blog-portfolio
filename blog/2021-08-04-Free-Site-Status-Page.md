@@ -7,6 +7,7 @@ author_url: https://github.com/kaustubhk24
 author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f61?s=200
 slug: /free-site-status-page/
 ---
+Article has been moved to
 
 # FREE Site Status Page
 Are you looking for status page for your site/sites? Many times we need to check if our site is working properly or not, So I developed this tool, You can easily host it on GitHub Pages and by just making few changes you can create status page for your website & as it is hosted on GitHub pages, it is completely free to use.
@@ -61,7 +62,9 @@ sites=[
 
 
 | Status Page  | Incidents Page  |
-|---|---|
+|---
+Article has been moved to|---
+Article has been moved to|
 | ![Status Page](https://github.com/kaustubhk24/FREE-Site-Status-Page/raw/main/imgs/status-page.gif "Status Page")  | ![Incidents Page](https://github.com/kaustubhk24/FREE-Site-Status-Page/raw/main/imgs/status-page-incidents.gif "Incidents Page")  |
 
 

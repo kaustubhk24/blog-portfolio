@@ -11,6 +11,7 @@ slug: /program-to-print-given-highest-position-element-from-the-array/
 
 
 ---
+Article has been moved to
 ** Statement >  **
 Suppose you have an array of numbers and you have to create a function that will accept 2 parameters an array and rank, you have to print the highest rank number from the array to know more read the example below.
 

@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-vb-program-to-enter-two-positive-numbers-calculate-the-sum-of-the-products-of-each-pair-of-digits-occupying-the-same-position-in-the-two-numbers-display-the-result-on/
 ---
+Article has been moved to
 Write a VB program to enter two positive numbers, calculate the sum of the products of each pair of digits occupying the same position in the two numbers. Display the result on to the form. Example: If first number is 45 and second number is 534, then output will be 32. (0\*5 + 4\*3 + 5*4 = 32) 
 
 

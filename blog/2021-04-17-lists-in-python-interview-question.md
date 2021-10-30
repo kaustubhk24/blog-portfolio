@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /lists-in-python-interview-question/
 ---
+Article has been moved to
 Consider a list (`list = []`). You can perform the following commands:
 
  1. `insert i e`: Insert integer e  at position i.

@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-program-for-thread-creation-by-extending-thread-class/
 ---
+Article has been moved to
 Write a program for Thread creation by extending Thread class
 
 ```java title="example_Thread.java"

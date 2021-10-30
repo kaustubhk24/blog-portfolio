@@ -13,6 +13,7 @@ slug: /distribute-amount-in-notes/
 
 
 ---
+Article has been moved to
  
 
 We are going to write Program Distribute Amount in Notes
@@ -29,7 +30,12 @@ We are going to write Program Distribute Amount in Notes
  * 50 X 1=50
  * 10 X 1=10
  * 5 X 1=5
- * ----------------
+ * ---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to-
  * Total : 365
  *
  *
@@ -125,7 +131,14 @@ import jdk.javadoc.internal.tool.Start;
  "\n5 X "+n5+" = "+n5*5+
  "\n2 X "+n2+" = "+n2*2+
  "\n1 X "+n1+" = "+n1*1+
- "\n-----------------------\n"+
+ "\n---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to--\n"+
  "Total \t :"+amt
  );
  }
@@ -148,7 +161,14 @@ The distribution of 86549 is
 5 X 1 = 5
 2 X 2 = 4
 1 X 0 = 0
------------------------
+---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to---
+Article has been moved to--
 Total :86549
 ```
 

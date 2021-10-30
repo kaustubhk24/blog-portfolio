@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-python-program-to-create-file-and-write-1-to-100-numbers/
 ---
+Article has been moved to
  
 
 Que > Write A Python Program To Create File And Write 1 To 100 Numbers, print each number on new line

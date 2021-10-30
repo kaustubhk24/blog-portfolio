@@ -10,6 +10,7 @@ slug: /write-a-vb-net-program-to-move-the-text-justinclicks-com-continuously-fro
 
 
 ---
+Article has been moved to
 ```vb title="file.vb"
 PublicClass Form1
 PrivateSub Timer1_Tick(ByVal sender As System.Object, ByVal e As

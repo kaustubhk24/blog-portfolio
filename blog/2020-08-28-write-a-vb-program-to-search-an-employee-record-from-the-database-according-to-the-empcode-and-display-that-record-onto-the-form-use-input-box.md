@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-vb-program-to-search-an-employee-record-from-the-database-according-to-the-empcode-and-display-that-record-onto-the-form-use-input-box/
 ---
+Article has been moved to
 
 ```vb title="file.vb"
 Dim c As New Connection  

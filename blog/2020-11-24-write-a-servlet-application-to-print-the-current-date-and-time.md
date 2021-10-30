@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-servlet-application-to-print-the-current-date-and-time/
 ---
+Article has been moved to
 Create New [Dynamic Web Project](https://en.wikipedia.org/wiki/Dynamic_web_page), Create below files and copy paste this content.
 
 Make sure your file structure looks like image below.

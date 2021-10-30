@@ -11,6 +11,7 @@ slug: /how-to-get-hosting-at-free-cheap-price/
 
 
 ---
+Article has been moved to
 How to Get Hosting at FREE / Cheap Price?
 
 We know all beginners search for FREE or cheap hosting plans. Let's discuss how to get Cheap Price web hosting and know the reality of FREE web hosting.

@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /introduction-to-ide/
 ---
+Article has been moved to
 Let us see IDE in detail.
 ![Introduction to IDE](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2021/01/intro-ide-1024x547.png) 
 

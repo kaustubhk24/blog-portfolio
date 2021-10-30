@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-vb-program-to-create-a-popup-menu-menu-are-color-sub-menu-red-green-blue-yellow-font-times-new-roman-verdana-arial-black-etc-font-size-10-11-12-etc-after-clicking-on-partic/
 ---
+Article has been moved to
 
 ```vb title="file.vb" 
 Private Sub Form_MouseDown(Button As Integer, Shift As Integer, X As Single, Y As Single)  

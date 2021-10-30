@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-vb-program-to-design-following-form/
 ---
+Article has been moved to
 
 [![](https://1.bp.blogspot.com/-O5Xd__AGE84/X0kXemr1PWI/AAAAAAAAfgw/fe9-18WRlnsga64NDQPt8TuP8NsMhL5ZQCLcBGAsYHQ/s400/1.png)](https://1.bp.blogspot.com/-O5Xd__AGE84/X0kXemr1PWI/AAAAAAAAfgw/fe9-18WRlnsga64NDQPt8TuP8NsMhL5ZQCLcBGAsYHQ/s314/1.png)
 

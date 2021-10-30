@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-vb-net-program-to-accept-n-numbers-through-inputbox-and-count-the-number-of-armstrong-and-perfect-numbers-among-them-and-display-their-count-by-using-messagebox/
 ---
+Article has been moved to
 
 ```vb title="file.vb"
 PublicClass Form1  

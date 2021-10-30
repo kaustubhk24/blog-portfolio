@@ -12,6 +12,7 @@ slug: /visual-studio-blurry-app/
 
 
 ---
+Article has been moved to
  
 
 Are you facing issues with Visual Studio Blurry App? Like you made app , while designing it's okay but after design completed and you ran the app, all the controls & text on it is blurry? If yes , then you are at right place , we covered , how to fix Visual studio blurry app in this tutorial, Let's get started 

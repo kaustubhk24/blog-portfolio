@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-vb-program-to-accept-the-details-of-students-from-user-store-details-in-to-the-database-using-data-environment-create-report-use-standard-adodc-controls-student-s_rollno/
 ---
+Article has been moved to
 
 ```vb title="file.vb"
 Private Sub cmdadd_Click()  

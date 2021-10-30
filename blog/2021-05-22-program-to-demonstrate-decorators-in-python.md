@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-demonstrate-decorators-in-python/
 ---
+Article has been moved to
 Que > Program to demonstrate Decorators in Python
 
 ```python title="file.py"

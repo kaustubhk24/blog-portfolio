@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-html-and-css-code-to-design-a-web-page-divide-the-browser-screen-into-two-frames-the-first-frame-will-display-the-heading-the-second-frame-contains-a-menu-consisting-of-hyperlinks-clicking-o/
 ---
+Article has been moved to
 Write HTML and CSS code to design a web page. Divide the browser screen into two frames. The first frame will display the heading. The second frame contains a menu consisting of hyperlinks. Clicking on any one of these hyperlinks will display related information in a new page as shown below. Use Internal style sheet with appropriate attributes to display information of each frame 
 
 
@@ -65,7 +66,11 @@ Write HTML and CSS code to design a web page. Divide the browser screen into two
 
 ```
 |Date|Time|Subject Code|Subject Name|
-|--- |--- |--- |--- |
+|---
+Article has been moved to |---
+Article has been moved to |---
+Article has been moved to |---
+Article has been moved to |
 |10/10/2018|10:30am-01:30pm|101|PPA|
 |13/10/2018|10:30am-01:30pm|102|MOE|
 |14/10/2018|10:30am-01:30pm|103|BC|
@@ -123,7 +128,11 @@ Write HTML and CSS code to design a web page. Divide the browser screen into two
 ```
 
 |Date|Time|Subject Code|Subject Name|
-|--- |--- |--- |--- |
+|---
+Article has been moved to |---
+Article has been moved to |---
+Article has been moved to |---
+Article has been moved to |
 |10/10/2018|10:30am-01:30pm|201|RD|
 |13/10/2018|10:30am-01:30pm|202|DS|
 |14/10/2018|10:30am-01:30pm|203|OS|

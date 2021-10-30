@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /function-display-words-in-python-to-read-lines-from-a-text-file-and-display-those-words-which-are-less-than-4-characters/
 ---
+Article has been moved to
 
 ```python title="file.py"
 # Write a function display_words() in python to read lines from a text file, and display those words, which are less than 4 characters*

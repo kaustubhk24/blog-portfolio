@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-for-selection-sort-in-cpp/
 ---
+Article has been moved to
 
 ```cpp title="Selection.cpp"
   

@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-vb-program-to-store-the-details-of-players-into-the-database-and-display-that-details-using-adodc/
 ---
+Article has been moved to
 
 ```vb title="file.vb"
 Private Sub Command1_Click()  

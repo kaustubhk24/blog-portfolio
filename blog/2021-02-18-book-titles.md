@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /book-titles/
 ---
+Article has been moved to
 You have been asked to make a special book categorization program, which assigns each book a special code based on its title. 
 The code is equal to the first letter of the book, followed by the number of characters in the title. 
 For example, for the book "Harry Potter", the code would be:'**H12**, as it contains 12 characters (including the space). 

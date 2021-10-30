@@ -11,6 +11,7 @@ slug: /how-to-connect-microsoft-access-database-to-vb-net-in-visual-studio/
 
 
 ---
+Article has been moved to
 Open Visual Studio and create project ,
 
 ## Creating Project

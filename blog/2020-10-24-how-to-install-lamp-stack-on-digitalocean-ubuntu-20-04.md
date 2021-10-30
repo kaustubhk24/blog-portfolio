@@ -11,6 +11,7 @@ slug: /how-to-install-lamp-stack-on-digitalocean-ubuntu-20-04/
 
 
 ---
+Article has been moved to
 How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?
 
 Before starting this process please [create your Digital Ocean Account here.](https://m.do.co/c/253fdc8807b5)

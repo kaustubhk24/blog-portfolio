@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-demonstrate-using-the-same-variable-name-in-calling-function-and-function-definition/
 ---
+Article has been moved to
  
 
 Que > Program to demonstrate Using the Same Variable Name in Calling Function and Function Definition

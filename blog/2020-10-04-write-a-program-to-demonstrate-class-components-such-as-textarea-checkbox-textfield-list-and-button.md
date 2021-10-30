@@ -10,6 +10,7 @@ slug: /write-a-program-to-demonstrate-class-components-such-as-textarea-checkbox
 
 
 ---
+Article has been moved to
 /* Q Write a program to demonstrate class components such as TextArea, \* Checkbox, TextField, List and Button. */ 
 
 

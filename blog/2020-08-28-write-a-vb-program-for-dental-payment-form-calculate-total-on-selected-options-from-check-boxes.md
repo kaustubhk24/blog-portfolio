@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-vb-program-for-dental-payment-form-calculate-total-on-selected-options-from-check-boxes/
 ---
+Article has been moved to
 
 [![](https://1.bp.blogspot.com/-9tOY8WBDRFc/X0kP6uZf5LI/AAAAAAAAffw/m5k1N-KmDsAs9bO0cPmTPRbvt7Etf1gUgCLcBGAsYHQ/s320/1.png)](https://1.bp.blogspot.com/-9tOY8WBDRFc/X0kP6uZf5LI/AAAAAAAAffw/m5k1N-KmDsAs9bO0cPmTPRbvt7Etf1gUgCLcBGAsYHQ/s499/1.png)
 

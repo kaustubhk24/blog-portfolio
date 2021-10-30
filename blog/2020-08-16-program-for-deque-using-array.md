@@ -9,6 +9,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /program-for-deque-using-array/
 
 ---
+Article has been moved to
 ```cpp title="deque.cpp"
 #include<iostream>
 using namespace std;
@@ -148,7 +149,9 @@ int main()
 	int ch,ch1,ch2;
 	while(ch!=-1)
 	{
-		cout<<"n----Menu----"<<endl;
+		cout<<"n---
+Article has been moved to-Menu---
+Article has been moved to-"<<endl;
 		cout<<"1.Input Restricted Queue"<<endl;
 		cout<<"2.Output Restricted Queue"<<endl;
 		cout<<"3.Exit"<<endl;

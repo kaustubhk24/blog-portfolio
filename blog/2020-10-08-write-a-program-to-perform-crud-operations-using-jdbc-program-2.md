@@ -18,6 +18,7 @@ slug: /write-a-program-to-perform-crud-operations-using-jdbc-program-2/
 
 
 ---
+Article has been moved to
 
 ```java title="assign.java" 
 /**  

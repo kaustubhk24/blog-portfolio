@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-vb-program-to-accept-a-number-from-user-and-check-whether-it-is-palindrome-or-not-accept-number-using-input-box-and-display-result-using-message-box/
 ---
+Article has been moved to
 
 ```vb title="file.vb"
 Private Sub Command1_Click()  

@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-demonstrate-the-return-of-multiple-values-from-a-function-definition/
 ---
+Article has been moved to
 Que > Program to demonstrate the Return of Multiple Values from a Function Definition
 
 ## Program

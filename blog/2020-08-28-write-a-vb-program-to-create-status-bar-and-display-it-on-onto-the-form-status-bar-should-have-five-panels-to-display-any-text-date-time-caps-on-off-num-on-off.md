@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-vb-program-to-create-status-bar-and-display-it-on-onto-the-form-status-bar-should-have-five-panels-to-display-any-text-date-time-caps-on-off-num-on-off/
 ---
+Article has been moved to
 
 ```vb title="file.vb"  
 Private Declare Function GetKeyState Lib "user32" (ByValnVirtKey As Long) As Integer  

@@ -11,6 +11,7 @@ slug: /time-table-in-python/
 
 
 ---
+Article has been moved to
  
 
 In this tutorial we will write a program , when you will double click on Python file it will show you Windows 10 notification and will show Today's lecture Schedules

@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /develop-the-menu-based-vb-net-application-to-implement-a-text-editor-with-cut-copy-paste-save-close-operations/
 ---
+Article has been moved to
 
 ```vb title="file.vb"
 Imports System.IO  

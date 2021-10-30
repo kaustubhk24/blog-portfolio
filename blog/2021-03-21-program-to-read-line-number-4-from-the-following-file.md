@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-read-line-number-4-from-the-following-file/
 ---
+Article has been moved to
 
 ```python title="file.py"
 *# Write a program to read line number 4 from the following file*

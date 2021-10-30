@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-demonstrate-the-use-of-math-module-and-use-of-its-various-mathematical-functions/
 ---
+Article has been moved to
 Que > Program to demonstrate the use of math module and use of its various mathematical functions.
 
 ```python title="file.py"

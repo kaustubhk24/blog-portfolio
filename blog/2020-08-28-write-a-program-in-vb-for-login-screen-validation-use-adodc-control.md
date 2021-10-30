@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-program-in-vb-for-login-screen-validation-use-adodc-control/
 ---
+Article has been moved to
 
 [![](https://1.bp.blogspot.com/-YnfOMnS5bjw/X0kaBOpuYdI/AAAAAAAAfhE/Ca-tRJoqtt4vRZ5UPN5aYm1hNCqd6bEIQCLcBGAsYHQ/s400/1.png)](https://1.bp.blogspot.com/-YnfOMnS5bjw/X0kaBOpuYdI/AAAAAAAAfhE/Ca-tRJoqtt4vRZ5UPN5aYm1hNCqd6bEIQCLcBGAsYHQ/s316/1.png)
 

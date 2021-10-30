@@ -11,6 +11,7 @@ slug: /error-operation-must-use-an-updateable-query/
 
 
 ---
+Article has been moved to
 Almost everyone face Error Operation Must Use an Updateable Query , when they make first [setup](https://blog.kaustubh.codes/how-to-make-setup-file-in-vb-net/) of there .NET project.
 
 ## Error Images

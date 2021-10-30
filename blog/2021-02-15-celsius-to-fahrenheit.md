@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /celsius-to-fahrenheit/
 ---
+Article has been moved to
 You are making a Celsius to Fahrenheit converter. 
 Write a function to take the Celsius value as an argument and return the corresponding Fahrenheit value. 
  

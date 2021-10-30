@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /design-the-digital-watch-using-timer-control/
 ---
+Article has been moved to
 
 [![](https://1.bp.blogspot.com/-sfOmIHLdXSg/X0kVwsRWs7I/AAAAAAAAfgk/KiMH72LT6rkTcjQ-dc75Gtq-1ldbNe1LQCLcBGAsYHQ/s400/1.png)](https://1.bp.blogspot.com/-sfOmIHLdXSg/X0kVwsRWs7I/AAAAAAAAfgk/KiMH72LT6rkTcjQ-dc75Gtq-1ldbNe1LQCLcBGAsYHQ/s280/1.png)
 

@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-vb-program-to-convert-temperature-in-celsius-to-fahrenheit-and-result-should-display-into-message-box-accept-input-through-input-box/
 ---
+Article has been moved to
 
 ```vb title="file.vb"
 Private Sub Command1_Click()  

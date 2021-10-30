@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /longest-word/
 ---
+Article has been moved to
 Given a text as input, find and output the longest word. 
  
 **Sample Input** 

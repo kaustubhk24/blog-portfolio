@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-java-program-to-get-the-number-of-elements-in-a-hash-set/
 ---
+Article has been moved to
 
 ```java title="numberofElements.java" 
 import java.util.*;  

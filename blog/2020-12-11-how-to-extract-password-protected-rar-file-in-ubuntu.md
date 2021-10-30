@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /how-to-extract-password-protected-rar-file-in-ubuntu/
 ---
+Article has been moved to
 Let us see How To Extract Password Protected rar file in Ubuntu?
 
 To extract file with password or without password you have to install rar Command Line utility.

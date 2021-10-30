@@ -1,6 +1,7 @@
 ---
 title: Markdown page example
 ---
+Article has been moved to
 
 # Markdown page example
 

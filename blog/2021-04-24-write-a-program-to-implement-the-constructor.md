@@ -13,6 +13,7 @@ slug: /write-a-program-to-implement-the-constructor/
 
 
 ---
+Article has been moved to
 ```python title="file.py"
 import operator
 from operator import eq, add, sub,mul

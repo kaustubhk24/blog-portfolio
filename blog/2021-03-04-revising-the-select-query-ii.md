@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /revising-the-select-query-ii/
 ---
+Article has been moved to
 Query the **NAME** field for all American cities in the **CITY** table with populations larger than `120_0`. The _ountryCode_ for America is `USA`.
 
 The **CITY** table is described as follows:

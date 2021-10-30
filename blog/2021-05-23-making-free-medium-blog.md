@@ -11,6 +11,7 @@ slug: /making-free-medium-blog/
 
 
 ---
+Article has been moved to
 In this tutorial we will see Making Free Medium Blog,
 
 First visit [medium.com](https://medium.com),

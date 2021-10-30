@@ -17,6 +17,7 @@ slug: /write-a-java-program-to-display-progress-bar/
 
 
 ---
+Article has been moved to
 
 ```java title="progressbar.java" 
   

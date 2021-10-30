@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /create-a-timetable-as-follow/
 ---
+Article has been moved to
 
 
 ![Timetable](https://1.bp.blogspot.com/-qK3zcfQcmN8/X0kkHmxMXQI/AAAAAAAAfhQ/XNWq6BZGLgMZqNkkbC7c6PSsjG__wQm4wCLcBGAsYHQ/s693/1.png "Timetable")
@@ -75,7 +76,14 @@ slug: /create-a-timetable-as-follow/
 **Output**
 
 |Time|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|
-|--- |--- |--- |--- |--- |--- |--- |
+|---
+Article has been moved to |---
+Article has been moved to |---
+Article has been moved to |---
+Article has been moved to |---
+Article has been moved to |---
+Article has been moved to |---
+Article has been moved to |
 |7:30 to 10:30|Practical(Java)|Practical(Java)|Practical(.NET)|Practical(.NET)|Practical(WT)|Practical(WT)|
 |10:50 to 11:40|Java|.NET|WT|SE|Java|Java|
 |11:40 to 12:30|WT|WT|WT|Java|Java|Java|

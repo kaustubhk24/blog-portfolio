@@ -12,6 +12,7 @@ slug: /how-to-make-best-educational-site-lms-in-wordpress-in-10-minutes/
 
 
 ---
+Article has been moved to
 Let's See Make Best Educational Site LMS In WordPress.
 
 # Installing SSL

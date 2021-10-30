@@ -13,6 +13,7 @@ slug: /write-a-program-to-implement-multiple-inheritance/
 
 
 ---
+Article has been moved to
 ```python title="file.py"
 class Class1:
  def m(self):

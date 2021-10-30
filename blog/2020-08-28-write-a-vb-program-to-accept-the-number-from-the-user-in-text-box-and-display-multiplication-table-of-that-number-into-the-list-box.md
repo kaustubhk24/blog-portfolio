@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-vb-program-to-accept-the-number-from-the-user-in-text-box-and-display-multiplication-table-of-that-number-into-the-list-box/
 ---
+Article has been moved to
 
 ```vb title="file.vb"
 Private Sub cmdShow_Click()  

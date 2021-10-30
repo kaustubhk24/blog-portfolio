@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-for-performing-some-addition-sum-product-and-division-operation-on-given-input-and-handle-all-types-of-exceptions-using-attribute-error-value-error-and-division-by-zero-error-etc/
 ---
+Article has been moved to
 Que > Program for performing some addition, sum, product and division operation on given input and handle all types of Exceptions using Attribute Error, Value Error and Division by Zero Error, etc
 
 ```python title="file.py"

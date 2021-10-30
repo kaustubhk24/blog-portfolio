@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-creating-a-thread-to-print-the-even-numbers-from-10-to-20-by-using-thread-class/
 ---
+Article has been moved to
 Que > Program to creating a thread to print the even numbers from 10 to 20 by using Thread Class
 
 ```python title="file.py"

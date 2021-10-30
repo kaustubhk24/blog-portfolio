@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-vb-program-to-accept-the-details-of-product-pno-pname-qty-price-totalprice-store-it-into-the-database-and-update-the-quantity-of-product-having-pno-is-100-dont-use-s/
 ---
+Article has been moved to
 
 ```vb title="file.vb" 
 Private Sub Command1_Click()  

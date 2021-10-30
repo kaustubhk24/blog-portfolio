@@ -17,6 +17,7 @@ enclosure:
  video/mp4
  
 ---
+Article has been moved to
 In this tutorial we will see How To Make Completely Free Blog? Many times you want to generate Passive income but you don't want pay anything for expenses such as Domain name, Hosting, Theme or plugins?
 
 So we're here to help you making blog completely Free of cost,

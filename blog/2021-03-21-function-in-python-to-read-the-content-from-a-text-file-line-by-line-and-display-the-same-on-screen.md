@@ -12,6 +12,7 @@ slug: /function-in-python-to-read-the-content-from-a-text-file-line-by-line-and-
 
 
 ---
+Article has been moved to
  
 
 

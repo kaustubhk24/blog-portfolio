@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-program-to-implement-polymorphism/
 ---
+Article has been moved to
 ```python title="file.py"
 def add(x, y, z=3):
  return x + y + z

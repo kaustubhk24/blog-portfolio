@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /print-function/
 ---
+Article has been moved to
 The included code stub will read an integer,n, from STDIN.
 
 Without using any string methods, try to print the following:

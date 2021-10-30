@@ -11,6 +11,7 @@ slug: /how-to-migrate-wordpress-site-for-free-in/
 
 
 ---
+Article has been moved to
 In this tutorial we will see How To Migrate WordPress Site?
 
 Let's see.

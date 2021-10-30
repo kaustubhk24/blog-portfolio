@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-vb-net-program-to-design-the-following-form-it-contains-the-three-menus-color-redbluegreen-windowmaximize-minimize-restore-and-exit-on-selection-of-any-menu-or-submenu-result-should/
 ---
+Article has been moved to
 
 
 ```vb title="file.vb"

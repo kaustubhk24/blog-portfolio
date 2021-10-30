@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-for-stack-implementation-using-cpp/
 ---
+Article has been moved to
 
 ```cpp title="Stack.cpp"
   
@@ -41,7 +42,9 @@ int main()
  int ch;  
  while(ch!=-1)  
  {  
- cout<<"n-----MENU-----"< cout<<"1.Push."< cout<<"2.Pop."< cout<<"3.Display"< cout<<"4.Exit"< cout<<"Enter a choice:";  
+ cout<<"n---
+Article has been moved to--MENU---
+Article has been moved to--"< cout<<"1.Push."< cout<<"2.Pop."< cout<<"3.Display"< cout<<"4.Exit"< cout<<"Enter a choice:";  
  cin>>ch;  
  switch(ch)  
  {  

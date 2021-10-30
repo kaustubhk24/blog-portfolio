@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-vb-a-program-to-accept-a-string-from-user-if-the-string-contain-any-integer-number-that-get-replaced-by/
 ---
+Article has been moved to
 
 ```vb title="file.vb"
   

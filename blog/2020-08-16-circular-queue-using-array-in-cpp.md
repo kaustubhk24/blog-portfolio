@@ -8,6 +8,7 @@ author_url: https://github.com/kaustubhk24
 author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f61?s=200
 
 ---
+Article has been moved to
 ```cpp title="circular.cpp"
 #include<iostream>
 using namespace std;
@@ -68,7 +69,9 @@ int main()
 	int ch,data;
 	while(ch!=-1)
 	{
-		cout<<"n----MENU----"<<endl;
+		cout<<"n---
+Article has been moved to-MENU---
+Article has been moved to-"<<endl;
 		cout<<"1.Insert"<<endl;
 		cout<<"2.Delete"<<endl;
 		cout<<"3.Display"<<endl;

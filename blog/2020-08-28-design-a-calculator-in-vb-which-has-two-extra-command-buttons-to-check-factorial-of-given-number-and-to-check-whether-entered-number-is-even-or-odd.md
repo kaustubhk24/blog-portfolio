@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /design-a-calculator-in-vb-which-has-two-extra-command-buttons-to-check-factorial-of-given-number-and-to-check-whether-entered-number-is-even-or-odd/
 ---
+Article has been moved to
 Design a calculator in VB, Which has Two extra command buttons to check factorial of given number and to check whether entered number is even or odd 
 
 

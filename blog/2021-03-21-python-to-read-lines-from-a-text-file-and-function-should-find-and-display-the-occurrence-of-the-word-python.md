@@ -12,6 +12,7 @@ slug: /python-to-read-lines-from-a-text-file-and-function-should-find-and-displa
 
 
 ---
+Article has been moved to
 
 ```
 *# Write a function in Python to read lines from a text file and function should find and display the occurrence of the word "Python".*

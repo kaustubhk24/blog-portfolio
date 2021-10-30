@@ -11,6 +11,7 @@ slug: /mini-project-in-vb-net-denomination/
 
 
 ---
+Article has been moved to
 In this tutorial we will make Mini Project VB.NET for denomination. User will enter data and we will show the total to user.
 
 ## Making UI

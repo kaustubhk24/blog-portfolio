@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-check-if-a-3-digit-number-is-armstrong-number-or-not/
 ---
+Article has been moved to
 Que > Program to Check If a 3 Digit Number Is Armstrong Number or Not
 
 ```python title="file.py"

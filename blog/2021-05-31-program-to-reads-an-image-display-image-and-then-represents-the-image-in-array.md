@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-reads-an-image-display-image-and-then-represents-the-image-in-array/
 ---
+Article has been moved to
  
 
 ** Code > **

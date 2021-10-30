@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-vb-net-program-to-create-movie-table-mv_namerelease_year-director-insert-therecordsmax-5-delete-the-records-of-movies-whose-release-year-is-2015-and-display-appropriate-message-in-mes/
 ---
+Article has been moved to
 Write a VB.NET program to create movie table (Mv_Name,Release_year, Director). Insert therecords(Max: 5). Delete the records of movies whose release year is 2015 and display appropriate message in messagebox.(Use MS Access to create db) 
 ```vb title="file.vb"
 PublicClass Form1

@@ -10,6 +10,7 @@ slug: /how-to-add-qr-code-containing-url-on-your-website-for-free/
 
 
 ---
+Article has been moved to
 ![QR Code](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/10/chart.png "QR Code")
 
 Do you want to add FREE URL QR Code on all pages of your website for FREE?

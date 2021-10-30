@@ -8,6 +8,7 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /loops-python-example/
 ---
+Article has been moved to
 **Task** 
 The provided code stub reads and integer, n, from STDIN. For all non-negative integers i2.
 

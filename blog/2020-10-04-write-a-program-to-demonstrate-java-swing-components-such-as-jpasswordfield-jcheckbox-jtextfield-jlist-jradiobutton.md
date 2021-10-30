@@ -17,6 +17,7 @@ slug: /write-a-program-to-demonstrate-java-swing-components-such-as-jpasswordfie
 
 
 ---
+Article has been moved to
 
 ```java title="javaSwing.java" 
   
