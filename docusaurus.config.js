@@ -2,7 +2,7 @@
 module.exports = {
   title: 'Kaustubh K.',
   tagline: 'Quick Learner, Problem Solver, Open Source Contributor',
-  url: 'https://github.com',
+  url: 'https://kaustubhk24.netlify.app/',
   baseUrl: '/',
   organizationName: 'kaustubhk24', // Usually your GitHub org/user name.
   projectName: '', // Usually your repo name.
