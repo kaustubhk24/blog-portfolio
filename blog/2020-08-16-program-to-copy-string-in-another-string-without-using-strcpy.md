@@ -7,22 +7,4 @@ author_url: https://github.com/kaustubhk24
 author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f61?s=200
 slug: /program-to-copy-string-in-another-string-without-using-strcpy/
 ---
-
-```cpp title="file.cpp"
-#include<iostream>
-using namespace std;
-int main()
-{
-	char str1[20],str2[20];
-	int i;
-
-	cout<<"Enter String :";
-	cin>>str1;
-	for(i=0;str1[i]!='';i++)
-	{
-      str2[i]=str1[i];
-	}
-	str2[i]='';
-	cout<<"Copied String :"<<str2;
-}
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2020/08/program-to-copy-string-in-another.html

@@ -8,35 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-for-number-pattern/
 ---
-```cpp title="Pattern.cpp"
-/* Program for below pattern 
-
-
-1	
-2	2	
-3	3	3	
-4	4	4	4	
-5	5	5	5	5	
-
-
-
-
-*/
-
-
-#include<iostream>
-using namespace std;
-int main()
-{
-		for(int i=1;i<=5;i++)
-	{
-		for(int j=1;j<=i;j++)
-		{
-			cout<<i<<"t";
-		}
-		cout<<endl;
-	}
-}
-
-
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/11/program-for-number-pattern.html

@@ -8,35 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-create-pattern-in-cpp/
 ---
-
-```cpp title="Pattern.cpp"
-  
-  
-/*  
-  
-Program for below pattern.  
-$	$	$	$	$	  
-$	$	$	$	  
-$	$	$	  
-$	$	  
-$  
-  
-*/  
-  
-  
-#include  
-using namespace std;  
-int main()  
-{  
- for(int i=0;i<5;i++)  
- {  
- for(int j=i;j<5;j++)  
- {  
- cout<<"$t";  
- }  
- cout< }  
-}  
-  
-  
-
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/11/program-to-create-pattern-in-cpp.html
