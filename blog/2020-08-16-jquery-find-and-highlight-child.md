@@ -7,33 +7,5 @@ author_title: Programmer
 author_url: https://github.com/kaustubhk24
 author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f61?s=200
 ---
-```html title="index.html"
-<!DOCTYPE html>
-<html>
-<head>
-	<title>find children and highlight</title>
-	<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
-	<style>
-    .highlight{
-        background: yellow;
-    }        
-</style>
-</head>
-<body>
-<div>
-	<h1>We will trace children of ul element here</h1>
-	<ul>
-		<li>I am the eldest</li>
-		<li>I am the youngest</li>
+The article has been moved to https://kaustubhk24.blogspot.com/2021/11/jquery-find-and-highlight-child.html
 
-	</ul>
-</div>
-<script>
-$(document).ready(function(){
-    $("ul").children().addClass("highlight");
-});
-</script>
-
-</body>
-</html>
-```
