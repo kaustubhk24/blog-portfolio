@@ -8,22 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-tocreate-a-pandas-dataframe-from-list-of-dicts/
 ---
-** Code > **
-
-```python title="file.vb"
-import pandas as pd
-data = [{'401': 'Python', '402': 'ISSA', '403': 'OT','404':'EAF','405':'KRAI'},
- {'401':'Programming','402':'Security','403':'Maths','404':'Architecture','405':'AI'}]
-dbs= pd.DataFrame(data, index =['subject','Description'])
-print (dbs, "\n")
-```
-
-Output> 
-
-
-```python title="Output"
- 401 402 403 404 405
-subject Python ISSA OT EAF KRAI
-Description Programming Security Maths Architecture AI
-
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/05/program-tocreate-pandas-dataframe-from.html

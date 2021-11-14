@@ -8,20 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-select-the-elements-from-a-given-matrix/
 ---
-**Code >**
-
-```python title="file.py"
-import pandas as pd
-import numpy as np
-data = np.array(['Dwayne','John','Steve','Hulk','Orton','Leo','Kofi'])
-ser = pd.Series(data)
-print(ser[:3])
-```
-
-** Output > **
-
-```python title="Output"
-Dwayne
-John
-Steve
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/05/program-to-select-elements-from-given.html

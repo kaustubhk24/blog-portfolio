@@ -8,22 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-create-a-numpy-array-filled-with-all-ones/
 ---
-** Code > **
-
-```python title="file.vb"
-import numpy as np
-a = np.ones(3, dtype = int)
-print("Matrix a:", a)
-b = np.ones([4, 4], dtype = int)
-print("Matrix b:", b)
-```
-
-** Output > **
-
-```python title="Output"
-import numpy as np
-a = np.ones(3, dtype = int)
-print("Matrix a:", a)
-b = np.ones([4, 4], dtype = int)
-print("Matrix b:", b)
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/05/program-to-create-numpy-array-filled.html
