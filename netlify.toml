@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/*"
+  from = "/blog/*"
   to = "https://kaustubhk24.blogspot.com/search?q=:splat"
   status = 302
   force = true
