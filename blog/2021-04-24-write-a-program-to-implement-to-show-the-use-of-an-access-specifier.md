@@ -8,21 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-program-to-implement-to-show-the-use-of-an-access-specifier/
 ---
-```python title="file.py"
-class User:
- def __init__(self, name, age):
- self.usrName = name
- self.usrAge = age
- def displayAge(self):
- print("Age: ", self.usrAge)
-obj = User("ABC", 20)
-print("Name: ", obj.usrName)
-obj.displayAge()
-```
-
-output:
-
-```python title="Output"
-Name: ABC
-Age: 20
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/04/write-program-to-implement-to-show-use.html

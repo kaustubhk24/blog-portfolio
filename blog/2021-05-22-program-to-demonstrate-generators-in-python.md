@@ -8,17 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-demonstrate-generators-in-python/
 ---
-Que > Program to demonstrate Generators in Python
-
-```python title="file.py"
-def func(a):
- yield a
-a=[1,2,3]
-b=func(a)
-next(b)
-```
-
-```python title="Output"
-[1, 2, 3]
-
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/05/que-program-to-demonstrate-generators.html

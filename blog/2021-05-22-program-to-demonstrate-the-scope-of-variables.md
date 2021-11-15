@@ -8,17 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-demonstrate-the-scope-of-variables/
 ---
-Que > Program to demonstrate the Scope of Variables
-
-```python title="file.py"
-a="Global"
-def fun(a):
- print(a)
-print(a)
-fun("Local")
-```
-
-```python title="Output"
-Global
-Local
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/05/program-to-demonstrate-scope-of.html

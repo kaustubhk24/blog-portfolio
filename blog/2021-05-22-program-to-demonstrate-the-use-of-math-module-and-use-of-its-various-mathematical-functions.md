@@ -8,24 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-demonstrate-the-use-of-math-module-and-use-of-its-various-mathematical-functions/
 ---
-Que > Program to demonstrate the use of math module and use of its various mathematical functions.
-
-```python title="file.py"
-
-import math
-print(math.pi)
-print(math.e) #Euler's number
-print(math.log(10))
-print(math.exp(10))
-print(math.e**10)
-print(math.sqrt(9))
-```
-
-```python title="Output"
-3.141592653589793
-2.718281828459045
-2.302585092994046
-22026.465794806718
-22026.465794806703
-3.0
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/05/program-to-demonstrate-use-of-math.html

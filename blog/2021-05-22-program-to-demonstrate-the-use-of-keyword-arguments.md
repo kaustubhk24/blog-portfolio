@@ -8,15 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-demonstrate-the-use-of-keyword-arguments/
 ---
-Que > Program to demonstrate the Use of Keyword Arguments
-
-```python title="file.py"
-def my_function(v1, v2, v3):
- print(v3)
-my_function(v1=3, v2=5,v3=8)
-```
-
-```python title="Output"
-
-8
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/05/program-to-demonstrate-use-of-keyword.html 

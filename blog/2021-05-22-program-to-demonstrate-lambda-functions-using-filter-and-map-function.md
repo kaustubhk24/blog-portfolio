@@ -8,16 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-demonstrate-lambda-functions-using-filter-and-map-function/
 ---
-Que > Program to demonstrate lambda functions using filter() and map() function
-
-```python title="file.py"
-tup= (5, 7, 22, 97, 54, 62, 77, 23, 73, 61)
-print(tuple(map(lambda x: x+1 , tup)))
-y = filter(lambda x: (x>=10), tup)
-print(list(y))
-```
-
-```python title="Output"
-(6, 8, 23, 98, 55, 63, 78, 24, 74, 62)
-[22, 97, 54, 62, 77, 23, 73, 61]
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/05/program-to-demonstrate-lambda-functions.html

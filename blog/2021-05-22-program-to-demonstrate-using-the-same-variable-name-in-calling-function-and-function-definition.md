@@ -10,19 +10,4 @@ slug: /program-to-demonstrate-using-the-same-variable-name-in-calling-function-a
 ---
  
 
-Que > Program to demonstrate Using the Same Variable Name in Calling Function and Function Definition
-
-## Program
-
-```python title="file.py"
-def start(msg):
- print(msg)
-msg="Hello"
-start(msg)
-```
-
-## Output:
-
-```python title="Output"
-Hello
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/11/program-to-demonstrate-using-same.html

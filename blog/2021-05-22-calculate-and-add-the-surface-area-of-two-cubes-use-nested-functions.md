@@ -8,26 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /calculate-and-add-the-surface-area-of-two-cubes-use-nested-functions/
 ---
-Que > Calculate And Add The Surface Area Of Two Cubes. Use Nested Functions
-
-```python title="file.py"
-def SurfaceAreaOf2Cubes(a1,a2):
- A1=6*a1*a1
- print("Surface Area of First Cube is ",A1)
- def SAO2C(a2):
- A2=6*a2*a2
- print("Surface Area of Second Cube is ",A2)
- def Total(A1,A2):
- print("After adding ",A1+A2)
- Total(A1,A2)
- SAO2C(a2)
-SurfaceAreaOf2Cubes(int(input("Enter Edge of First Cube :")),int(input("Enter Edge of First Cube :")))
-```
-
-```python title="Output"
-Enter Edge of First Cube :15
-Enter Edge of First Cube :12
-Surface Area of First Cube is 1350
-Surface Area of Second Cube is 864
-After adding 2214
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/05/calculate-and-add-surface-area-of-two.html

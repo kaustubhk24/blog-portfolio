@@ -8,16 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-demonstrate-iterator-in-python/
 ---
-Que > Program to demonstrate Iterator in Python
-
-```python title="file.py"
-arr={10,20,30,40,50,60,70}
-sum=0
-for i in arr:
- sum+=i
-print(sum)
-```
-
-```python title="Output"
-280
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/05/program-to-demonstrate-iterator-in.html

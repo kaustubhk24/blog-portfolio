@@ -8,24 +8,5 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-demonstrate-the-use-of-args-and-kwargs/
 ---
-Que > Program to demonstrate the Use of \*args and \**kwargs
 
-```python title="file.py"
-def adder(*num,**data):
- sum = 0
- for n in num:
- sum = sum + n
- print("Sum:",sum)
- for key, value in data.items():
- print("{} is {}".format(key,value))
-adder(3,5,Firstname="K", Lastname="K", Age=222, Phone=1234567890)
-```
-
-```python title="Output"
-
-Sum: 8
-Firstname is K
-Lastname is K
-Age is 222
-Phone is 1234567890
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/05/program-to-demonstrate-use-of-args-and.html

@@ -8,17 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-demonstrate-decorators-in-python/
 ---
-Que > Program to demonstrate Decorators in Python
-
-```python title="file.py"
-def first(msg):
- print(msg)
-def second(func, msg):
- func(msg)
-second(first, "Hello!")
-```
-
-```python title="Output"
-Hello!
-
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/05/program-to-demonstrate-decorators-in.html

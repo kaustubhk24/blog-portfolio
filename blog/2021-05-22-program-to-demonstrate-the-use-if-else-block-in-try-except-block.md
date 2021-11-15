@@ -8,22 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-demonstrate-the-use-if-else-block-in-try-except-block/
 ---
-Que > Program to demonstrate the use if else block in Try Except block
-
-```python title="file.py"
-def divider(x, y):
- try:
- result = x // y
- except ZeroDivisionError:
- print("Error: dividing by zero ")
- else:
- print("Answer is :", result)
- finally:
- print('Program Terminated')
-divider(3, 2)
-```
-
-```python title="Output"
-Answer is : 1
-Program Terminated
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/11/program-to-demonstrate-use-if-else.html
