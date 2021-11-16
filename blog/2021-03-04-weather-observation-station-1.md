@@ -8,15 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /weather-observation-station-1/
 ---
-Query a list of **CITY** and **STATE** from the **STATION** table. 
-The **STATION** table is described as follows:
-
-![](https://s3.amazonaws.com/hr-challenge-images/9336/1449345840-5f0a551030-Station.jpg "Station.jpg") 
-
-
-
-Answer :
-
-```sql title="SQL"
-select CITY,STATE from STATION;
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/03/weather-observation-station-1.html

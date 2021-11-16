@@ -9,30 +9,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /program-to-read-line-number-4-from-the-following-file/
 ---
 
-```python title="file.py"
-*# Write a program to read line number 4 from the following file*
-*# Line1*
-*# Line2*
-*# Line3*
-*# Line4*
-*# Line5*
-*# Line6*
-
-
-def findInFile(file_name,line_no):
- count=0
- file=open(file_name)
- lines=file.readlines()
- print(lines[line_no+1])
-findInFile("file.txt",4)
-```
-
-output:
-
-```python title="Output"
- Etiam non quam lacus suspendisse faucibus interdum posuere.
-
-```
-
-_ 
-_
+The article has been moved to https://kaustubhk24.blogspot.com/2021/03/program-to-read-line-number-4-from.html

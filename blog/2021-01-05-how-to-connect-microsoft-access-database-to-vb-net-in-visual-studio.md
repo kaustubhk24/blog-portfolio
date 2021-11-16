@@ -11,22 +11,5 @@ slug: /how-to-connect-microsoft-access-database-to-vb-net-in-visual-studio/
 
 
 ---
-Open Visual Studio and create project ,
-
-## Creating Project
-![How to Connect Microsoft Access Database to VB.NET in Visual Studio](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2021/01/image-7.png) 
-
-Once Project is created , 
-
-## Creating Database
-
-In next step we will create Access Database 
-![How to Connect Microsoft Access Database to VB.NET in Visual Studio](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2021/01/image-8.png) 
-
-## Making Connection
-
-Open Visual Studio 2019, Open **View** menu and **Server Explorer**, On Data Connection **Right Click** and Click **New Connection**
-![How to Connect Microsoft Access Database to VB.NET in Visual Studio](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2021/01/image-9.png) 
-
-Follow the wizard and You just completed Connection.
+The article has been moved to https://kaustubhk24.blogspot.com/2021/01/how-to-connect-microsoft-access.html
 

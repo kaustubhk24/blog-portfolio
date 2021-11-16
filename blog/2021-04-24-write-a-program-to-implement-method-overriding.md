@@ -8,22 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-program-to-implement-method-overriding/
 ---
-```python title="file.py"
-class Fruits:
- def show(self):
- print("This is Fruits class")
-class Apple(Fruits):
- def show(self):
- print("Apple")
-a=Apple()
-a.show()
-f=Fruits()
-f.show()
-```
-
-output:
-
-```python title="Output"
-Apple
-This is Fruits class
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/04/write-program-to-implement-method.html

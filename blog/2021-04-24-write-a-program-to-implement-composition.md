@@ -8,28 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-program-to-implement-composition/
 ---
-```python title="file.py"
-class A:
- def __init__(self):
- print('Class - A Contructor')
- def m1(self):
- print('M1 method of Class - A.')
-class B:
- def __init__(self):
- print('Class - B Constructor.')
- def m2(self):
- obj = A()
- obj.m1()
- print('M2 method of Class - B.')
-obj = B()
-obj.m2()
-```
-
-output:
-
-```python title="Output"
-Class - B Constructor.
-Class - A Contructor
-M1 method of Class - A.
-M2 method of Class - B.
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/11/write-program-to-implement-composition.html

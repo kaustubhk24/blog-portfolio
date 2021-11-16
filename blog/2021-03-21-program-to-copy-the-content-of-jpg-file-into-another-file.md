@@ -8,18 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-copy-the-content-of-jpg-file-into-another-file/
 ---
-```python title="Output"
-with open('download.jpg','rb') as firstfile, open('1.jpg','wb') as secondfile:
- # read content from first file
- for line in firstfile:
- # append content to second file
- secondfile.write(line)
-print("file copied successfully")
-```
-
-output:
-
-```python title="file.py"
-file copied successfully
-
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/03/program-to-copy-content-of-jpg-file.html

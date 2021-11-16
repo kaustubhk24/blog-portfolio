@@ -8,17 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-reverse-string-using-python/
 ---
-```python title="file.py"
-# WAP accept string and return reverse
-str1=str(input("Enter String : "))
-print(str1[::-1])
-
-```
-
-Output
-
-```python title="file.py"
-Enter String : Kaustubh
-hbutsuaK
-
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/03/program-to-reverse-string-using-python.html

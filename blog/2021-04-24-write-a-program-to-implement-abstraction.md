@@ -8,20 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-program-to-implement-abstraction/
 ---
-```python title="file.py"
-class One:
- def disp(self):
- pass
-class Two(One):
- def disp(self):
- print("Abstract method body in sub Class")
-obj = Two()
-obj.disp()
-```
-
-output:
-
-```python title="Output"
-Abstract method body in sub Class
-
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/04/write-program-to-implement-abstraction.html
