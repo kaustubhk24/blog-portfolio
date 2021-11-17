@@ -8,18 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-find-biggest-number-among-3/
 ---
-```python title="file.py"
-# Write a program to find biggest number among 3
-arr=[0]*3
-for i in range(0,3):
- arr[i]=int(input("Enter Number : "))
-print(max(arr))
-```
-
-```python title="file.py"
-Output:
-Enter Number : 13
-Enter Number : 65
-Enter Number : 99
-99
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/02/program-to-find-biggest-number-among-3.html

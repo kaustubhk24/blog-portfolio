@@ -8,14 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-remove-duplicate-from-list/
 ---
-```python title="file.py"
-# Write a program to remove duplicate from list
-list1=[5,1,2,3,4,5,6,7,8,1,2,3,0,9,8,6,4,3]
-print(list(dict.fromkeys(list1)))
-```
-
-```python title="file.py"
-Output:
-[5, 1, 2, 3, 4, 6, 7, 8, 0, 9]
-
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/02/program-to-remove-duplicate-from-list.html

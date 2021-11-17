@@ -8,20 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-get-largest-number-from-list/
 ---
-```python title="file.py"
-# Write a program to get largest number from list
-list1=[*range(1,50)]
-print(max(list1))
-#alternate method
-largest=0
-for i in list1:
- if i>largest:
- largest=i
-print(largest)
-```
-
-```python title="file.py"
-Output:
-49
-49
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/02/program-to-get-largest-number-from-list.html

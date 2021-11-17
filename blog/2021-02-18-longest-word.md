@@ -8,33 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /longest-word/
 ---
-Given a text as input, find and output the longest word. 
- 
-**Sample Input** 
-this is an awesome text 
- 
-**Sample Output** 
-awesome
-
-
-
- Recall the'**split(' ')**'method, which returns a list of words of the string.
- 
-
-
-
-
-```python title="file.py"
-Program
-txt = input()
-arr=txt.split(' ')
-print(max(arr, key=len))
-```
-
-```python title="file.py"
-Input:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
-Output:
-consectetur
-
-```
+The article has been moved to https://kaustubhk24.blogspot.com/2021/02/longest-word.html

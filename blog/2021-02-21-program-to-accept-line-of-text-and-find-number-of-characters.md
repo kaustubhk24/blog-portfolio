@@ -8,15 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-accept-line-of-text-and-find-number-of-characters/
 ---
-```python title="file.py"
-# Write a program to accept line of text and find number of characters
-str1=str(input("Enter String : "))
-# Length of string
-print(len(str1))
-```
-
-```python title="file.py"
-output:
-Enter String : Kaustubh K..com is best site for all programmers
-45
-```
+The article has been moved to  https://kaustubhk24.blogspot.com/2021/02/program-to-accept-line-of-text-and-find.html
