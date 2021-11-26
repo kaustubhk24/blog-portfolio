@@ -11,5 +11,5 @@ slug: /how-to-connect-microsoft-access-database-to-vb-net-in-visual-studio/
 
 
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2021/01/how-to-connect-microsoft-access.html
+The article has been moved to https://blog.kaustubhk24.com/2021/01/how-to-connect-microsoft-access.html
 

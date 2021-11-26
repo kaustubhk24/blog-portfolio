@@ -11,4 +11,4 @@ slug: /free-whatsapp-floating-button/
 
 
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2021/03/add-free-whatsapp-floating-button-on.html
+The article has been moved to https://blog.kaustubhk24.com/2021/03/add-free-whatsapp-floating-button-on.html

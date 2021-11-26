@@ -8,4 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /write-a-program-to-implement-to-show-the-use-of-an-access-specifier/
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2021/04/write-program-to-implement-to-show-use.html
+The article has been moved to https://blog.kaustubhk24.com/2021/04/write-program-to-implement-to-show-use.html

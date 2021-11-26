@@ -12,4 +12,4 @@ slug: /function-in-python-to-read-the-content-from-a-text-file-line-by-line-and-
 
 
 ---
- The article has been moved to https://kaustubhk24.blogspot.com/2021/03/function-in-python-to-read-content-from.html
+ The article has been moved to https://blog.kaustubhk24.com/2021/03/function-in-python-to-read-content-from.html

@@ -11,5 +11,5 @@ slug: /submit-html-form-to-google-sheet-in-5-steps/
 
 
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2021/03/updated-submit-html-form-to-google.html
+The article has been moved to https://blog.kaustubhk24.com/2021/03/updated-submit-html-form-to-google.html
  

@@ -12,4 +12,4 @@ slug: /python-to-count-words-in-a-text-file-those-are-ending-with-alphabet-e/
 
 
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2021/03/function-in-python-to-count-words-in.html
+The article has been moved to https://blog.kaustubhk24.com/2021/03/function-in-python-to-count-words-in.html

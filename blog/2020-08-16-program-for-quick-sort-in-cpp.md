@@ -9,4 +9,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 slug: /program-for-quick-sort-in-cpp/
 
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2021/11/program-for-quick-sort-in-cpp.html
+The article has been moved to https://blog.kaustubhk24.com/2021/11/program-for-quick-sort-in-cpp.html

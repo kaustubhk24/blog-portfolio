@@ -11,4 +11,4 @@ slug: /program-to-print-given-highest-position-element-from-the-array/
 
 
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2021/06/program-to-print-given-highest-position.html
+The article has been moved to https://blog.kaustubhk24.com/2021/06/program-to-print-given-highest-position.html

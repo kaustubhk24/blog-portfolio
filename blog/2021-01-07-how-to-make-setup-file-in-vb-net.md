@@ -10,4 +10,4 @@ slug: /how-to-make-setup-file-in-vb-net/
 
 
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2021/01/how-to-make-setup-file-in-vbnet.html
+The article has been moved to https://blog.kaustubhk24.com/2021/01/how-to-make-setup-file-in-vbnet.html

@@ -12,4 +12,4 @@ slug: /python-to-read-lines-from-a-text-file-and-function-should-find-and-displa
 
 
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2021/03/python-to-read-lines-from-text-file-and.html
+The article has been moved to https://blog.kaustubhk24.com/2021/03/python-to-read-lines-from-text-file-and.html

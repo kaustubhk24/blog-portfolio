@@ -12,4 +12,4 @@ slug: /complete-guide-to-free-blogger-blog/
 
 
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2021/05/complete-guide-to-free-blogger-blog.html
+The article has been moved to https://blog.kaustubhk24.com/2021/05/complete-guide-to-free-blogger-blog.html

@@ -8,38 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-find-factorial-of-number/
 ---
-
-```cpp title="Factorial.cpp" 
-#include   
-using namespace std;  
-int main()  
-{  
- int a,n;  
- cout<<"Enter Number ";  
- cin>>n;  
- /*if(n==0)  
- {  
- cout<<"The Factorial is 1";  
- }  
- else if(n<0)  
- {  
- cout<<"Factorial of negative numbers can't find";  
- }  
- else*/ if(n>0)  
- {  
- int fact=1;  
- for(int i=1;i<=n;i++)  
- {  
- fact=fact*i;  
-   
- }  
- cout<<"The factorial is:";  
- cout<   
-   
- }  
-   
-}  
-  
-  
-
-```
+The article has been moved to https://blog.kaustubhk24.com/2020/08/program-to-find-factorial-of-number.html

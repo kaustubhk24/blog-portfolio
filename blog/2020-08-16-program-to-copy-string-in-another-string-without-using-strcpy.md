@@ -7,4 +7,4 @@ author_url: https://github.com/kaustubhk24
 author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f61?s=200
 slug: /program-to-copy-string-in-another-string-without-using-strcpy/
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2020/08/program-to-copy-string-in-another.html
+The article has been moved to https://blog.kaustubhk24.com/2020/08/program-to-copy-string-in-another.html

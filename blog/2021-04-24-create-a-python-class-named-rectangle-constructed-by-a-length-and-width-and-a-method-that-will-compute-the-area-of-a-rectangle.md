@@ -12,4 +12,4 @@ slug: /create-a-python-class-named-rectangle-constructed-by-a-length-and-width-a
 
 
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2021/04/create-python-class-named-rectangle.html
+The article has been moved to https://blog.kaustubhk24.com/2021/04/create-python-class-named-rectangle.html

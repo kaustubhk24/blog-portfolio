@@ -8,4 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-for-performing-some-addition-sum-product-and-division-operation-on-given-input-and-handle-all-types-of-exceptions-using-attribute-error-value-error-and-division-by-zero-error-etc/
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2021/11/program-for-performing-some-addition.html
+The article has been moved to https://blog.kaustubhk24.com/2021/11/program-for-performing-some-addition.html

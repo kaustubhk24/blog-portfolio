@@ -8,4 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-check-if-given-number-is-prime-or-not/
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2020/08/program-to-check-if-given-number-is.html
+The article has been moved to https://blog.kaustubhk24.com/2020/08/program-to-check-if-given-number-is.html

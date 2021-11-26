@@ -11,4 +11,4 @@ slug: /how-to-create-an-aws-ubuntu-instance-in-5-minutes/
 
 ---
  
-The article has been moved to https://kaustubhk24.blogspot.com/2021/10/how-to-create-aws-ubuntu-instance-in-5.html
+The article has been moved to https://blog.kaustubhk24.com/2021/10/how-to-create-aws-ubuntu-instance-in-5.html

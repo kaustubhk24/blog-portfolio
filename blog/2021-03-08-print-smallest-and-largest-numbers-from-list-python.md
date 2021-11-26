@@ -13,4 +13,4 @@ slug: /print-smallest-and-largest-numbers-from-list-python/
 ---
 
 
-The article has been moved to  https://kaustubhk24.blogspot.com/2021/03/print-smallest-and-largest-numbers-from.html
+The article has been moved to  https://blog.kaustubhk24.com/2021/03/print-smallest-and-largest-numbers-from.html

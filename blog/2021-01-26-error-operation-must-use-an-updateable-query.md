@@ -11,6 +11,6 @@ slug: /error-operation-must-use-an-updateable-query/
 
 
 ---
- The article has been moved to https://kaustubhk24.blogspot.com/2021/01/error-operation-must-use-updateable.html
+ The article has been moved to https://blog.kaustubhk24.com/2021/01/error-operation-must-use-updateable.html
 
 

@@ -8,4 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-creating-a-thread-to-print-the-even-numbers-from-10-to-20-by-using-thread-class/
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2021/05/program-to-creating-thread-to-print.html
+The article has been moved to https://blog.kaustubhk24.com/2021/05/program-to-creating-thread-to-print.html

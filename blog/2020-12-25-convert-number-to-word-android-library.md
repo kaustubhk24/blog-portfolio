@@ -13,4 +13,4 @@ slug: /convert-number-to-word-android-library/
 ---
  
 
-The article has been moved https://kaustubhk24.blogspot.com/2020/12/convert-number-to-word-android-library.html
+The article has been moved to https://blog.kaustubhk24.com/2020/12/convert-number-to-word-android-library.html

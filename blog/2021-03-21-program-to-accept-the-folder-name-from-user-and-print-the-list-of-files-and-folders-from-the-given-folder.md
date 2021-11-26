@@ -8,4 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-accept-the-folder-name-from-user-and-print-the-list-of-files-and-folders-from-the-given-folder/
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2021/03/program-to-accept-folder-name-from-user.html
+The article has been moved to https://blog.kaustubhk24.com/2021/03/program-to-accept-folder-name-from-user.html

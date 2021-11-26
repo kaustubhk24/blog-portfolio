@@ -13,4 +13,4 @@ slug: /write-a-program-to-implement-the-constructor/
 
 
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2021/04/write-program-to-implement-constructor.html
+The article has been moved to https://blog.kaustubhk24.com/2021/04/write-program-to-implement-constructor.html

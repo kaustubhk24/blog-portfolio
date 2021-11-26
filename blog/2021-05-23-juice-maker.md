@@ -10,4 +10,4 @@ slug: /juice-maker/
 ---
  
 
-The article has been moved to https://kaustubhk24.blogspot.com/2021/05/juice-maker.html
+The article has been moved to https://blog.kaustubhk24.com/2021/05/juice-maker.html

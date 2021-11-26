@@ -11,4 +11,4 @@ slug: /print-odd-numbers-from-list/
 
 
 ---
-The article has been moved to  https://kaustubhk24.blogspot.com/2021/03/get-list-as-input-and-print-odd-numbers.html
+The article has been moved to  https://blog.kaustubhk24.com/2021/03/get-list-as-input-and-print-odd-numbers.html

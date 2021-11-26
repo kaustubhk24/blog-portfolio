@@ -8,4 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-perform-various-operatios-of-string-in-python/
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2021/11/program-to-perform-various-operations.html
+The article has been moved to https://blog.kaustubhk24.com/2021/11/program-to-perform-various-operations.html

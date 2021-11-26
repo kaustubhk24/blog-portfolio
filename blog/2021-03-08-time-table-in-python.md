@@ -12,4 +12,4 @@ slug: /time-table-in-python/
 
 ---
  
-The article has been moved to https://kaustubhk24.blogspot.com/2021/03/time-table-in-python.html
+The article has been moved to https://blog.kaustubhk24.com/2021/03/time-table-in-python.html

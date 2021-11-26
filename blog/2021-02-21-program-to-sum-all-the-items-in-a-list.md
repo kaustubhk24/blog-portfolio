@@ -8,4 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-sum-all-the-items-in-a-list/
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2021/02/program-to-sum-all-items-in-list.html
+The article has been moved to https://blog.kaustubhk24.com/2021/02/program-to-sum-all-items-in-list.html

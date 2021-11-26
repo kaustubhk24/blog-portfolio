@@ -13,4 +13,4 @@ slug: /create-a-python-class-named-circle-constructed-by-a-radius-and-two-method
 
 
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2021/04/create-python-class-named-circle.html
+The article has been moved to https://blog.kaustubhk24.com/2021/04/create-python-class-named-circle.html

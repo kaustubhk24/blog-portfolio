@@ -10,4 +10,4 @@ slug: /how-to-add-qr-code-containing-url-on-your-website-for-free/
 
 
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2020/10/how-to-add-qr-code-containing-url-on.html
+The article has been moved to https://blog.kaustubhk24.com/2020/10/how-to-add-qr-code-containing-url-on.html

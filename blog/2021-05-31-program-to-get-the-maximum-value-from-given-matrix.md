@@ -8,4 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-get-the-maximum-value-from-given-matrix/
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2021/05/program-to-get-maximum-value-from-given.html
+The article has been moved to https://blog.kaustubhk24.com/2021/05/program-to-get-maximum-value-from-given.html

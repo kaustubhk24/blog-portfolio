@@ -17,4 +17,4 @@ enclosure:
  video/mp4
  
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2021/11/how-to-make-completely-free-blog.html
+The article has been moved to https://blog.kaustubhk24.com/2021/11/how-to-make-completely-free-blog.html

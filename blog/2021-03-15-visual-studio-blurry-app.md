@@ -13,4 +13,4 @@ slug: /visual-studio-blurry-app/
 
 ---
  
-The article has been moved to https://kaustubhk24.blogspot.com/2021/03/fixed-visual-studio-blurry-app.html
+The article has been moved to https://blog.kaustubhk24.com/2021/03/fixed-visual-studio-blurry-app.html

@@ -8,4 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /function-to-search-and-display-details-of-student-whose-rollno-is-11-from-the-binary-file-student-dat-having-structure-rollno-name-class-and-fees/
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2021/05/function-to-search-and-display-details.html
+The article has been moved to https://blog.kaustubhk24.com/2021/05/function-to-search-and-display-details.html

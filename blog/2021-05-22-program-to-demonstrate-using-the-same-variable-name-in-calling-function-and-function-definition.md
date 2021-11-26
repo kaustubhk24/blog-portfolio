@@ -10,4 +10,4 @@ slug: /program-to-demonstrate-using-the-same-variable-name-in-calling-function-a
 ---
  
 
-The article has been moved to https://kaustubhk24.blogspot.com/2021/11/program-to-demonstrate-using-same.html
+The article has been moved to https://blog.kaustubhk24.com/2021/11/program-to-demonstrate-using-same.html

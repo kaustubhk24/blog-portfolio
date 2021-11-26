@@ -8,4 +8,4 @@ author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f
 
 slug: /program-to-find-biggest-number-among-3/
 ---
-The article has been moved to https://kaustubhk24.blogspot.com/2021/02/program-to-find-biggest-number-among-3.html
+The article has been moved to https://blog.kaustubhk24.com/2021/02/program-to-find-biggest-number-among-3.html
