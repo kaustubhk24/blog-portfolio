@@ -34,4 +34,3 @@ sidebar_position: 3
 * [https://www.nguyen-kai.com/](https://www.nguyen-kai.com/)
 * [Play Developer Account](https://play.google.com/store/apps/developer?id=JustInClicks.com&hl=en_IN&gl=US)
 
-
