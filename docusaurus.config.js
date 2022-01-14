@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Kaustubh Kulkarni',
   tagline: 'Quick Learner, Problem Solver, Open Source Contributor',
-  url: 'https://kaustubhk24.netlify.app/',
+  url: 'https://www.kaustubhk24.com/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
