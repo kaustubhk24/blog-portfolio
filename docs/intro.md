@@ -13,7 +13,7 @@ slug : /
 <br />
 
 :::info Hello There!  
-Hi 👋, I'm  **Kaustubh Kulkarni**,  computer science pg student from Pune University & currently pursuing 3rd year  Master of  Computer Applications.
+Hi 👋, I'm  **Kaustubh Kulkarni**,  computer science post-graduation student from Pune University & currently pursuing 3rd year  Master of  Computer Applications.
 
 Currently working as ServiceNow Developer at DxSherpa Technologies Pvt. Ltd. 
 :::
@@ -25,6 +25,8 @@ Currently working as ServiceNow Developer at DxSherpa Technologies Pvt. Ltd.
   * [hackerrank](https://www.hackerrank.com/kaustubhk24/)
   * [Github](https://www.github.com/kaustubhk24/)
   * [Twitter](https://twitter.com/kaustubhk24)
+  * [Facebook](https://facebook.com/kaustubhk24)
+  * [Instagram](https://instagram.com/kaustubhk24)
     
 ### Languages
   * English
