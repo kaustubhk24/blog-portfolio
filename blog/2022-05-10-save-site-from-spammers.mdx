@@ -1,0 +1,79 @@
+---
+title: How to Save PHP Site From Spammers?
+date: 2022-05-10 
+author: Kaustubh Kulkarni
+author_title: Programmer
+author_url: https://github.com/kaustubhk24
+author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f61?s=200
+slug: /how-to-save-php-site-from-spammers/
+tags:
+  - PHP
+  - Captcha
+---
+
+Nowdays, mostly all of the site/blog owners are frustrated because of spammers, they put spam/phishing links in comments and contact forms also, whenver our geneuine users using site they may face problem because of this.
+
+Now let's see how we can implement this,
+
+```php title="assets/images/captcha.php"
+<?php
+session_start();
+if(isset($_SESSION['captcha']))
+{
+   unset($_SESSION['captcha']); 
+   //removing if captcha already set for session
+}
+
+$string1 = "abcdefghijklmnpqrstuvwxyz";
+$string2 = "123456789";
+
+$string = $string1.$string2;
+//From these 2 random string will be generated
+$string = str_shuffle($string);
+$rand = substr($string,0,5);
+
+$_SESSION['captcha']=$rand;
+//setting new captcha string
+
+/* Create an image in php */
+
+$myimg = imagecreate(100, 30);
+$background = imagecolorallocate($myimg, 199, 144, 225); // background color
+$text_colour = imagecolorallocate ($myimg, 245, 245, 245);      // text color 
+imagestring($myimg,12,25,8,$_SESSION['captcha'],$text_colour); // add captcha code in image 
+header ("Content-type: image/png");
+imagepng ($myimg); // displayed image createde
+imagedestroy($myimg); // remove allocated memory. 
+
+?>
+```
+
+Now on the login page just use one image tag  with src as the path of captcha.php,
+and check the if captcha is valid using the session.
+
+for example.
+
+
+```php title="login-validate.php"
+<?php
+session_start();
+if(isset($_SESSION['captcha']))
+{
+  if($_SESSION['captcha'] == $_POST['captcha']){
+    echo 'valid captcha';
+  }
+  else{
+    echo 'Invalid captcha';
+  }
+    
+}
+else{
+  echo 'Please complete captcha';
+}
+
+
+?>
+```
+
+Now you can easily integrate this code in all of your pages where you expect the input from users.
+
