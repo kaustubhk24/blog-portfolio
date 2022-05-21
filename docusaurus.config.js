@@ -41,21 +41,19 @@ const config = {
 
  
 
-  // ...
-  plugins: [
-    [
-      require.resolve("@cmfcmf/docusaurus-search-local"),
-      {
-        // Options here
-      },
-    ],
-  ],
+  plugins: ['docusaurus-plugin-google-adsense', require.resolve("@cmfcmf/docusaurus-search-local")],
+
 
   
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    (
+      {
+
+        googleAdsense: {
+          dataAdClient: 'ca-pub-7541510388779651',
+        },
       navbar: {
         title: 'Kaustubh Kulkarni',
         // logo: {
@@ -124,6 +122,7 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+
 };
 
 module.exports = config;
