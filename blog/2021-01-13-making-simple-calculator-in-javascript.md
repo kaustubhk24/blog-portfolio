@@ -1,5 +1,5 @@
 ---
-title: Making Simple Calculator in JavaScript
+title: Making Simple Calculator in javaScript
 date: 2021-01-13T15:40:53+00:00
 author: Kaustubh Kulkarni
 author_title: Programmer
@@ -11,7 +11,7 @@ slug: /making-simple-calculator-in-javascript/
 
 
 ---
-In this tutorial we will create imple Calculator in JavaScript 
+In this tutorial we will create imple Calculator in javaScript 
 
 
 

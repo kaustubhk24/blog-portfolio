@@ -1,5 +1,5 @@
 ---
-title: Get List as Input And Print Odd Numbers from List
+title: Get List as input And Print Odd Numbers from List
 date: 2021-03-08T06:36:19+00:00
 author: Kaustubh Kulkarni
 author_title: Programmer
@@ -14,7 +14,7 @@ slug: /print-odd-numbers-from-list/
 In this program we have to take list as input from user and we will print Odd Numbers from list.
 
 ```python title="file.py"
-#Expected Input
+#Expected input
 Enter Number of Elements in List : 3
 Enter Element 1 :7
 Enter Element 2 :2
@@ -34,7 +34,7 @@ Following are the Odd Numbers From List Given
 
 
 ```
-#Expected Input
+#Expected input
 Enter Number of Elements in List : 3
 Enter Element 1 :7
 Enter Element 2 :2
@@ -54,7 +54,7 @@ def printOdd():
         if not num%2==0:
             print(num)
 nums=[] # declaring list
-# Input Number of Elements
+# input Number of Elements
 n=int(input("Enter Number of Elements :"))
 # iterating throgh nums list to get elements run time
 for i in range(1,n+1):

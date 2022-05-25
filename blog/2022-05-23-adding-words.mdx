@@ -1,0 +1,36 @@
+---
+title: Adding Words
+date: 2022-05-23 
+author: Kaustubh Kulkarni
+author_title: Programmer
+author_url: https://github.com/kaustubhk24
+author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f61?s=200
+slug: /adding-words/
+tags:
+  - Python
+  - Coding Question
+  - Array
+---
+
+## Adding Words
+
+You need to write a function that takes multiple words as its argument and returns a concatenated version of those words separated by dashes (-).
+The function should be able to take a varying number of words as the argument.
+
+### Sample input
+this
+is
+great
+
+### Sample Output
+this-is-great
+Recall, using 
+
+```python title="addWords.py"
+
+def concatenate(*args):
+    print('-'.join(args))
+    
+
+print(concatenate("I", "love", "Python", "!"))
+```

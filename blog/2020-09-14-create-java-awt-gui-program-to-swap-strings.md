@@ -1,5 +1,5 @@
 ---
-title: Create Java AWT GUI Program to Swap strings
+title: Create java AWT GUI Program to Swap strings
 date: 2020-09-14T05:06:00+00:00
 author: Kaustubh Kulkarni
 author_title: Programmer

@@ -20,7 +20,7 @@ In this tutorial, we are Going to install the popular [Easy!Appoinments](https:/
 
 ## What is EasyAppointments?
 
-EasyAppointments is [open-source](https://en.wikipedia.org/wiki/Open_source) appointment scheduling system. This system is developed by using [PHP Frameworks](https://en.wikipedia.org/wiki/Php) & database is in [MySQL](https://en.wikipedia.org/wiki/MySQL). 
+EasyAppointments is [open-source](https://en.wikipedia.org/wiki/Open_source) appointment scheduling system. This system is developed by using [php Frameworks](https://en.wikipedia.org/wiki/Php) & database is in [MySQL](https://en.wikipedia.org/wiki/MySQL). 
 
 ## Installation Steps
 

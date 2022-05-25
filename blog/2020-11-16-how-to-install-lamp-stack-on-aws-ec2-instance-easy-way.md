@@ -172,9 +172,9 @@ $ apt install phpmyadmin
 
 You can access PhpMyAdmin at _your_instance_ip_address/phpmyadmin_. View Video Version of this tutorial for more details.
 
-## Installing PHP
+## Installing php
 
-Installing PHP is the last step, Let's complete that too,
+Installing php is the last step, Let's complete that too,
 
 ```cmd title="cmd"
 $ apt install libapache2-mod-php php-mysql

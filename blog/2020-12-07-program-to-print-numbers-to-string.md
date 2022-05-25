@@ -26,4 +26,4 @@ public class numberToWords {
 
 Looking solution to use in Android ? [Checkout here](https://github.com/kaustubhk24/NumberToWords-Library)
 
-Same Program in JavaScript [Checkout here](https://blog.kaustubh.codes/program-to-print-numbers-to-string-in-javascript/)
+Same Program in javaScript [Checkout here](https://blog.kaustubh.codes/program-to-print-numbers-to-string-in-javascript/)

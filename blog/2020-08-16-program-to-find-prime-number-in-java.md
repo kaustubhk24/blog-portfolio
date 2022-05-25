@@ -1,5 +1,5 @@
 ---
-title: Program to Find Prime Number in Java
+title: Program to Find Prime Number in java
 date: 2020-08-16T12:32:00+00:00
 author: Kaustubh Kulkarni
 author_title: Programmer

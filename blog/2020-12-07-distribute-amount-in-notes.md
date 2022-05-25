@@ -1,5 +1,5 @@
 ---
-title: Java Program to Distribute Amount in Notes
+title: java Program to Distribute Amount in Notes
 date: 2020-12-07T16:46:35+00:00
 author: Kaustubh Kulkarni
 author_title: Programmer

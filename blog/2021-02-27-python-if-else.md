@@ -16,7 +16,7 @@ Given an integer, n, perform the following conditional actions:
  * If n is even and in the inclusive range of  6 to 20 , print `Weird`
  * If n is even and greater than 20, print `Not Weird`
 
-**Input Format**
+**input Format**
 
 A single line containing a positive integer, n .
 
@@ -28,7 +28,7 @@ A single line containing a positive integer, n .
 
 Print `Weird` if the number is weird. Otherwise, print `Not Weird`.
 
-**Sample Input 0**
+**Sample input 0**
 
 
 ```
@@ -51,7 +51,7 @@ Weird
 n=3 
  n is odd and odd numbers are weird, so print `Weird`.
 
-**Sample Input 1**
+**Sample input 1**
 
 
 ```

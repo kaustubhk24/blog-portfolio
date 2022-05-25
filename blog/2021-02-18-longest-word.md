@@ -10,7 +10,7 @@ slug: /longest-word/
 ---
 Given a text as input, find and output the longest word. 
  
-**Sample Input** 
+**Sample input** 
 this is an awesome text 
  
 **Sample Output** 
@@ -32,7 +32,7 @@ print(max(arr, key=len))
 ```
 
 ```python title="file.py"
-Input:
+input:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
 Output:
 consectetur

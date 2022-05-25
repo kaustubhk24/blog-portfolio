@@ -10,8 +10,8 @@ slug: /transpose-matrix/
 ---
 
 Given a matrix, find the transpose of a matrix. 
-```java title="Input"
-Input 
+```java title="input"
+input 
     2 
     4 
     1 2 3 4 
@@ -58,7 +58,7 @@ public class DriverMain {
 ```
 ** Output > **
 ```java title="output"
-Input
+input
 
 2
 4

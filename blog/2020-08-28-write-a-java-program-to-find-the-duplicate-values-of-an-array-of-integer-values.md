@@ -1,5 +1,5 @@
 ---
-title: Write a Java program to find the duplicate values of an array of integer values.
+title: Write a java program to find the duplicate values of an array of integer values.
 date: 2020-08-28T15:56:00+00:00
 author: Kaustubh Kulkarni
 author_title: Programmer

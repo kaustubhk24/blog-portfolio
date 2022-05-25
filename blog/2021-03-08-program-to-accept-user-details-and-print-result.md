@@ -13,7 +13,7 @@ You have to write program to Accept student details Like Name, Marks ( Maths, Ch
 **For Example :**
 
 ```python title="file.py"
-Input
+input
 1 # Number of Users
 33 # Physics Marks
 44 # Chemistry Marks
@@ -54,9 +54,9 @@ def getData():
  for i in range(1,n+1):
  user={}
  user["Name"]=input("Enter student Name :")
- user["Physics"]=checkInput(int(input("Enter Physics Marks :")))
- user["Chemistry"]=checkInput(int(input("Enter chemistry Marks :")))
- user["Maths"]=checkInput(int(input("Enter math Marks :")))
+ user["Physics"]=checkinput(int(input("Enter Physics Marks :")))
+ user["Chemistry"]=checkinput(int(input("Enter chemistry Marks :")))
+ user["Maths"]=checkinput(int(input("Enter math Marks :")))
  percentage=((user["Physics"]+user["Chemistry"]+user["Maths"])*100)/300
  user["Percent"]=round(float(percentage),2)
  user["Result"]=checkResult(user)
@@ -75,11 +75,11 @@ def checkResult(usr):
 def addUser(usr):
  data.append(usr)
  print("Data added successfully !!!")
-def checkInput(marks):
+def checkinput(marks):
  if marks <= 100 and marks>=0:
  return marks
  else:
- return checkInput(int(input("Please Do not enter Marks More than 100 and Less than 0\nPlease Enter Marks Again : ")))
+ return checkinput(int(input("Please Do not enter Marks More than 100 and Less than 0\nPlease Enter Marks Again : ")))
 def printData():
  print("_________________________________________________________________________________________________________")
  print('{:30s}{:15s}{:15s}{:15s}{:17s}{:19s} '.format("Name","Physics","Chemistry","Maths","Percent[%]","Result"))

@@ -45,7 +45,7 @@ fifthLecture='14:40:00'
 fifthLectureEnd='15:40:00'
 Lectures=[firstLecture,secondLecture,thirdLecture,fourthLecture,fifthLecture]
 # 0 1 2 3 4 5 6 7 8 9
-subjects=['HTML','VB.NET','Python','C++','Java', 'No Lecture','Case Study','Python Practical','Android','Guest Lecture']
+subjects=['HTML','VB.NET','Python','C++','java', 'No Lecture','Case Study','Python Practical','Android','Guest Lecture']
 schedule=[
  # Sunday 0
 {

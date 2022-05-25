@@ -1,5 +1,5 @@
 ---
-title: Java Program for Calculator Operations Using AWT Controls
+title: java Program for Calculator Operations Using AWT Controls
 date: 2020-11-24T03:13:15+00:00
 author: Kaustubh Kulkarni
 author_title: Programmer

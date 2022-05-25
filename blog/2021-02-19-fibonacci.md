@@ -14,7 +14,7 @@ For example, here is the Fibonacci sequence for 10 numbers, starting from 0: 0,1
 
 Write a program to take N (variable num in code template) positive numbers as input, and recursively calculate and output the first N numbers of the Fibonacci sequence (starting from 0).
 
-**Sample Input** 
+**Sample input** 
 6
 
 **Sample Output** 
@@ -50,7 +50,7 @@ else:
 ```
 
 ```python title="file.py"
-Input:
+input:
 7
 Output:
 1

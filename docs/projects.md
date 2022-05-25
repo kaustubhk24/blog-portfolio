@@ -19,7 +19,7 @@ sidebar_position: 3
 * [Grocery Shop Management System](https://www.youtube.com/watch?v=Y5iD7DEz9GE)
 * [Dairy Management System](https://www.youtube.com/watch?v=Q77TwteCeLA)
 * [Hospital Management System](https://www.youtube.com/watch?v=xCcWizlaAk4)
-* [Java Compile & Run](https://www.youtube.com/watch?v=kO0_j7VGLs8)
+* [java Compile & Run](https://www.youtube.com/watch?v=kO0_j7VGLs8)
 * [Book Store System](https://www.youtube.com/watch?v=9gBfm6FtnMI)
 * [JioFi Helper](https://www.youtube.com/watch?v=Ay0XiWDIT_s)
 * [Tic Tac Toe VB.NET](https://www.youtube.com/watch?v=HuHevUAhmQM)

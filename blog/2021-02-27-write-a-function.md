@@ -24,7 +24,7 @@ Given a year, determine whether it is a leap year. If it is a leap year, return 
 
 Note that the code stub provided reads from STDIN and passes arguments to the `__leap` function. It is only necessary to complete the_is_leap` function.
 
-**Input Format**
+**input Format**
 
 Read year, the year to test.
 
@@ -38,7 +38,7 @@ Read year, the year to test.
 
 The function must return a Boolean value (True/False). Output is handled by the provided code stub.
 
-**Sample Input 0**
+**Sample input 0**
 
 
 ```

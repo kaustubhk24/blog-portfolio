@@ -1,5 +1,5 @@
 ---
-title: 'Write a program to demonstrate Java Swing components such as JPasswordField, JCheckbox, JTextField, JList JRadioButton.'
+title: 'Write a program to demonstrate java Swing components such as JPasswordField, JCheckbox, JTextField, JList JRadioButton.'
 date: 2020-10-04T12:46:00+00:00
 author: Kaustubh Kulkarni
 author_title: Programmer
@@ -21,7 +21,7 @@ slug: /write-a-program-to-demonstrate-java-swing-components-such-as-jpasswordfie
 ```java title="javaSwing.java" 
   
 /**  
-* Q 1) Write a program to demonstrate Java Swing components such as  
+* Q 1) Write a program to demonstrate java Swing components such as  
 * JPasswordField,  
 * JCheckbox,  
 * JTextField,  

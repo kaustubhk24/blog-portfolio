@@ -1,5 +1,5 @@
 ---
-title: Program to Print Numbers to String in Javascript
+title: Program to Print Numbers to String in javascript
 date: 2021-01-02T08:33:56+00:00
 author: Kaustubh Kulkarni
 author_title: Programmer
@@ -10,7 +10,7 @@ slug: /program-to-print-numbers-to-string-in-javascript/
 ---
  
 
-Javascript Program to Print Numbers to String .
+javascript Program to Print Numbers to String .
 
 ```js title="print.js"
 function convertNumberToWords(amount) {
@@ -99,4 +99,4 @@ function convertNumberToWords(amount) {
 
 Looking solution to use in Android ? [Checkout here](https://github.com/kaustubhk24/NumberToWords-Library)
 
-Same Program in Java [Checkout here](https://blog.kaustubh.codes/program-to-print-numbers-to-string/)
+Same Program in java [Checkout here](https://blog.kaustubh.codes/program-to-print-numbers-to-string/)

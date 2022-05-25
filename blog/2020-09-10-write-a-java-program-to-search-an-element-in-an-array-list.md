@@ -1,5 +1,5 @@
 ---
-title: Write a Java program to search an element in an array list.
+title: Write a java program to search an element in an array list.
 date: 2020-09-10T08:33:00+00:00
 author: Kaustubh Kulkarni
 author_title: Programmer

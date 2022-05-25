@@ -1,5 +1,5 @@
 ---
-title: Write a Java program to get an element in a tree set which is strictly less than the given element
+title: Write a java program to get an element in a tree set which is strictly less than the given element
 date: 2020-09-10T08:37:00+00:00
 author: Kaustubh Kulkarni
 author_title: Programmer

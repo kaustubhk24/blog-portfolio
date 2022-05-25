@@ -1,5 +1,5 @@
 ---
-title: Write a Java program which shows how to get the name of a running thread?
+title: Write a java program which shows how to get the name of a running thread?
 date: 2020-09-01T08:41:00+00:00
 author: Kaustubh Kulkarni
 author_title: Programmer
@@ -12,7 +12,7 @@ slug: /write-a-java-program-which-shows-how-to-get-the-name-of-a-running-thread/
 ```java title="getThreadName.java" 
   
 /**  
- *   Q1 Write a Java program which shows how to get the name of a running thread?  
+ *   Q1 Write a java program which shows how to get the name of a running thread?  
  */  
   
 class getThreadName extends Thread{    

@@ -1,5 +1,5 @@
 ---
-title: Write a Java program to use the try and catch and finally block.
+title: Write a java program to use the try and catch and finally block.
 date: 2020-08-28T15:58:00+00:00
 author: Kaustubh Kulkarni
 author_title: Programmer

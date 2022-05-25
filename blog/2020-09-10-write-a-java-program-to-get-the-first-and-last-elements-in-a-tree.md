@@ -1,5 +1,5 @@
 ---
-title: Write a Java program to get the first and last elements in a tree
+title: Write a java program to get the first and last elements in a tree
 date: 2020-09-10T08:36:00+00:00
 author: Kaustubh Kulkarni
 author_title: Programmer

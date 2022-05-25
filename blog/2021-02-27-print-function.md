@@ -22,7 +22,7 @@ n=5
 
 Print the string12345.
 
-**Input Format**
+**input Format**
 
 The first line contains an integer n.
 
@@ -34,7 +34,7 @@ The first line contains an integer n.
 
 Print the list of integers from1throughn as a string, without spaces.
 
-**Sample Input 0**
+**Sample input 0**
 
 
 ```

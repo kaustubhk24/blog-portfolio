@@ -1,5 +1,5 @@
 ---
-title: Program to Find Largest Number from Given Numbers in Java
+title: Program to Find Largest Number from Given Numbers in java
 date: 2020-08-16T12:30:00+00:00
 author: Kaustubh Kulkarni
 author_title: Programmer

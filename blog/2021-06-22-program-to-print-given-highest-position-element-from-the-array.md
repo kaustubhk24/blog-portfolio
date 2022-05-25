@@ -15,15 +15,15 @@ slug: /program-to-print-given-highest-position-element-from-the-array/
 Suppose you have an array of numbers and you have to create a function that will accept 2 parameters an array and rank, you have to print the highest rank number from the array to know more read the example below.
 
 ** Example :**
-```python title="Example Input"
-Input
+```python title="Example input"
+input
 arr=array(10,25,55,66,48,33,22,13,98,95,96)
 rank=2
 Then Output should be 2nd highest element of array i.e. 96
 ```
 ** Example 2>**
-```python title="Example Input 2"
-Input
+```python title="Example input 2"
+input
 arr=array(10,25,55,66,48,33,22,13,98,95,96)
 rank=3
 Then Output should be 3rd highest element of array i.e. 96
@@ -40,7 +40,7 @@ If you get similar question with another logic like find nth smallest element fr
 
 please read programs below for reference.
 
-```php title="Program in PHP"
+```php title="Program in php"
 <?php
 function getByRank($arr,$place)
 {
@@ -59,8 +59,8 @@ def getByRank(arr,pos):
 arr=[12,15,96,98,55,65,33,22]
 getByRank(arr,3)
 ```
-** Java Code > **
-```Java title="Program in Java"
+** java Code > **
+```java title="Program in java"
 import java.util.Collections;
 import java.util.Arrays;
 public class HelloWorld{

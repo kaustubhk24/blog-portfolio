@@ -149,7 +149,7 @@ int main()
 	while(ch!=-1)
 	{
 		cout<<"n----Menu----"<<endl;
-		cout<<"1.Input Restricted Queue"<<endl;
+		cout<<"1.input Restricted Queue"<<endl;
 		cout<<"2.Output Restricted Queue"<<endl;
 		cout<<"3.Exit"<<endl;
 		cout<<"Enter a choice:";
@@ -159,7 +159,7 @@ int main()
 			case 1:
 				while(ch1!=-1)
 				{
-						cout<<"n--Input Restricted Queue--"<<endl;
+						cout<<"n--input Restricted Queue--"<<endl;
 						cout<<"1.Add at Rear."<<endl;
 						cout<<"2.Delete from Front."<<endl;
 						cout<<"3.Delete from Rear."<<endl;
@@ -188,7 +188,7 @@ int main()
 			case 2:
 					while(ch2!=-1)
 				{
-						cout<<"n--Input Restricted Queue--"<<endl;
+						cout<<"n--input Restricted Queue--"<<endl;
 						cout<<"1.Add at Rear."<<endl;
 						cout<<"2.Add at Front."<<endl;
 						cout<<"3.Delete from Front."<<endl;

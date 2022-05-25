@@ -26,7 +26,7 @@ The list of non-negative integers that are less than n=3  is [0,1,2] . Print the
 ```
 
 
-**Input Format**
+**input Format**
 
 The first and only line contains the integer, n .
 
@@ -38,7 +38,7 @@ The first and only line contains the integer, n .
 
 Print n lines, one corresponding to each i.
 
-**Sample Input 0**
+**Sample input 0**
 
 
 ```

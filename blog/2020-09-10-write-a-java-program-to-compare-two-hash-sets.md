@@ -1,5 +1,5 @@
 ---
-title: Write a Java program to compare two hash sets.
+title: Write a java program to compare two hash sets.
 date: 2020-09-10T08:35:00+00:00
 author: Kaustubh Kulkarni
 author_title: Programmer

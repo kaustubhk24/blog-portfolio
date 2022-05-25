@@ -1,5 +1,5 @@
 ---
-title: Write a Java Program to raise NullPointerException
+title: Write a java Program to raise NullPointerException
 date: 2020-08-28T15:59:00+00:00
 author: Kaustubh Kulkarni
 author_title: Programmer

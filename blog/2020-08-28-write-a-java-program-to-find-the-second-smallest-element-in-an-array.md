@@ -1,5 +1,5 @@
 ---
-title: Write a Java program to find the second smallest element in an array.
+title: Write a java program to find the second smallest element in an array.
 date: 2020-08-28T15:57:00+00:00
 author: Kaustubh Kulkarni
 author_title: Programmer

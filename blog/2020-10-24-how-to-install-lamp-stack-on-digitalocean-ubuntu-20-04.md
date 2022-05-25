@@ -117,7 +117,7 @@ Next step we will install PhpMyAdmin
 
 ## Installing PhpMyAdmin
 
-Like other software we installed. PHP My admin is also has similar and tricky installation
+Like other software we installed. php My admin is also has similar and tricky installation
 
 ```cmd title="cmd"
 $ apt install phpmyadmin

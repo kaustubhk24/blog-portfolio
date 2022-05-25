@@ -43,8 +43,8 @@ print(result)
 ```
 
 ```python title="Output"
-Input
-No Input
+input
+No input
 Your Output
 Orange&Apple (3.5L)
 Expected Output

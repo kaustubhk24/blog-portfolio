@@ -87,7 +87,7 @@ Now Open Your **MainActivity.xml** and remove complete code from there and paste
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 
-Now we will write code in **MainActivity.Java**. Paste this code inside **onCreate()**. check screenshot<figure class="wp-block-image size-large"
+Now we will write code in **MainActivity.java**. Paste this code inside **onCreate()**. check screenshot<figure class="wp-block-image size-large"
 ![Convert Number To Word Android Library](https://kaustubhk24.netlify.app/imgs/wp-content/uploads/2020/12/image-10.png) 
 
 ```java title="MainActivity.java"
