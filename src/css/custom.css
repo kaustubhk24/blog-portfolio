@@ -28,5 +28,5 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 #my-image {
-  border: 10px solid rgb(143, 43, 143);
+  border: 1px solid rgb(143, 43, 143);
 }

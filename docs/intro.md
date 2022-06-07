@@ -13,7 +13,7 @@ slug : /
 <br />
 
 :::info Hello There!  
-Hi 👋, I'm  **Kaustubh Kulkarni**,  computer science post-graduation student from Pune University & currently pursuing 3rd year  Master of  Computer Applications.
+Hi 👋, I'm  **Kaustubh Kulkarni**,  computer science post-graduate student from Pune University.
 
 Currently working as ServiceNow Developer at DxSherpa Technologies Pvt. Ltd. 
 :::
