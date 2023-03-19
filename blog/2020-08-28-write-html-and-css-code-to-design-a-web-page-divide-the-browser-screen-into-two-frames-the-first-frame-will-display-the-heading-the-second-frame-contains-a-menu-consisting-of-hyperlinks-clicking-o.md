@@ -1,10 +1,7 @@
 ---
 title: Write HTML and CSS code to design a web page. Divide the browser screen into two frames. The first frame will display the heading. The second frame contains a menu consisting of hyperlinks. Clicking on any one of these hyperlinks will display related information in a new page as shown below. Use Internal style sheet with appropriate attributes to display information of each frame
 date: 2020-08-28T15:47:00+00:00
-author: Kaustubh Kulkarni
-author_title: Programmer
-author_url: https://github.com/kaustubhk24
-author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f61?s=200
+authors: kaustubh
 
 slug: /write-html-and-css-code-to-design-a-web-page-divide-the-browser-screen-into-two-frames-the-first-frame-will-display-the-heading-the-second-frame-contains-a-menu-consisting-of-hyperlinks-clicking-o/
 ---

@@ -2,10 +2,7 @@
 title: Program for Binary Search in CPP
 slug: /program-for-binary-search-in-cpp/
 date: 2020-08-16T11:42:00+00:00
-author: Kaustubh Kulkarni
-author_title: Programmer
-author_url: https://github.com/kaustubhk24
-author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f61?s=200
+authors: kaustubh
 ---
 ```cpp title="Binary.cpp"
 #include<iostream>

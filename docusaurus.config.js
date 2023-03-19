@@ -13,8 +13,17 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'kaustubhk24', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
+
+
+  // Even if you don't use internalization, you can use this field to set useful
+  // metadata like html lang. For example, if your site is Chinese, you may want
+  // to replace "en" with "zh-Hans".
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en'],
+  },
 
   presets: [
     [
@@ -23,13 +32,20 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          routeBasePath: '/',
+                    routeBasePath: '/',
+
           // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
         },
         blog: {
           showReadingTime: true,
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: 'My All Posts',
+          postsPerPage: 10,
+
           // Please change this to your repo.
-                },
+          // Remove this to remove the "edit this page" links.
+          },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -37,23 +53,20 @@ const config = {
     ],
   ],
 
-  
-
- 
-
-  plugins: ['docusaurus-plugin-google-adsense', require.resolve("@cmfcmf/docusaurus-search-local")],
-
-
-  
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    (
-      {
-
-        googleAdsense: {
-          dataAdClient: 'ca-pub-7541510388779651',
-        },
+    ({
+      announcementBar: {
+        id: 'please_wait',
+        content:
+          'Update 19/03/2023 - Search option will be available in next release.',
+        backgroundColor: '#F08080',
+        textColor: '#FFFFFF',
+        isCloseable: true,
+      },
+      // Replace with your project's social card
+      image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Kaustubh Kulkarni',
         // logo: {
@@ -117,12 +130,15 @@ const config = {
         ],
         copyright: `Copyright © ${new Date().getFullYear()} KaustubhK24.`,
       },
+      
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
-
+    
+    
+    
 };
 
 module.exports = config;

@@ -1,10 +1,7 @@
 ---
 title: 'Write a java program to replace all the "d" characters with "f" characters. input :  The quick brown fox jumps over the lazy dog '
 date: 2020-08-28T15:57:00+00:00
-author: Kaustubh Kulkarni
-author_title: Programmer
-author_url: https://github.com/kaustubhk24
-author_image_url: https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f61?s=200
+authors: kaustubh
 
 slug: /write-a-java-program-to-replace-all-the-d-characters-with-f-characters-input-the-quick-brown-fox-jumps-over-the-lazy-dog/
 ---
