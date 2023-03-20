@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: kaustubhk24/blog-portfolio
   branch: main # Branch to update (optional; defaults to master)
 media_folder: 'uploads'
 collections:
