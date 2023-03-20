@@ -88,7 +88,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/kaustubhk24/',
             label: 'GitHub',
             position: 'right',
           },
