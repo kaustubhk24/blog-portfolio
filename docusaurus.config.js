@@ -53,20 +53,19 @@ const config = {
     ],
   ],
 
-
+  plugins: ['@docusaurus/plugin-ideal-image'],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      announcementBar: {
-        id: 'please_wait',
-        content:
-          'Update 19/03/2023 - Search option will be available in next release.',
-        backgroundColor: '#F08080',
-        textColor: '#FFFFFF',
-        isCloseable: true,
-      },
+      // announcementBar: {
+      //   id: 'please_wait',
+      //   content:
+      //     'Update 19/03/2023 - Search option will be available in next release.',
+      //   backgroundColor: '#F08080',
+      //   textColor: '#FFFFFF',
+      //   isCloseable: true,
+      // },
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Kaustubh Kulkarni',
         // logo: {
