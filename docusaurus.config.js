@@ -66,7 +66,9 @@ const config = {
       //   isCloseable: true,
       // },
       // Replace with your project's social card
+      
       navbar: {
+        style:'primary',
         title: 'Kaustubh Kulkarni',
         // logo: {
         //   alt: 'My Site Logo',
@@ -81,7 +83,8 @@ const config = {
             label: 'About',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-        
+          {to: '/blog/archive', label: 'Blog Archive', position: 'left'},
+
           {
             href: 'https://kaustubhk24.netlify.app/Downloads/Kaustubh-Kulkarni.pdf',
             label: ' Resume',
