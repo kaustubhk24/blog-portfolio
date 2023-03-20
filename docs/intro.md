@@ -20,9 +20,6 @@ Currently working as ServiceNow Developer at DxSherpa Technologies Pvt. Ltd.
 
 
 ### Connect 
-
-
-
   * [LinkedIn](https://www.linkedin.com/in/kaustubhk24/)
   * [hackerrank](https://www.hackerrank.com/kaustubhk24/)
   * [Github](https://www.github.com/kaustubhk24/)

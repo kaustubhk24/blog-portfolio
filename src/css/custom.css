@@ -23,7 +23,10 @@
   src: url('/static/fonts/Sen-Regular.woff') format('woff');
 }
 
-
+.navbar{
+  background-color: aliceblue;
+}
+#my-image{border-radius: 100px;}
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
   --ifm-color-primary: #1A90FF;
