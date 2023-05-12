@@ -113,7 +113,7 @@ const config = {
             label: 'About',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/blog/archive', label: 'Blog Archive', position: 'left'},
+          {to: '/blog/archive', label: 'Archive', position: 'left'},
 
           {
             href: 'https://kaustubhk24.netlify.app/Downloads/Kaustubh-Kulkarni.pdf',
