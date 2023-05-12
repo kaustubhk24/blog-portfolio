@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkaustubh=self.webpackChunkkaustubh||[]).push([[23816],{42625:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/service-now","page":1,"postsPerPage":10,"totalPages":2,"totalCount":15,"nextPage":"/blog/tags/service-now/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

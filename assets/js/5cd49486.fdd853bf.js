@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkaustubh=self.webpackChunkkaustubh||[]).push([[89932],{77683:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/personal","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
