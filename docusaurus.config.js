@@ -53,10 +53,14 @@ const config = {
     ],
   ],
 
-  plugins: ['@docusaurus/plugin-ideal-image'],
+  plugins: ['@docusaurus/plugin-ideal-image','docusaurus-plugin-google-adsense'],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    (
+      {
+        googleAdsense: {
+          dataAdClient: 'ca-pub-7541510388779651',
+        },
       // announcementBar: {
       //   id: 'please_wait',
       //   content:
@@ -86,7 +90,7 @@ const config = {
           from: '/docs/', // or as RegExp: /\/docs\//
           to: '/',
         },
-  
+       
         // Optional: Algolia search parameters
         searchParameters: {},
   
