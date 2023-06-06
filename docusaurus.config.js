@@ -117,6 +117,7 @@ const config = {
             label: 'About',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/Open%20Source/projects', label: 'Open Source', position: 'left'},
           {to: '/blog/archive', label: 'Archive', position: 'left'},
 
           {
