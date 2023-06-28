@@ -17,6 +17,11 @@ sidebar_position: 4
 |ServiceNow Workflow  | 22-Apr-2023|  DxSherpa Blog | [View](https://www.dxsherpa.com/blogs/servicenow-workflow/)|
 |ServiceNow Flow Designer  | 20-Apr-2023|  DxSherpa Blog | [View](https://www.dxsherpa.com/blogs/servicenow-flow-designer/)|
 
+## 2022
+|    Title    | Date | Platform    | Link |
+| --------- | ---------------------- | -----|------ |
+|Scheduled Import From Google Sheets|04-09-2022| ServiceNow Community|[View](https://www.servicenow.com/community/developer-articles/scheduled-import-from-google-sheets/ta-p/2322099)|
+
 
 ## 2021
 |    Title    | Date | Platform    | Link |

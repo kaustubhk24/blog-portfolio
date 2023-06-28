@@ -8,7 +8,7 @@ slug : /
 ### About Me
 
 <div align="center">
-  <img id="my-image" src="https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f61?s=200" />
+  <img id="my-image" src="https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f61?s=300" />
 </div>
 <br />
 
@@ -21,6 +21,7 @@ Currently working as ServiceNow Developer at DxSherpa Technologies Pvt. Ltd.
 
 ### Connect 
   * [LinkedIn](https://www.linkedin.com/in/kaustubhk24/)
+  * [ServiceNow Community](https://www.servicenow.com/community/user/viewprofilepage/user-id/273446)
   * [hackerrank](https://www.hackerrank.com/kaustubhk24/)
   * [Github](https://www.github.com/kaustubhk24/)
   * [Twitter](https://twitter.com/kaustubhk24)
