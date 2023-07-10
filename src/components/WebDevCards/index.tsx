@@ -7,7 +7,7 @@ import Link from '@docusaurus/Link';
 const WebDevCards = [
   
   {
-    name: 'ServiceNow Certified System Administrator',
+    name: 'ServiceNow Certified System Administrator (CSA)',
     image: 'https://nowlearning.servicenow.com/badge_image_ecc55feddb9a7700760a7104399619ed.svg',
     url: {
       page: '#',
@@ -17,7 +17,7 @@ const WebDevCards = [
     
   },
   {
-    name: 'Certified Implementation Specialist - Vulnerability Response',
+    name: 'Certified Implementation Specialist - Vulnerability Response (CIS-VR)',
     image: 'https://nowlearning.servicenow.com/badge_image_ecc55feddb9a7700760a7104399619ed.svg',
     url: {
       page: '#',
