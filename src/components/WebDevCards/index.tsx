@@ -7,6 +7,26 @@ import Link from '@docusaurus/Link';
 const WebDevCards = [
   
   {
+    name: 'ServiceNow Certified System Administrator',
+    image: 'https://nowlearning.servicenow.com/badge_image_ecc55feddb9a7700760a7104399619ed.svg',
+    url: {
+      page: '#',
+    },
+    description: 
+       'November 09, 2022 - Completion Date'
+    
+  },
+  {
+    name: 'Certified Implementation Specialist - Vulnerability Response',
+    image: 'https://nowlearning.servicenow.com/badge_image_ecc55feddb9a7700760a7104399619ed.svg',
+    url: {
+      page: '#',
+    },
+    description: 
+       'July 10, 2023 - Completion Date'
+    
+  },
+  {
     name: 'Micro-Certification - Integration Hub',
     image: 'https://nowlearning.servicenow.com/badge_image_5132c835db5e7700760a710439961918.svg',
     url: {
@@ -80,16 +100,7 @@ const WebDevCards = [
        'March 19, 2023 - Completion Date'
     
   },
-  {
-    name: 'ServiceNow Certified System Administrator',
-    image: 'https://nowlearning.servicenow.com/badge_image_ecc55feddb9a7700760a7104399619ed.svg',
-    url: {
-      page: '#',
-    },
-    description: 
-       'November 09, 2022 - Completion Date'
-    
-  },
+
 
 ];
 

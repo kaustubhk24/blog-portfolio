@@ -8,7 +8,7 @@ slug : /
 ### About Me
 
 <div align="center">
-  <img id="my-image" src="https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f61?s=300" />
+  <img id="my-image" src="https://www.gravatar.com/avatar/b76fcfc82fc2e8fdc8075636f1735f61?s=200" />
 </div>
 <br />
 
