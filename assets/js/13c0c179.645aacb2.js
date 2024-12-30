@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkaustubh=self.webpackChunkkaustubh||[]).push([[21855],{73743:a=>{a.exports=JSON.parse('{"label":"Scam Alert","permalink":"/blog/tags/scam-alert","allTagsPath":"/blog/tags","count":1}')}}]);

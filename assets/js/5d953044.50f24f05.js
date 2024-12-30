@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkaustubh=self.webpackChunkkaustubh||[]).push([[2273],{27951:a=>{a.exports=JSON.parse('{"label":"ATF","permalink":"/blog/tags/atf","allTagsPath":"/blog/tags","count":1}')}}]);

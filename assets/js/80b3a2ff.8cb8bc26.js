@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkaustubh=self.webpackChunkkaustubh||[]).push([[48514],{47226:a=>{a.exports=JSON.parse('{"label":"Personal","permalink":"/blog/tags/personal","allTagsPath":"/blog/tags","count":1}')}}]);

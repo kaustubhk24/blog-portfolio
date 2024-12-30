@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkaustubh=self.webpackChunkkaustubh||[]).push([[89820],{89551:a=>{a.exports=JSON.parse('{"label":"Captcha","permalink":"/blog/tags/captcha","allTagsPath":"/blog/tags","count":1}')}}]);
