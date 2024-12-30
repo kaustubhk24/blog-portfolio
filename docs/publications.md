@@ -1,13 +1,14 @@
 ---
-id: External publications
-title: External Publications
-sidebar_position: 4
+id:  publications
+title:  Publications
+hide_title : true
+sidebar_position: 3
 
 ---
 
-# External Publications
+###  Publications
 
-##  2023
+####  2023
 
 |    Title    | Date  | Platform  | Link |
 | --------- | -----------------|----- |----------- |
@@ -17,13 +18,8 @@ sidebar_position: 4
 |ServiceNow Workflow  | 22-Apr-2023|  DxSherpa Blog | [View](https://www.dxsherpa.com/blogs/servicenow-workflow/)|
 |ServiceNow Flow Designer  | 20-Apr-2023|  DxSherpa Blog | [View](https://www.dxsherpa.com/blogs/servicenow-flow-designer/)|
 
-## 2022
+#### 2022
 |    Title    | Date | Platform    | Link |
 | --------- | ---------------------- | -----|------ |
 |Scheduled Import From Google Sheets|04-09-2022| ServiceNow Community|[View](https://www.servicenow.com/community/developer-articles/scheduled-import-from-google-sheets/ta-p/2322099)|
 
-
-## 2021
-|    Title    | Date | Platform    | Link |
-| --------- | ---------------------- | -----|------ |
-|How To Use GUI in DigitalOcean Droplet? — 2 Easy Steps | 17-Mar-2021 | Medium Blog | [View](https://kaustubhk24.medium.com/how-to-use-gui-in-digitalocean-droplet-2-easy-steps-swayalgo-36073163bed9)|

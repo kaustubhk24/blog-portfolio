@@ -13,27 +13,19 @@ slug : /
 <br />
 
 :::info Hello There!  
-Hi 👋, I'm  **Kaustubh Kulkarni**,  computer science post-graduate student from Pune University.
+👋 Hi, I'm **Kaustubh Kulkarni**, a computer science professional from Pune, India.
+I specialize in ServiceNow development and hold certifications including CIS-VR, CSA, and CAD. With hands-on experience of 3+ years.
 
-Currently working as ServiceNow Developer at DxSherpa Technologies Pvt. Ltd. 
 :::
 
 
-### Connect 
+### Say Hi
   * [LinkedIn](https://www.linkedin.com/in/kaustubhk24/)
   * [ServiceNow Community](https://www.servicenow.com/community/user/viewprofilepage/user-id/273446)
   * [hackerrank](https://www.hackerrank.com/kaustubhk24/)
   * [Github](https://www.github.com/kaustubhk24/)
-  * [Twitter](https://twitter.com/kaustubhk24)
-  * [Facebook](https://facebook.com/kaustubhk24)
-  * [Instagram](https://instagram.com/kaustubhk24)
     
-### Languages
+### Languages - I can speak
   * English
   * Hindi
   * Marathi
-### Hobbies
-  * Chess
-  * Listening Indian Music
-  * Cricket
-  * Swimming
